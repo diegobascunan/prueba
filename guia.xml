@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Fox Classics FHD">
+    <display-name lang="es">Fox Classics FHD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_classics-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201208003700 -0300" stop="20201208025400 -0300" channel="Fox Classics FHD">
+    <title lang="es">Alejandro Magno</title>
+  </programme>
+  <programme start="20201208025400 -0300" stop="20201208042500 -0300" channel="Fox Classics FHD">
+    <title lang="es">Colosos del mar</title>
+  </programme>
+  <programme start="20201208042500 -0300" stop="20201208064300 -0300" channel="Fox Classics FHD">
+    <title lang="es">Tora! Tora! Tora</title>
+  </programme>
+  <programme start="20201208064300 -0300" stop="20201208082000 -0300" channel="Fox Classics FHD">
+    <title lang="es">El Precio de la Deshonra</title>
+  </programme>
+  <programme start="20201208082000 -0300" stop="20201208100700 -0300" channel="Fox Classics FHD">
+    <title lang="es">Canción de Navidad</title>
+  </programme>
+  <programme start="20201208100700 -0300" stop="20201208114400 -0300" channel="Fox Classics FHD">
+    <title lang="es">Los malos</title>
+  </programme>
+  <programme start="20201208114400 -0300" stop="20201208134300 -0300" channel="Fox Classics FHD">
+    <title lang="es">El desconocido</title>
+  </programme>
+  <programme start="20201208134300 -0300" stop="20201208150700 -0300" channel="Fox Classics FHD">
+    <title lang="es">La Redada</title>
+  </programme>
+  <programme start="20201208150700 -0300" stop="20201208173200 -0300" channel="Fox Classics FHD">
+    <title lang="es">Domingo negro</title>
+  </programme>
+  <programme start="20201208173200 -0300" stop="20201208192100 -0300" channel="Fox Classics FHD">
+    <title lang="es">¡Ataque</title>
+  </programme>
+  <programme start="20201208192100 -0300" stop="20201208210000 -0300" channel="Fox Classics FHD">
+    <title lang="es">Yo soy la ley</title>
+  </programme>
+  <programme start="20201208210000 -0300" stop="20201208230300 -0300" channel="Fox Classics FHD">
+    <title lang="es">El valor del miedo</title>
+  </programme>
+  <programme start="20201208230300 -0300" stop="20201209005400 -0300" channel="Fox Classics FHD">
+    <title lang="es">El Último Comando</title>
+  </programme>
+  <programme start="20201209230300 -0300" stop="20201210005400 -0300" channel="Fox Classics FHD">
+    <title lang="es">El Último Comando</title>
+  </programme>
+  <programme start="20201210005400 -0300" stop="20201210022900 -0300" channel="Fox Classics FHD">
+    <title lang="es">Un tren al infierno</title>
+  </programme>
+  <programme start="20201210022900 -0300" stop="20201210040800 -0300" channel="Fox Classics FHD">
+    <title lang="es">Escape del planeta de los sim</title>
+  </programme>
+  <programme start="20201210040800 -0300" stop="20201210052700 -0300" channel="Fox Classics FHD">
+    <title lang="es">Invasores de Marte</title>
+  </programme>
+  <programme start="20201210052700 -0300" stop="20201210073100 -0300" channel="Fox Classics FHD">
+    <title lang="es">Furia de Alaska</title>
+  </programme>
+  <programme start="20201210073100 -0300" stop="20201210084200 -0300" channel="Fox Classics FHD">
+    <title lang="es">El Texano Solitario</title>
+  </programme>
+  <programme start="20201210084200 -0300" stop="20201210102900 -0300" channel="Fox Classics FHD">
+    <title lang="es">El Cielo fue Testigo</title>
+  </programme>
+  <programme start="20201210102900 -0300" stop="20201210121100 -0300" channel="Fox Classics FHD">
+    <title lang="es">La isla misteriosa</title>
+  </programme>
+  <programme start="20201210121100 -0300" stop="20201210143700 -0300" channel="Fox Classics FHD">
+    <title lang="es">Tora! Tora! Tora</title>
+  </programme>
+  <programme start="20201210143700 -0300" stop="20201210161100 -0300" channel="Fox Classics FHD">
+    <title lang="es">Los Justicieros del Oeste</title>
+  </programme>
+  <programme start="20201210161100 -0300" stop="20201210174300 -0300" channel="Fox Classics FHD">
+    <title lang="es">Los Guerreros</title>
+  </programme>
+  <programme start="20201210174300 -0300" stop="20201210210000 -0300" channel="Fox Classics FHD">
+    <title lang="es">Reds</title>
+  </programme>
+  <programme start="20201210210000 -0300" stop="20201210225600 -0300" channel="Fox Classics FHD">
+    <title lang="es">Alíen, el Octavo Pasajero</title>
+  </programme>
+  <programme start="20201210225600 -0300" stop="20201211002900 -0300" channel="Fox Classics FHD">
+    <title lang="es">Cujo</title>
+  </programme>
+  <programme start="20201211225600 -0300" stop="20201212002900 -0300" channel="Fox Classics FHD">
+    <title lang="es">Cujo</title>
+  </programme>
+  <programme start="20201212002900 -0300" stop="20201212025400 -0300" channel="Fox Classics FHD">
+    <title lang="es">Domingo negro</title>
+  </programme>
+  <programme start="20201212025400 -0300" stop="20201212043700 -0300" channel="Fox Classics FHD">
+    <title lang="es">Nick, al Rojo Vivo</title>
+  </programme>
+  <programme start="20201212043700 -0300" stop="20201212071400 -0300" channel="Fox Classics FHD">
+    <title lang="es">Hatari</title>
+  </programme>
+  <programme start="20201212071400 -0300" stop="20201212085200 -0300" channel="Fox Classics FHD">
+    <title lang="es">Lo que la tierra hereda</title>
+  </programme>
+  <programme start="20201212085200 -0300" stop="20201212094700 -0300" channel="Fox Classics FHD">
+    <title lang="es">Canción de Navidad</title>
+  </programme>
+  <programme start="20201212094700 -0300" stop="20201212122900 -0300" channel="Fox Classics FHD">
+    <title lang="es">Anatomía de un asesinato</title>
+  </programme>
+  <programme start="20201212122900 -0300" stop="20201212134800 -0300" channel="Fox Classics FHD">
+    <title lang="es">Invasores de Marte</title>
+  </programme>
+  <programme start="20201212134800 -0300" stop="20201212155100 -0300" channel="Fox Classics FHD">
+    <title lang="es">Furia de Alaska</title>
+  </programme>
+  <programme start="20201212155100 -0300" stop="20201212173000 -0300" channel="Fox Classics FHD">
+    <title lang="es">Escape del planeta de los sim</title>
+  </programme>
+  <programme start="20201212173000 -0300" stop="20201212210000 -0300" channel="Fox Classics FHD">
+    <title lang="es">La guerra y la paz</title>
+  </programme>
+  <programme start="20201212210000 -0300" stop="20201212222400 -0300" channel="Fox Classics FHD">
+    <title lang="es">La Redada</title>
+  </programme>
+  <programme start="20201212222400 -0300" stop="20201213001300 -0300" channel="Fox Classics FHD">
+    <title lang="es">¡Ataque</title>
+  </programme>
+</tv>
