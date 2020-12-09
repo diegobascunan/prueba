@@ -1,0 +1,946 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CDF Básico">
+    <display-name lang="es">CDF Básico</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_basico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CDF HD 1">
+    <display-name lang="es">CDF HD 1</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CDF HD 2">
+    <display-name lang="es">CDF HD 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CDF 2k 3">
+    <display-name lang="es">CDF 2k 3</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CDF HD 4">
+    <display-name lang="es">CDF HD 4</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CDF SD 5">
+    <display-name lang="es">CDF SD 5</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CDF SD 6">
+    <display-name lang="es">CDF SD 6</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CDF SD 7">
+    <display-name lang="es">CDF SD 7</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201209012500 -0300" stop="20201209125000 -0300" channel="CDF Básico">
+    <title lang="es">CDF</title>
+  </programme>
+  <programme start="20201209125000 -0300" stop="20201209140000 -0300" channel="CDF Básico">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201209140000 -0300" stop="20201209160000 -0300" channel="CDF Básico">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209160000 -0300" stop="20201209180000 -0300" channel="CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209180000 -0300" stop="20201209190000 -0300" channel="CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209200000 -0300" channel="CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209200000 -0300" stop="20201209210000 -0300" channel="CDF Básico">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209210000 -0300" stop="20201210060000 -0300" channel="CDF Básico">
+    <title lang="es">CDF</title>
+  </programme>
+  <programme start="20201210060000 -0300" stop="20201210065500 -0300" channel="CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201210065500 -0300" stop="20201210140000 -0300" channel="CDF Básico">
+    <title lang="es">CDF</title>
+  </programme>
+  <programme start="20201210190000 -0300" stop="20201210210000 -0300" channel="CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201210210000 -0300" stop="20201211060000 -0300" channel="CDF Básico">
+    <title lang="es">CDF</title>
+  </programme>
+  <programme start="20201211060000 -0300" stop="20201211070000 -0300" channel="CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211070000 -0300" stop="20201211090000 -0300" channel="CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211090000 -0300" stop="20201211140000 -0300" channel="CDF Básico">
+    <title lang="es">CDF</title>
+  </programme>
+  <programme start="20201211140000 -0300" stop="20201211160000 -0300" channel="CDF Básico">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211160000 -0300" stop="20201211180000 -0300" channel="CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201211180000 -0300" stop="20201211190000 -0300" channel="CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211190000 -0300" stop="20201211210000 -0300" channel="CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201212070000 -0300" stop="20201212190000 -0300" channel="CDF Básico">
+    <title lang="es">CDF</title>
+  </programme>
+  <programme start="20201212190000 -0300" stop="20201213070000 -0300" channel="CDF Básico">
+    <title lang="es">CDF</title>
+  </programme>
+  <programme start="20201209012500 -0300" stop="20201209022000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209022000 -0300" stop="20201209041000 -0300" channel="CDF HD 1">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209041000 -0300" stop="20201209055000 -0300" channel="CDF HD 1">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209055000 -0300" stop="20201209060000 -0300" channel="CDF HD 1">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209060000 -0300" stop="20201209070000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209090000 -0300" channel="CDF HD 1">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209090000 -0300" stop="20201209113000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209113000 -0300" stop="20201209140000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209140000 -0300" stop="20201209160000 -0300" channel="CDF HD 1">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209160000 -0300" stop="20201209180000 -0300" channel="CDF HD 1">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209180000 -0300" stop="20201209190000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209200000 -0300" channel="CDF HD 1">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209200000 -0300" stop="20201209210000 -0300" channel="CDF HD 1">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209210000 -0300" stop="20201209224500 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209224500 -0300" stop="20201210011000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201210224500 -0300" stop="20201211011000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211011000 -0300" stop="20201211021000 -0300" channel="CDF HD 1">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211021000 -0300" stop="20201211031000 -0300" channel="CDF HD 1">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211031000 -0300" stop="20201211040500 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211040500 -0300" stop="20201211060000 -0300" channel="CDF HD 1">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211060000 -0300" stop="20201211063000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211063000 -0300" stop="20201211090000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211113000 -0300" stop="20201211123000 -0300" channel="CDF HD 1">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211123000 -0300" stop="20201211140000 -0300" channel="CDF HD 1">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211140000 -0300" stop="20201211160000 -0300" channel="CDF HD 1">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211160000 -0300" stop="20201211180000 -0300" channel="CDF HD 1">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201211180000 -0300" stop="20201211190000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211190000 -0300" stop="20201211210000 -0300" channel="CDF HD 1">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211210000 -0300" stop="20201211223000 -0300" channel="CDF HD 1">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211223000 -0300" stop="20201212010000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201212223000 -0300" stop="20201213010000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213010000 -0300" stop="20201213030000 -0300" channel="CDF HD 1">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213030000 -0300" stop="20201213040000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213040000 -0300" stop="20201213060000 -0300" channel="CDF HD 1">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201213060000 -0300" stop="20201213070000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213090000 -0300" channel="CDF HD 1">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213113000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213113000 -0300" stop="20201213140000 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213210000 -0300" stop="20201213232500 -0300" channel="CDF HD 1">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213232500 -0300" stop="20201214002500 -0300" channel="CDF HD 1">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209012500 -0300" stop="20201209022000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209022000 -0300" stop="20201209041000 -0300" channel="CDF HD 2">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209041000 -0300" stop="20201209055000 -0300" channel="CDF HD 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209055000 -0300" stop="20201209060000 -0300" channel="CDF HD 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209060000 -0300" stop="20201209070000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209090000 -0300" channel="CDF HD 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209090000 -0300" stop="20201209113000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209113000 -0300" stop="20201209140000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209140000 -0300" stop="20201209160000 -0300" channel="CDF HD 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209160000 -0300" stop="20201209180000 -0300" channel="CDF HD 2">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209180000 -0300" stop="20201209190000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209200000 -0300" channel="CDF HD 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209200000 -0300" stop="20201209210000 -0300" channel="CDF HD 2">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209210000 -0300" stop="20201209224500 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209224500 -0300" stop="20201210011000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201210224500 -0300" stop="20201211011000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211011000 -0300" stop="20201211021000 -0300" channel="CDF HD 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211021000 -0300" stop="20201211031000 -0300" channel="CDF HD 2">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211031000 -0300" stop="20201211040500 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211040500 -0300" stop="20201211060000 -0300" channel="CDF HD 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211060000 -0300" stop="20201211063000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211063000 -0300" stop="20201211090000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211113000 -0300" stop="20201211123000 -0300" channel="CDF HD 2">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211123000 -0300" stop="20201211140000 -0300" channel="CDF HD 2">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211140000 -0300" stop="20201211160000 -0300" channel="CDF HD 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211160000 -0300" stop="20201211180000 -0300" channel="CDF HD 2">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201211180000 -0300" stop="20201211190000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211190000 -0300" stop="20201211210000 -0300" channel="CDF HD 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211210000 -0300" stop="20201211223000 -0300" channel="CDF HD 2">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211223000 -0300" stop="20201212010000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201212223000 -0300" stop="20201213010000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213010000 -0300" stop="20201213030000 -0300" channel="CDF HD 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213030000 -0300" stop="20201213040000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213040000 -0300" stop="20201213060000 -0300" channel="CDF HD 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201213060000 -0300" stop="20201213070000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213090000 -0300" channel="CDF HD 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213113000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213113000 -0300" stop="20201213140000 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213210000 -0300" stop="20201213232500 -0300" channel="CDF HD 2">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213232500 -0300" stop="20201214002500 -0300" channel="CDF HD 2">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209012500 -0300" stop="20201209022000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209022000 -0300" stop="20201209041000 -0300" channel="CDF 2k 3">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209041000 -0300" stop="20201209055000 -0300" channel="CDF 2k 3">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209055000 -0300" stop="20201209060000 -0300" channel="CDF 2k 3">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209060000 -0300" stop="20201209070000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209090000 -0300" channel="CDF 2k 3">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209090000 -0300" stop="20201209113000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209113000 -0300" stop="20201209140000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209140000 -0300" stop="20201209160000 -0300" channel="CDF 2k 3">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209160000 -0300" stop="20201209180000 -0300" channel="CDF 2k 3">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209180000 -0300" stop="20201209190000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209200000 -0300" channel="CDF 2k 3">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209200000 -0300" stop="20201209210000 -0300" channel="CDF 2k 3">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209210000 -0300" stop="20201209224500 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209224500 -0300" stop="20201210011000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201210224500 -0300" stop="20201211011000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211011000 -0300" stop="20201211021000 -0300" channel="CDF 2k 3">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211021000 -0300" stop="20201211031000 -0300" channel="CDF 2k 3">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211031000 -0300" stop="20201211040500 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211040500 -0300" stop="20201211060000 -0300" channel="CDF 2k 3">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211060000 -0300" stop="20201211063000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211063000 -0300" stop="20201211090000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211113000 -0300" stop="20201211123000 -0300" channel="CDF 2k 3">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211123000 -0300" stop="20201211140000 -0300" channel="CDF 2k 3">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211140000 -0300" stop="20201211160000 -0300" channel="CDF 2k 3">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211160000 -0300" stop="20201211180000 -0300" channel="CDF 2k 3">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201211180000 -0300" stop="20201211190000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211190000 -0300" stop="20201211210000 -0300" channel="CDF 2k 3">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211210000 -0300" stop="20201211223000 -0300" channel="CDF 2k 3">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211223000 -0300" stop="20201212010000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201212223000 -0300" stop="20201213010000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213010000 -0300" stop="20201213030000 -0300" channel="CDF 2k 3">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213030000 -0300" stop="20201213040000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213040000 -0300" stop="20201213060000 -0300" channel="CDF 2k 3">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201213060000 -0300" stop="20201213070000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213090000 -0300" channel="CDF 2k 3">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213113000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213113000 -0300" stop="20201213140000 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213210000 -0300" stop="20201213232500 -0300" channel="CDF 2k 3">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213232500 -0300" stop="20201214002500 -0300" channel="CDF 2k 3">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209012500 -0300" stop="20201209022000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209022000 -0300" stop="20201209041000 -0300" channel="CDF HD 4">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209041000 -0300" stop="20201209055000 -0300" channel="CDF HD 4">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209055000 -0300" stop="20201209060000 -0300" channel="CDF HD 4">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209060000 -0300" stop="20201209070000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209090000 -0300" channel="CDF HD 4">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209090000 -0300" stop="20201209113000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209113000 -0300" stop="20201209140000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209140000 -0300" stop="20201209160000 -0300" channel="CDF HD 4">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209160000 -0300" stop="20201209180000 -0300" channel="CDF HD 4">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209180000 -0300" stop="20201209190000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209200000 -0300" channel="CDF HD 4">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209200000 -0300" stop="20201209210000 -0300" channel="CDF HD 4">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209210000 -0300" stop="20201209224500 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209224500 -0300" stop="20201210011000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201210224500 -0300" stop="20201211011000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211011000 -0300" stop="20201211021000 -0300" channel="CDF HD 4">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211021000 -0300" stop="20201211031000 -0300" channel="CDF HD 4">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211031000 -0300" stop="20201211040500 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211040500 -0300" stop="20201211060000 -0300" channel="CDF HD 4">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211060000 -0300" stop="20201211063000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211063000 -0300" stop="20201211090000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211113000 -0300" stop="20201211123000 -0300" channel="CDF HD 4">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211123000 -0300" stop="20201211140000 -0300" channel="CDF HD 4">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211140000 -0300" stop="20201211160000 -0300" channel="CDF HD 4">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211160000 -0300" stop="20201211180000 -0300" channel="CDF HD 4">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201211180000 -0300" stop="20201211190000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211190000 -0300" stop="20201211210000 -0300" channel="CDF HD 4">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211210000 -0300" stop="20201211223000 -0300" channel="CDF HD 4">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211223000 -0300" stop="20201212010000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201212223000 -0300" stop="20201213010000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213010000 -0300" stop="20201213030000 -0300" channel="CDF HD 4">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213030000 -0300" stop="20201213040000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213040000 -0300" stop="20201213060000 -0300" channel="CDF HD 4">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201213060000 -0300" stop="20201213070000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213090000 -0300" channel="CDF HD 4">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213113000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213113000 -0300" stop="20201213140000 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213210000 -0300" stop="20201213232500 -0300" channel="CDF HD 4">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213232500 -0300" stop="20201214002500 -0300" channel="CDF HD 4">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209012500 -0300" stop="20201209022000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209022000 -0300" stop="20201209041000 -0300" channel="CDF SD 5">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209041000 -0300" stop="20201209055000 -0300" channel="CDF SD 5">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209055000 -0300" stop="20201209060000 -0300" channel="CDF SD 5">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209060000 -0300" stop="20201209070000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209090000 -0300" channel="CDF SD 5">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209090000 -0300" stop="20201209113000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209113000 -0300" stop="20201209140000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209140000 -0300" stop="20201209160000 -0300" channel="CDF SD 5">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209160000 -0300" stop="20201209180000 -0300" channel="CDF SD 5">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209180000 -0300" stop="20201209190000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209200000 -0300" channel="CDF SD 5">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209200000 -0300" stop="20201209210000 -0300" channel="CDF SD 5">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209210000 -0300" stop="20201209224500 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209224500 -0300" stop="20201210011000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201210224500 -0300" stop="20201211011000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211011000 -0300" stop="20201211021000 -0300" channel="CDF SD 5">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211021000 -0300" stop="20201211031000 -0300" channel="CDF SD 5">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211031000 -0300" stop="20201211040500 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211040500 -0300" stop="20201211060000 -0300" channel="CDF SD 5">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211060000 -0300" stop="20201211063000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211063000 -0300" stop="20201211090000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211113000 -0300" stop="20201211123000 -0300" channel="CDF SD 5">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211123000 -0300" stop="20201211140000 -0300" channel="CDF SD 5">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211140000 -0300" stop="20201211160000 -0300" channel="CDF SD 5">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211160000 -0300" stop="20201211180000 -0300" channel="CDF SD 5">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201211180000 -0300" stop="20201211190000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211190000 -0300" stop="20201211210000 -0300" channel="CDF SD 5">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211210000 -0300" stop="20201211223000 -0300" channel="CDF SD 5">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211223000 -0300" stop="20201212010000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201212223000 -0300" stop="20201213010000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213010000 -0300" stop="20201213030000 -0300" channel="CDF SD 5">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213030000 -0300" stop="20201213040000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213040000 -0300" stop="20201213060000 -0300" channel="CDF SD 5">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201213060000 -0300" stop="20201213070000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213090000 -0300" channel="CDF SD 5">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213113000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213113000 -0300" stop="20201213140000 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213210000 -0300" stop="20201213232500 -0300" channel="CDF SD 5">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213232500 -0300" stop="20201214002500 -0300" channel="CDF SD 5">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209012500 -0300" stop="20201209022000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209022000 -0300" stop="20201209041000 -0300" channel="CDF SD 6">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209041000 -0300" stop="20201209055000 -0300" channel="CDF SD 6">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209055000 -0300" stop="20201209060000 -0300" channel="CDF SD 6">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209060000 -0300" stop="20201209070000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209090000 -0300" channel="CDF SD 6">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209090000 -0300" stop="20201209113000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209113000 -0300" stop="20201209140000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209140000 -0300" stop="20201209160000 -0300" channel="CDF SD 6">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209160000 -0300" stop="20201209180000 -0300" channel="CDF SD 6">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209180000 -0300" stop="20201209190000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209200000 -0300" channel="CDF SD 6">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209200000 -0300" stop="20201209210000 -0300" channel="CDF SD 6">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209210000 -0300" stop="20201209224500 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209224500 -0300" stop="20201210011000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201210224500 -0300" stop="20201211011000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211011000 -0300" stop="20201211021000 -0300" channel="CDF SD 6">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211021000 -0300" stop="20201211031000 -0300" channel="CDF SD 6">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211031000 -0300" stop="20201211040500 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211040500 -0300" stop="20201211060000 -0300" channel="CDF SD 6">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211060000 -0300" stop="20201211063000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211063000 -0300" stop="20201211090000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211113000 -0300" stop="20201211123000 -0300" channel="CDF SD 6">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211123000 -0300" stop="20201211140000 -0300" channel="CDF SD 6">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211140000 -0300" stop="20201211160000 -0300" channel="CDF SD 6">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211160000 -0300" stop="20201211180000 -0300" channel="CDF SD 6">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201211180000 -0300" stop="20201211190000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211190000 -0300" stop="20201211210000 -0300" channel="CDF SD 6">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211210000 -0300" stop="20201211223000 -0300" channel="CDF SD 6">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211223000 -0300" stop="20201212010000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201212223000 -0300" stop="20201213010000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213010000 -0300" stop="20201213030000 -0300" channel="CDF SD 6">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213030000 -0300" stop="20201213040000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213040000 -0300" stop="20201213060000 -0300" channel="CDF SD 6">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201213060000 -0300" stop="20201213070000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213090000 -0300" channel="CDF SD 6">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213113000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213113000 -0300" stop="20201213140000 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213210000 -0300" stop="20201213232500 -0300" channel="CDF SD 6">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213232500 -0300" stop="20201214002500 -0300" channel="CDF SD 6">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209012500 -0300" stop="20201209022000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209022000 -0300" stop="20201209041000 -0300" channel="CDF SD 7">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209041000 -0300" stop="20201209055000 -0300" channel="CDF SD 7">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209055000 -0300" stop="20201209060000 -0300" channel="CDF SD 7">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209060000 -0300" stop="20201209070000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209090000 -0300" channel="CDF SD 7">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209090000 -0300" stop="20201209113000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209113000 -0300" stop="20201209140000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209140000 -0300" stop="20201209160000 -0300" channel="CDF SD 7">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201209160000 -0300" stop="20201209180000 -0300" channel="CDF SD 7">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201209180000 -0300" stop="20201209190000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209200000 -0300" channel="CDF SD 7">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201209200000 -0300" stop="20201209210000 -0300" channel="CDF SD 7">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209210000 -0300" stop="20201209224500 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201209224500 -0300" stop="20201210011000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201210224500 -0300" stop="20201211011000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211011000 -0300" stop="20201211021000 -0300" channel="CDF SD 7">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211021000 -0300" stop="20201211031000 -0300" channel="CDF SD 7">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211031000 -0300" stop="20201211040500 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211040500 -0300" stop="20201211060000 -0300" channel="CDF SD 7">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211060000 -0300" stop="20201211063000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211063000 -0300" stop="20201211090000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201211113000 -0300" stop="20201211123000 -0300" channel="CDF SD 7">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201211123000 -0300" stop="20201211140000 -0300" channel="CDF SD 7">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211140000 -0300" stop="20201211160000 -0300" channel="CDF SD 7">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201211160000 -0300" stop="20201211180000 -0300" channel="CDF SD 7">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20201211180000 -0300" stop="20201211190000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201211190000 -0300" stop="20201211210000 -0300" channel="CDF SD 7">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201211210000 -0300" stop="20201211223000 -0300" channel="CDF SD 7">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20201211223000 -0300" stop="20201212010000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201212223000 -0300" stop="20201213010000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213010000 -0300" stop="20201213030000 -0300" channel="CDF SD 7">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213030000 -0300" stop="20201213040000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213040000 -0300" stop="20201213060000 -0300" channel="CDF SD 7">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20201213060000 -0300" stop="20201213070000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213090000 -0300" channel="CDF SD 7">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213113000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213113000 -0300" stop="20201213140000 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213210000 -0300" stop="20201213232500 -0300" channel="CDF SD 7">
+    <title lang="es">CDF Premium</title>
+  </programme>
+  <programme start="20201213232500 -0300" stop="20201214002500 -0300" channel="CDF SD 7">
+    <title lang="es">Pasaporte Qatar</title>
+  </programme>
+</tv>
