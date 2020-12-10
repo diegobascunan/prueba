@@ -1,0 +1,839 @@
+#EXTM3U url-tvg="https://epg.best/11f92-nyzos5.xml" x-tvg-url="https://epg.best/11f92-nyzos5.xml"
+#EXTINF:-1 tvg-id="" tvg-name="PPV Eventos 1" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinema.png" tvg-chno="1" channel-id="1" group-title="PPV Eventos",PPV Eventos 1
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/48648
+#EXTINF:-1 tvg-id="" tvg-name="PPV Eventos 2" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinema.png" tvg-chno="2" channel-id="2" group-title="PPV Eventos",PPV Eventos 2
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/47436
+#EXTINF:-1 tvg-id="" tvg-name="PPV Eventos 3" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinema.png" tvg-chno="3" channel-id="3" group-title="PPV Eventos",PPV Eventos 3
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/63306
+#EXTINF:-1 tvg-id="" tvg-name="31 Minutos A" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="91" channel-id="91" group-title="Canales 247",31 Minutos A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59551
+#EXTINF:-1 tvg-id="" tvg-name="31 Minutos B" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="92" channel-id="92" group-title="Canales 247",31 Minutos B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59552
+#EXTINF:-1 tvg-id="" tvg-name="Aaahh Real Monsters" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="89" channel-id="89" group-title="Canales 247",Aaahh Real Monsters
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59553
+#EXTINF:-1 tvg-id="" tvg-name="Alf" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="86" channel-id="86" group-title="Canales 247",Alf
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59555
+#EXTINF:-1 tvg-id="" tvg-name="Animaniacs A" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="87" channel-id="87" group-title="Canales 247",Animaniacs A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59556
+#EXTINF:-1 tvg-id="" tvg-name="Animaniacs B" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="88" channel-id="88" group-title="Canales 247",Animaniacs B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6166
+#EXTINF:-1 tvg-id="" tvg-name="Batman Animado" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="93" channel-id="93" group-title="Canales 247",Batman Animado
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6237
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja A" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="98" channel-id="98" group-title="Canales 247",Bob Esponja A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59559
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja B" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="99" channel-id="99" group-title="Canales 247",Bob Esponja B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6284
+#EXTINF:-1 tvg-id="" tvg-name="Camaras Escondidas TV" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="100" channel-id="100" group-title="Canales 247",Camaras Escondidas TV
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59548
+#EXTINF:-1 tvg-id="" tvg-name="Casado con Hijos" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="95" channel-id="95" group-title="Canales 247",Casado con Hijos
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/34092
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="96" channel-id="96" group-title="Canales 247",Chespirito
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59647
+#EXTINF:-1 tvg-id="" tvg-name="Chicas Superpoderosas" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="85" channel-id="85" group-title="Canales 247",Chicas Superpoderosas
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59561
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Accion Classics" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="73" channel-id="73" group-title="Canales 247",Cinema Accion Classics
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59503
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Anime" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="70" channel-id="70" group-title="Canales 247",Cinema Anime
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59504
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Ciencia Ficcion" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="71" channel-id="71" group-title="Canales 247",Cinema Ciencia Ficcion
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59505
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Comedia" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="72" channel-id="72" group-title="Canales 247",Cinema Comedia
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59506
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Comedia Este" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="77" channel-id="77" group-title="Canales 247",Cinema Comedia Este
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59507
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Comics" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="82" channel-id="82" group-title="Canales 247",Cinema DC Comics
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59508
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="83" channel-id="83" group-title="Canales 247",Cinema DC Universe
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59509
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="84" channel-id="84" group-title="Canales 247",Cinema Disney Family
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59510
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Live Action" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="81" channel-id="81" group-title="Canales 247",Cinema Disney Live Action
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59524
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="78" channel-id="78" group-title="Canales 247",Cinema Disney Pixar
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59511
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Princess" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="79" channel-id="79" group-title="Canales 247",Cinema Disney Princess
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59525
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dreamworks" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="80" channel-id="80" group-title="Canales 247",Cinema Dreamworks
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59512
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="101" channel-id="101" group-title="Canales 247",Cinema Familia
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59513
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="119" channel-id="119" group-title="Canales 247",Cinema Horror
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59516
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror Classics" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="120" channel-id="120" group-title="Canales 247",Cinema Horror Classics
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59515
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Lego Movies" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="121" channel-id="121" group-title="Canales 247",Cinema Lego Movies
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59517
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Animated" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="116" channel-id="116" group-title="Canales 247",Cinema Marvel Animated
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59518
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="117" channel-id="117" group-title="Canales 247",Cinema Marvel Studios
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59519
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios Este" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="118" channel-id="118" group-title="Canales 247",Cinema Marvel Studios Este
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59520
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios Oeste" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="122" channel-id="122" group-title="Canales 247",Cinema Marvel Studios Oeste
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59521
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Navidad" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="126" channel-id="126" group-title="Canales 247",Cinema Navidad
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59522
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project Mix" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="128" channel-id="128" group-title="Canales 247",Classic Project Mix
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6969
+#EXTINF:-1 tvg-id="" tvg-name="Cocina Abierta" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="125" channel-id="125" group-title="Canales 247",Cocina Abierta
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59538
+#EXTINF:-1 tvg-id="" tvg-name="Cocina Real" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="115" channel-id="115" group-title="Canales 247",Cocina Real
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59540
+#EXTINF:-1 tvg-id="" tvg-name="Coyote y el Correcaminos" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="106" channel-id="106" group-title="Canales 247",Coyote y el Correcaminos
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/36148
+#EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="107" channel-id="107" group-title="Canales 247",Death Note
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59564
+#EXTINF:-1 tvg-id="" tvg-name="Detective Conan" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="110" channel-id="110" group-title="Canales 247",Detective Conan
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59565
+#EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="109" channel-id="109" group-title="Canales 247",Digimon
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/36672
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="114" channel-id="114" group-title="Canales 247",Dinosaurios
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59566
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="31" channel-id="31" group-title="Canales 247",Doraemon
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59567
+#EXTINF:-1 tvg-id="" tvg-name="Dos Perros Tontos" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="27" channel-id="27" group-title="Canales 247",Dos Perros Tontos
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59550
+#EXTINF:-1 tvg-id="" tvg-name="Dos Perros Tontos 2" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="28" channel-id="28" group-title="Canales 247",Dos Perros Tontos 2
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/7103
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball A" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="18" channel-id="18" group-title="Canales 247",Dragon Ball A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59569
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball B" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="7" channel-id="7" group-title="Canales 247",Dragon Ball B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59570
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="8" channel-id="8" group-title="Canales 247",Dragon Ball GT
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59571
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Movies" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="9" channel-id="9" group-title="Canales 247",Dragon Ball Movies
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6521
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="5" channel-id="5" group-title="Canales 247",Dragon Ball Super
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/36386
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super Saga 1 Batalla de los Dioses" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="4" channel-id="4" group-title="Canales 247",Dragon Ball Super Saga 1 Batalla de los Dioses
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59572
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super Saga 2 Universo 6" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="15" channel-id="15" group-title="Canales 247",Dragon Ball Super Saga 2 Universo 6
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59573
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super Saga 3 Supervivencia" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="14" channel-id="14" group-title="Canales 247",Dragon Ball Super Saga 3 Supervivencia
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59574
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Movies" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="11" channel-id="11" group-title="Canales 247",Dragon Ball Z Movies
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59575
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga 1 Saiyajin" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="10" channel-id="10" group-title="Canales 247",Dragon Ball Z Saga 1 Saiyajin
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/32620
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga 2 Namukusein" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="12" channel-id="12" group-title="Canales 247",Dragon Ball Z Saga 2 Namukusein
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/34093
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga 3 Freezer" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="13" channel-id="13" group-title="Canales 247",Dragon Ball Z Saga 3 Freezer
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/34101
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga 4 Androides" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="16" channel-id="16" group-title="Canales 247",Dragon Ball Z Saga 4 Androides
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/34123
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga 5 Cell" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="17" channel-id="17" group-title="Canales 247",Dragon Ball Z Saga 5 Cell
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/34124
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga 6 Torneo Cell" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="6" channel-id="6" group-title="Canales 247",Dragon Ball Z Saga 6 Torneo Cell
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/34128
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga 7 Torneo Mundial" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="58" channel-id="58" group-title="Canales 247",Dragon Ball Z Saga 7 Torneo Mundial
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/34130
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga 8 Majin Boo" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="57" channel-id="57" group-title="Canales 247",Dragon Ball Z Saga 8 Majin Boo
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/34131
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga 9 Kid Boo" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="60" channel-id="60" group-title="Canales 247",Dragon Ball Z Saga 9 Kid Boo
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/34132
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="59" channel-id="59" group-title="Canales 247",El Chavo del 8
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59646
+#EXTINF:-1 tvg-id="" tvg-name="El Laboratorio de Dexter A" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="53" channel-id="53" group-title="Canales 247",El Laboratorio de Dexter A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59577
+#EXTINF:-1 tvg-id="" tvg-name="El Laboratorio de Dexter B" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="52" channel-id="52" group-title="Canales 247",El Laboratorio de Dexter B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6414
+#EXTINF:-1 tvg-id="" tvg-name="Fenomenoide A" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="41" channel-id="41" group-title="Canales 247",Fenomenoide A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59583
+#EXTINF:-1 tvg-id="" tvg-name="Fenomenoide B" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="38" channel-id="38" group-title="Canales 247",Fenomenoide B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6418
+#EXTINF:-1 tvg-id="" tvg-name="Futurama A" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="45" channel-id="45" group-title="Canales 247",Futurama A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59584
+#EXTINF:-1 tvg-id="" tvg-name="Futurama B" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="46" channel-id="46" group-title="Canales 247",Futurama B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6447
+#EXTINF:-1 tvg-id="" tvg-name="Garfield" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="43" channel-id="43" group-title="Canales 247",Garfield
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6416
+#EXTINF:-1 tvg-id="" tvg-name="Gato Felix" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="44" channel-id="44" group-title="Canales 247",Gato Felix
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6417
+#EXTINF:-1 tvg-id="" tvg-name="Gato Tom" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="47" channel-id="47" group-title="Canales 247",Gato Tom
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/7106
+#EXTINF:-1 tvg-id="" tvg-name="Happy Three Friends" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="50" channel-id="50" group-title="Canales 247",Happy Three Friends
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59587
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="51" channel-id="51" group-title="Canales 247",Hey Arnold
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6092
+#EXTINF:-1 tvg-id="" tvg-name="Hora de Aventuras" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="48" channel-id="48" group-title="Canales 247",Hora de Aventuras
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6442
+#EXTINF:-1 tvg-id="" tvg-name="Inuyasha" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="49" channel-id="49" group-title="Canales 247",Inuyasha
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/36674
+#EXTINF:-1 tvg-id="" tvg-name="Jimmy Neutron" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="36" channel-id="36" group-title="Canales 247",Jimmy Neutron
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59590
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Bravo" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="37" channel-id="37" group-title="Canales 247",Johnny Bravo
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59591
+#EXTINF:-1 tvg-id="" tvg-name="Jovenes Titanes" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="34" channel-id="34" group-title="Canales 247",Jovenes Titanes
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6439
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="35" channel-id="35" group-title="Canales 247",Kung Fu Panda
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59592
+#EXTINF:-1 tvg-id="" tvg-name="La Vida Moderna De Rocko" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="42" channel-id="42" group-title="Canales 247",La Vida Moderna De Rocko
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6436
+#EXTINF:-1 tvg-id="" tvg-name="Le Temes a la Oscuridad" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="39" channel-id="39" group-title="Canales 247",Le Temes a la Oscuridad
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6435
+#EXTINF:-1 tvg-id="" tvg-name="Lilo y Stitch" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="40" channel-id="40" group-title="Canales 247",Lilo y Stitch
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59599
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="63" channel-id="63" group-title="Canales 247",Looney Tunes
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59604
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes Show" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="64" channel-id="64" group-title="Canales 247",Looney Tunes Show
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59605
+#EXTINF:-1 tvg-id="" tvg-name="Los Cuentos De Masha" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="61" channel-id="61" group-title="Canales 247",Los Cuentos De Masha
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6426
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedras" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="62" channel-id="62" group-title="Canales 247",Los Picapiedras
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59611
+#EXTINF:-1 tvg-id="" tvg-name="Los Pingüinos de Madagascar" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="65" channel-id="65" group-title="Canales 247",Los Pingüinos de Madagascar
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6428
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos Retro" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="68" channel-id="68" group-title="Canales 247",Los Pitufos Retro
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6427
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson A" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="69" channel-id="69" group-title="Canales 247",Los Simpson A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6895
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson B" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="66" channel-id="66" group-title="Canales 247",Los Simpson B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59612
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson C" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="67" channel-id="67" group-title="Canales 247",Los Simpson C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/3871
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson D" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="54" channel-id="54" group-title="Canales 247",Los Simpson D
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59616
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson E" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="55" channel-id="55" group-title="Canales 247",Los Simpson E
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59614
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson F" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="56" channel-id="56" group-title="Canales 247",Los Simpson F
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59613
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson G" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="26" channel-id="26" group-title="Canales 247",Los Simpson G
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59615
+#EXTINF:-1 tvg-id="" tvg-name="Los Supersonicos" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="20" channel-id="20" group-title="Canales 247",Los Supersonicos
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59617
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso A" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="19" channel-id="19" group-title="Canales 247",Masha y el Oso A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6893
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso B" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="22" channel-id="22" group-title="Canales 247",Masha y el Oso B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59618
+#EXTINF:-1 tvg-id="" tvg-name="Mea Culpa" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="25" channel-id="25" group-title="Canales 247",Mea Culpa
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/52426
+#EXTINF:-1 tvg-id="" tvg-name="Mr Bean" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="23" channel-id="23" group-title="Canales 247",Mr Bean
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59620
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classics" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="24" channel-id="24" group-title="Canales 247",MTV Classics
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59547
+#EXTINF:-1 tvg-id="" tvg-name="Nick Classics" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="21" channel-id="21" group-title="Canales 247",Nick Classics
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59533
+#EXTINF:-1 tvg-id="" tvg-name="Padrinos Magicos" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="32" channel-id="32" group-title="Canales 247",Padrinos Magicos
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/36679
+#EXTINF:-1 tvg-id="" tvg-name="Paw Patrol" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="33" channel-id="33" group-title="Canales 247",Paw Patrol
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59623
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="30" channel-id="30" group-title="Canales 247",Peppa Pig
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59624
+#EXTINF:-1 tvg-id="" tvg-name="Pinguinos de Madagascar" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="29" channel-id="29" group-title="Canales 247",Pinguinos de Madagascar
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59625
+#EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="102" channel-id="102" group-title="Canales 247",Pinky y Cerebro
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59626
+#EXTINF:-1 tvg-id="" tvg-name="Pocoyo" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="103" channel-id="103" group-title="Canales 247",Pocoyo
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59627
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="104" channel-id="104" group-title="Canales 247",Pokemon
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/36389
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="112" channel-id="112" group-title="Canales 247",Power Rangers
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/36681
+#EXTINF:-1 tvg-id="" tvg-name="Pulentos" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="113" channel-id="113" group-title="Canales 247",Pulentos
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6422
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="111" channel-id="111" group-title="Canales 247",Rick y Morty
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59630
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty 2" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="105" channel-id="105" group-title="Canales 247",Rick y Morty 2
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6421
+#EXTINF:-1 tvg-id="" tvg-name="Sailor Moo" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="124" channel-id="124" group-title="Canales 247",Sailor Moo
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/7102
+#EXTINF:-1 tvg-id="" tvg-name="Slam Dunk" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="123" channel-id="123" group-title="Canales 247",Slam Dunk
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/7108
+#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="127" channel-id="127" group-title="Canales 247",South Park
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59635
+#EXTINF:-1 tvg-id="" tvg-name="Stand Up Comedy" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="76" channel-id="76" group-title="Canales 247",Stand Up Comedy
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/32621
+#EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="75" channel-id="75" group-title="Canales 247",Supercampeones
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59637
+#EXTINF:-1 tvg-id="" tvg-name="Tazmania" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="74" channel-id="74" group-title="Canales 247",Tazmania
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6963
+#EXTINF:-1 tvg-id="" tvg-name="Teen Titans GO" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="94" channel-id="94" group-title="Canales 247",Teen Titans GO
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59639
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="97" channel-id="97" group-title="Canales 247",Tom y Jerry
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/36147
+#EXTINF:-1 tvg-id="" tvg-name="Un Show Mas" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="90" channel-id="90" group-title="Canales 247",Un Show Mas
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59643
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Animado" tvg-logo="http://img.tvcl.xyz/247/247.png" tvg-chno="108" channel-id="108" group-title="Canales 247",X-Men Animado
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/6967
+#EXTINF:-1 tvg-id="" tvg-name="CDF Básico" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" tvg-chno="129" channel-id="129" group-title="CDF",CDF Básico
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/56208
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD 1" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" tvg-chno="130" channel-id="130" group-title="CDF",CDF HD 1
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/42308
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD 2" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" tvg-chno="131" channel-id="131" group-title="CDF",CDF HD 2
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/51724
+#EXTINF:-1 tvg-id="" tvg-name="CDF 2k 3" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" tvg-chno="132" channel-id="132" group-title="CDF",CDF 2k 3
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/27614
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD 4" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" tvg-chno="133" channel-id="133" group-title="CDF",CDF HD 4
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/51725
+#EXTINF:-1 tvg-id="" tvg-name="CDF SD 5" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" tvg-chno="134" channel-id="134" group-title="CDF",CDF SD 5
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/25509
+#EXTINF:-1 tvg-id="" tvg-name="CDF SD 6" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" tvg-chno="135" channel-id="135" group-title="CDF",CDF SD 6
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/48027
+#EXTINF:-1 tvg-id="" tvg-name="CDF SD 7" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" tvg-chno="136" channel-id="136" group-title="CDF",CDF SD 7
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/52375
+#EXTINF:-1 tvg-id="" tvg-name="La Red A" tvg-logo="http://img.tvcl.xyz/chile/lared.png" tvg-chno="138" channel-id="138" group-title="Chile",La Red A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/754
+#EXTINF:-1 tvg-id="" tvg-name="La Red B" tvg-logo="http://img.tvcl.xyz/chile/lared.png" tvg-chno="137" channel-id="137" group-title="Chile",La Red B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/55755
+#EXTINF:-1 tvg-id="" tvg-name="TV+ A" tvg-logo="http://img.tvcl.xyz/chile/tv+.png" tvg-chno="141" channel-id="141" group-title="Chile",TV+ A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/876
+#EXTINF:-1 tvg-id="" tvg-name="TV+ B" tvg-logo="http://img.tvcl.xyz/chile/tv+.png" tvg-chno="140" channel-id="140" group-title="Chile",TV+ B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/15261
+#EXTINF:-1 tvg-id="" tvg-name="TV+ C" tvg-logo="http://img.tvcl.xyz/chile/tv+.png" tvg-chno="139" channel-id="139" group-title="Chile",TV+ C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/60114
+#EXTINF:-1 tvg-id="" tvg-name="TVN A" tvg-logo="http://img.tvcl.xyz/chile/tvn.png" tvg-chno="144" channel-id="144" group-title="Chile",TVN A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/35555
+#EXTINF:-1 tvg-id="" tvg-name="TVN B" tvg-logo="http://img.tvcl.xyz/chile/tvn.png" tvg-chno="143" channel-id="143" group-title="Chile",TVN B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/302
+#EXTINF:-1 tvg-id="" tvg-name="TVN C" tvg-logo="http://img.tvcl.xyz/chile/tvn.png" tvg-chno="142" channel-id="142" group-title="Chile",TVN C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/60115
+#EXTINF:-1 tvg-id="" tvg-name="Mega A" tvg-logo="http://img.tvcl.xyz/chile/mega.png" tvg-chno="147" channel-id="147" group-title="Chile",Mega A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/734
+#EXTINF:-1 tvg-id="" tvg-name="Mega B" tvg-logo="http://img.tvcl.xyz/chile/mega.png" tvg-chno="146" channel-id="146" group-title="Chile",Mega B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/733
+#EXTINF:-1 tvg-id="" tvg-name="Mega C" tvg-logo="http://img.tvcl.xyz/chile/mega.png" tvg-chno="145" channel-id="145" group-title="Chile",Mega C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/305
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 A" tvg-logo="http://img.tvcl.xyz/chile/canal13.png" tvg-chno="152" channel-id="152" group-title="Chile",Canal 13 A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/732
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 B" tvg-logo="http://img.tvcl.xyz/chile/canal13.png" tvg-chno="151" channel-id="151" group-title="Chile",Canal 13 B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/27295
+#EXTINF:-1 tvg-id="" tvg-name="Chilevision A" tvg-logo="http://img.tvcl.xyz/chile/chilevision.png" tvg-chno="150" channel-id="150" group-title="Chile",Chilevision A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/34027
+#EXTINF:-1 tvg-id="" tvg-name="Chilevision B" tvg-logo="http://img.tvcl.xyz/chile/chilevision.png" tvg-chno="149" channel-id="149" group-title="Chile",Chilevision B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/15263
+#EXTINF:-1 tvg-id="" tvg-name="Chilevision C" tvg-logo="http://img.tvcl.xyz/chile/chilevision.png" tvg-chno="148" channel-id="148" group-title="Chile",Chilevision C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/307
+#EXTINF:-1 tvg-id="" tvg-name="Camara de Diputados" tvg-logo="https://farm4.static.flickr.com/3277/2741102691_88bd508589_o.jpg" tvg-chno="156" channel-id="156" group-title="Chile",Camara de Diputados
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/45611
+#EXTINF:-1 tvg-id="" tvg-name="13C" tvg-logo="http://img.tvcl.xyz/chile/13c.png" tvg-chno="155" channel-id="155" group-title="Chile",13C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/735
+#EXTINF:-1 tvg-id="" tvg-name="Rec TV" tvg-logo="http://img.tvcl.xyz/chile/rectv.png" tvg-chno="154" channel-id="154" group-title="Chile",Rec TV
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/9230
+#EXTINF:-1 tvg-id="" tvg-name="TV Chile" tvg-logo="http://img.tvcl.xyz/chile/tvchile.png" tvg-chno="153" channel-id="153" group-title="Chile",TV Chile
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59183
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action A" tvg-logo="http://img.tvcl.xyz/cinepremium/foxaction.png" tvg-chno="163" channel-id="163" group-title="Cine Premium",Fox Action A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1908
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action B" tvg-logo="http://img.tvcl.xyz/cinepremium/foxaction.png" tvg-chno="164" channel-id="164" group-title="Cine Premium",Fox Action B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4883
+#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema A" tvg-logo="http://img.tvcl.xyz/cinepremium/foxcinema.png" tvg-chno="165" channel-id="165" group-title="Cine Premium",Fox Cinema A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1912
+#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema B" tvg-logo="http://img.tvcl.xyz/cinepremium/foxcinema.png" tvg-chno="166" channel-id="166" group-title="Cine Premium",Fox Cinema B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4884
+#EXTINF:-1 tvg-id="" tvg-name="Fox Classics A" tvg-logo="http://img.tvcl.xyz/cinepremium/foxclassics.png" tvg-chno="167" channel-id="167" group-title="Cine Premium",Fox Classics A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4885
+#EXTINF:-1 tvg-id="" tvg-name="Fox Classics B" tvg-logo="http://img.tvcl.xyz/cinepremium/foxclassics.png" tvg-chno="168" channel-id="168" group-title="Cine Premium",Fox Classics B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1915
+#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy A" tvg-logo="http://img.tvcl.xyz/cinepremium/foxcomedy.png" tvg-chno="169" channel-id="169" group-title="Cine Premium",Fox Comedy A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1917
+#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy B" tvg-logo="http://img.tvcl.xyz/cinepremium/foxcomedy.png" tvg-chno="170" channel-id="170" group-title="Cine Premium",Fox Comedy B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4886
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family A" tvg-logo="http://img.tvcl.xyz/cinepremium/foxfamily.png" tvg-chno="171" channel-id="171" group-title="Cine Premium",Fox Family A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1919
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family B" tvg-logo="http://img.tvcl.xyz/cinepremium/foxfamily.png" tvg-chno="172" channel-id="172" group-title="Cine Premium",Fox Family B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4887
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies A" tvg-logo="http://img.tvcl.xyz/cinepremium/foxmovies.png" tvg-chno="173" channel-id="173" group-title="Cine Premium",Fox Movies A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1924
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies B" tvg-logo="http://img.tvcl.xyz/cinepremium/foxmovies.png" tvg-chno="174" channel-id="174" group-title="Cine Premium",Fox Movies B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4890
+#EXTINF:-1 tvg-id="" tvg-name="Fox Series A" tvg-logo="http://img.tvcl.xyz/cinepremium/foxseries.png" tvg-chno="175" channel-id="175" group-title="Cine Premium",Fox Series A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1925
+#EXTINF:-1 tvg-id="" tvg-name="Fox Series B" tvg-logo="http://img.tvcl.xyz/cinepremium/foxseries.png" tvg-chno="176" channel-id="176" group-title="Cine Premium",Fox Series B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58782
+#EXTINF:-1 tvg-id="" tvg-name="HBO (CO) A" tvg-logo="http://img.tvcl.xyz/cinepremium/hbo.png" tvg-chno="181" channel-id="181" group-title="Cine Premium",HBO (CO) A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1938
+#EXTINF:-1 tvg-id="" tvg-name="HBO (CO) B" tvg-logo="http://img.tvcl.xyz/cinepremium/hbo2.png" tvg-chno="183" channel-id="183" group-title="Cine Premium",HBO (CO) B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4893
+#EXTINF:-1 tvg-id="" tvg-name="HBO (CO) (SUB)" tvg-logo="http://img.tvcl.xyz/cinepremium/hbo.png" tvg-chno="182" channel-id="182" group-title="Cine Premium",HBO (CO) (SUB)
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1941
+#EXTINF:-1 tvg-id="" tvg-name="HBO (MX)" tvg-logo="http://img.tvcl.xyz/cinepremium/hbo.png" tvg-chno="184" channel-id="184" group-title="Cine Premium",HBO (MX)
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22694
+#EXTINF:-1 tvg-id="" tvg-name="HBO (MX) B" tvg-logo="http://img.tvcl.xyz/cinepremium/hbo.png" tvg-chno="157" channel-id="157" group-title="Cine Premium",HBO (MX) B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58801
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 (CO) A" tvg-logo="http://img.tvcl.xyz/cinepremium/hbo2.png" tvg-chno="177" channel-id="177" group-title="Cine Premium",HBO 2 (CO) A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58795
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 (CO) B" tvg-logo="http://img.tvcl.xyz/cinepremium/hbo2.png" tvg-chno="178" channel-id="178" group-title="Cine Premium",HBO 2 (CO) B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22693
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family A" tvg-logo="http://img.tvcl.xyz/cinepremium/hbofamily.png" tvg-chno="179" channel-id="179" group-title="Cine Premium",HBO Family A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1940
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family B" tvg-logo="http://img.tvcl.xyz/cinepremium/hbofamily.png" tvg-chno="180" channel-id="180" group-title="Cine Premium",HBO Family B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58798
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi A" tvg-logo="http://img.tvcl.xyz/cinepremium/hbomundi.png" tvg-chno="158" channel-id="158" group-title="Cine Premium",HBO Mundi A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58804
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi B" tvg-logo="http://img.tvcl.xyz/cinepremium/hbomundi.png" tvg-chno="185" channel-id="185" group-title="Cine Premium",HBO Mundi B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4898
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus A" tvg-logo="http://img.tvcl.xyz/cinepremium/hboplus.png" tvg-chno="186" channel-id="186" group-title="Cine Premium",HBO Plus A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4896
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus B" tvg-logo="http://img.tvcl.xyz/cinepremium/hboplus.png" tvg-chno="159" channel-id="159" group-title="Cine Premium",HBO Plus B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58805
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop A" tvg-logo="http://img.tvcl.xyz/cinepremium/hbopop.png" tvg-chno="187" channel-id="187" group-title="Cine Premium",HBO Pop A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58807
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop B" tvg-logo="http://img.tvcl.xyz/cinepremium/hbopop.png" tvg-chno="160" channel-id="160" group-title="Cine Premium",HBO Pop B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58808
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature A" tvg-logo="http://img.tvcl.xyz/cinepremium/hbosignature.png" tvg-chno="161" channel-id="161" group-title="Cine Premium",HBO Signature A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4897
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature B" tvg-logo="http://img.tvcl.xyz/cinepremium/hbosignature.png" tvg-chno="188" channel-id="188" group-title="Cine Premium",HBO Signature B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1942
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme A" tvg-logo="http://img.tvcl.xyz/cinepremium/hboxtreme.png" tvg-chno="189" channel-id="189" group-title="Cine Premium",HBO Xtreme A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22689
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme B" tvg-logo="http://img.tvcl.xyz/cinepremium/hboxtreme.png" tvg-chno="162" channel-id="162" group-title="Cine Premium",HBO Xtreme B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58813
+#EXTINF:-1 tvg-id="" tvg-name="A and E" tvg-logo="http://img.tvcl.xyz/peliculasyseries/aye.png" tvg-chno="190" channel-id="190" group-title="Películas y Series",A and E
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4874
+#EXTINF:-1 tvg-id="" tvg-name="AMC A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/amc.png" tvg-chno="191" channel-id="191" group-title="Películas y Series",AMC A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1897
+#EXTINF:-1 tvg-id="" tvg-name="AMC B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/amc.png" tvg-chno="192" channel-id="192" group-title="Películas y Series",AMC B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4875
+#EXTINF:-1 tvg-id="" tvg-name="AXN A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/axn.png" tvg-chno="193" channel-id="193" group-title="Películas y Series",AXN A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1898
+#EXTINF:-1 tvg-id="" tvg-name="AXN B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/axn.png" tvg-chno="194" channel-id="194" group-title="Películas y Series",AXN B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4876
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/cinecanal.png" tvg-chno="195" channel-id="195" group-title="Películas y Series",Cinecanal A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58748
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/cinecanal.png" tvg-chno="196" channel-id="196" group-title="Películas y Series",Cinecanal B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4877
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/cinemax.png" tvg-chno="197" channel-id="197" group-title="Películas y Series",Cinemax A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1904
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/cinemax.png" tvg-chno="198" channel-id="198" group-title="Películas y Series",Cinemax B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58755
+#EXTINF:-1 tvg-id="" tvg-name="DHE A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/dhe.png" tvg-chno="199" channel-id="199" group-title="Películas y Series",DHE A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1907
+#EXTINF:-1 tvg-id="" tvg-name="DHE B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/dhe.png" tvg-chno="200" channel-id="200" group-title="Películas y Series",DHE B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58758
+#EXTINF:-1 tvg-id="" tvg-name="Film and Arts A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/filmyarts.png" tvg-chno="201" channel-id="201" group-title="Películas y Series",Film and Arts A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22703
+#EXTINF:-1 tvg-id="" tvg-name="Film and Arts B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/filmyarts.png" tvg-chno="202" channel-id="202" group-title="Películas y Series",Film and Arts B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58761
+#EXTINF:-1 tvg-id="" tvg-name="Fox Channel A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/fox.png" tvg-chno="203" channel-id="203" group-title="Películas y Series",Fox Channel A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1910
+#EXTINF:-1 tvg-id="" tvg-name="Fox Channel B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/fox.png" tvg-chno="204" channel-id="204" group-title="Películas y Series",Fox Channel B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22702
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/foxlife.png" tvg-chno="205" channel-id="205" group-title="Películas y Series",Fox Life A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1921
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/foxlife.png" tvg-chno="206" channel-id="206" group-title="Películas y Series",Fox Life B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58774
+#EXTINF:-1 tvg-id="" tvg-name="FX A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/fx.png" tvg-chno="207" channel-id="207" group-title="Películas y Series",FX A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1928
+#EXTINF:-1 tvg-id="" tvg-name="FX B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/fx.png" tvg-chno="208" channel-id="208" group-title="Películas y Series",FX B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4891
+#EXTINF:-1 tvg-id="" tvg-name="FXM A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/fxm.png" tvg-chno="209" channel-id="209" group-title="Películas y Series",FXM A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1930
+#EXTINF:-1 tvg-id="" tvg-name="FXM B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/fxm.png" tvg-chno="210" channel-id="210" group-title="Películas y Series",FXM B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58786
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="http://img.tvcl.xyz/peliculasyseries/golden.png" tvg-chno="213" channel-id="213" group-title="Películas y Series",Golden
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58789
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/goldene.png" tvg-chno="211" channel-id="211" group-title="Películas y Series",Golden Edge A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1934
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/goldene.png" tvg-chno="212" channel-id="212" group-title="Películas y Series",Golden Edge B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58788
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/gplus.png" tvg-chno="214" channel-id="214" group-title="Películas y Series",Golden Plus A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58790
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/gplus.png" tvg-chno="215" channel-id="215" group-title="Películas y Series",Golden Plus B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58791
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier A" tvg-logo="http://img.tvcl.xyz/cinepremium/golden.png" tvg-chno="216" channel-id="216" group-title="Películas y Series",Golden Premier A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1935
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier B" tvg-logo="http://img.tvcl.xyz/cinepremium/golden.png" tvg-chno="217" channel-id="217" group-title="Películas y Series",Golden Premier B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4892
+#EXTINF:-1 tvg-id="" tvg-name="ISat" tvg-logo="http://img.tvcl.xyz/peliculasyseries/isat.png" tvg-chno="218" channel-id="218" group-title="Películas y Series",ISat
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1944
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="http://img.tvcl.xyz/peliculasyseries/mp.png" tvg-chno="219" channel-id="219" group-title="Películas y Series",Multipremier
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1945
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/paramount.png" tvg-chno="220" channel-id="220" group-title="Películas y Series",Paramount Channel A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1946
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/paramount.png" tvg-chno="221" channel-id="221" group-title="Películas y Series",Paramount Channel B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58817
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/sonye.png" tvg-chno="222" channel-id="222" group-title="Películas y Series",Sony Channel A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1947
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/sonye.png" tvg-chno="223" channel-id="223" group-title="Películas y Series",Sony Channel B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58821
+#EXTINF:-1 tvg-id="" tvg-name="Space A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/space.png" tvg-chno="224" channel-id="224" group-title="Películas y Series",Space A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1949
+#EXTINF:-1 tvg-id="" tvg-name="Space B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/space.png" tvg-chno="225" channel-id="225" group-title="Películas y Series",Space B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1950
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/studiouniversal.png" tvg-chno="226" channel-id="226" group-title="Películas y Series",Studio Universal A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1952
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal B" tvg-logo="Logo N/Ahttp://img.tvcl.xyz/peliculasyseries/studiouniversal.png" tvg-chno="227" channel-id="227" group-title="Películas y Series",Studio Universal B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58825
+#EXTINF:-1 tvg-id="" tvg-name="SyFy A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/syfy.png" tvg-chno="228" channel-id="228" group-title="Películas y Series",SyFy A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1953
+#EXTINF:-1 tvg-id="" tvg-name="SyFy B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/syfy.png" tvg-chno="229" channel-id="229" group-title="Películas y Series",SyFy B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58827
+#EXTINF:-1 tvg-id="" tvg-name="TBS A" tvg-logo="http://img.tvcl.xyz/entretencion/tbs.png" tvg-chno="230" channel-id="230" group-title="Películas y Series",TBS A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58829
+#EXTINF:-1 tvg-id="" tvg-name="TBS B" tvg-logo="http://img.tvcl.xyz/entretencion/tbs.png" tvg-chno="231" channel-id="231" group-title="Películas y Series",TBS B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22684
+#EXTINF:-1 tvg-id="" tvg-name="TCM A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/tcm.png" tvg-chno="232" channel-id="232" group-title="Películas y Series",TCM A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1955
+#EXTINF:-1 tvg-id="" tvg-name="TCM B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/tcm.png" tvg-chno="233" channel-id="233" group-title="Películas y Series",TCM B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58830
+#EXTINF:-1 tvg-id="" tvg-name="TNT A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/tnt.png" tvg-chno="234" channel-id="234" group-title="Películas y Series",TNT A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1956
+#EXTINF:-1 tvg-id="" tvg-name="TNT B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/tnt.png" tvg-chno="235" channel-id="235" group-title="Películas y Series",TNT B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58831
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/tntseries.png" tvg-chno="236" channel-id="236" group-title="Películas y Series",TNT Series A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1958
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/tntseries.png" tvg-chno="237" channel-id="237" group-title="Películas y Series",TNT Series B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58833
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/universal.png" tvg-chno="238" channel-id="238" group-title="Películas y Series",Universal Channel A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4905
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/universal.png" tvg-chno="239" channel-id="239" group-title="Películas y Series",Universal Channel B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58835
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel A" tvg-logo="http://img.tvcl.xyz/peliculasyseries/warner.png" tvg-chno="240" channel-id="240" group-title="Películas y Series",Warner Channel A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1961
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel B" tvg-logo="http://img.tvcl.xyz/peliculasyseries/warner.png" tvg-chno="241" channel-id="241" group-title="Películas y Series",Warner Channel B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58837
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet A" tvg-logo="http://img.tvcl.xyz/culturales/animalp.png" tvg-chno="242" channel-id="242" group-title="Culturales",Animal Planet A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4909
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet B" tvg-logo="http://img.tvcl.xyz/culturales/animalp.png" tvg-chno="243" channel-id="243" group-title="Culturales",Animal Planet B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/45682
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel A" tvg-logo="http://img.tvcl.xyz/culturales/discovery.png" tvg-chno="244" channel-id="244" group-title="Culturales",Discovery Channel A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/658
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel B" tvg-logo="http://img.tvcl.xyz/culturales/discovery.png" tvg-chno="245" channel-id="245" group-title="Culturales",Discovery Channel B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22710
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health A" tvg-logo="http://img.tvcl.xyz/culturales/discoveryhh.png" tvg-chno="246" channel-id="246" group-title="Culturales",Discovery Home and Health A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/661
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health B" tvg-logo="http://img.tvcl.xyz/culturales/discoveryhh.png" tvg-chno="247" channel-id="247" group-title="Culturales",Discovery Home and Health B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1439
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID A" tvg-logo="http://img.tvcl.xyz/culturales/id.png" tvg-chno="248" channel-id="248" group-title="Culturales",Discovery ID A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22712
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID B" tvg-logo="http://img.tvcl.xyz/culturales/id.png" tvg-chno="249" channel-id="249" group-title="Culturales",Discovery ID B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/672
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science A" tvg-logo="http://img.tvcl.xyz/culturales/discoverys.png" tvg-chno="250" channel-id="250" group-title="Culturales",Discovery Science A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4913
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science B" tvg-logo="http://img.tvcl.xyz/culturales/discoverys.png" tvg-chno="251" channel-id="251" group-title="Culturales",Discovery Science B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/45705
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater A" tvg-logo="http://img.tvcl.xyz/culturales/theater.png" tvg-chno="252" channel-id="252" group-title="Culturales",Discovery Theater A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/663
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater B" tvg-logo="http://img.tvcl.xyz/culturales/theater.png" tvg-chno="253" channel-id="253" group-title="Culturales",Discovery Theater B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22714
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC A" tvg-logo="http://img.tvcl.xyz/culturales/tlc.png" tvg-chno="254" channel-id="254" group-title="Culturales",Discovery TLC A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/871
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC B" tvg-logo="http://img.tvcl.xyz/culturales/tlc.png" tvg-chno="255" channel-id="255" group-title="Culturales",Discovery TLC B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/45732
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo A" tvg-logo="http://img.tvcl.xyz/culturales/discoveryturbo.png" tvg-chno="256" channel-id="256" group-title="Culturales",Discovery Turbo A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4915
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo B" tvg-logo="http://img.tvcl.xyz/culturales/discoveryturbo.png" tvg-chno="257" channel-id="257" group-title="Culturales",Discovery Turbo B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/45710
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World A" tvg-logo="http://img.tvcl.xyz/culturales/world.png" tvg-chno="258" channel-id="258" group-title="Culturales",Discovery World A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/666
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World B" tvg-logo="http://img.tvcl.xyz/culturales/world.png" tvg-chno="259" channel-id="259" group-title="Culturales",Discovery World B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/667
+#EXTINF:-1 tvg-id="" tvg-name="History Channel A" tvg-logo="http://img.tvcl.xyz/culturales/history.png" tvg-chno="262" channel-id="262" group-title="Culturales",History Channel A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4918
+#EXTINF:-1 tvg-id="" tvg-name="History Channel B" tvg-logo="http://img.tvcl.xyz/culturales/history.png" tvg-chno="263" channel-id="263" group-title="Culturales",History Channel B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/669
+#EXTINF:-1 tvg-id="" tvg-name="H2 A" tvg-logo="http://img.tvcl.xyz/culturales/h2.png" tvg-chno="260" channel-id="260" group-title="Culturales",H2 A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4917
+#EXTINF:-1 tvg-id="" tvg-name="H2 B" tvg-logo="http://img.tvcl.xyz/culturales/h2.png" tvg-chno="261" channel-id="261" group-title="Culturales",H2 B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/668
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild A" tvg-logo="http://img.tvcl.xyz/culturales/natgeowild.png" tvg-chno="264" channel-id="264" group-title="Culturales",NatGeo Wild A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/674
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild B" tvg-logo="http://img.tvcl.xyz/culturales/natgeowild.png" tvg-chno="265" channel-id="265" group-title="Culturales",NatGeo Wild B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/675
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic A" tvg-logo="http://img.tvcl.xyz/culturales/natgeo.png" tvg-chno="266" channel-id="266" group-title="Culturales",National Geographic A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/676
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic B" tvg-logo="http://img.tvcl.xyz/culturales/natgeo.png" tvg-chno="267" channel-id="267" group-title="Culturales",National Geographic B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/677
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 1 A" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" tvg-chno="278" channel-id="278" group-title="Deportes",DirecTV Sports 1 A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/60684
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 1 B" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" tvg-chno="291" channel-id="291" group-title="Deportes",DirecTV Sports 1 B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/558
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 1 C" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" tvg-chno="290" channel-id="290" group-title="Deportes",DirecTV Sports 1 C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/30083
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 1 D" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" tvg-chno="293" channel-id="293" group-title="Deportes",DirecTV Sports 1 D
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4107
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 1 E" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" tvg-chno="289" channel-id="289" group-title="Deportes",DirecTV Sports 1 E
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/2744
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 1 F" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" tvg-chno="286" channel-id="286" group-title="Deportes",DirecTV Sports 1 F
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/3121
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 2 A" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" tvg-chno="285" channel-id="285" group-title="Deportes",DirecTV Sports 2 A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/559
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 2 B" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" tvg-chno="288" channel-id="288" group-title="Deportes",DirecTV Sports 2 B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/560
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 2 C" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" tvg-chno="287" channel-id="287" group-title="Deportes",DirecTV Sports 2 C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/3120
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports Plus A" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" tvg-chno="268" channel-id="268" group-title="Deportes",DirecTV Sports Plus A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/2746
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports Plus B" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" tvg-chno="269" channel-id="269" group-title="Deportes",DirecTV Sports Plus B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/28968
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 MX" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="275" channel-id="275" group-title="Deportes",ESPN 1 MX
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/561
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR A" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="270" channel-id="270" group-title="Deportes",ESPN 1 SUR A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/564
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR B" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="271" channel-id="271" group-title="Deportes",ESPN 1 SUR B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/3117
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR C" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="272" channel-id="272" group-title="Deportes",ESPN 1 SUR C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/563
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR D" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="317" channel-id="317" group-title="Deportes",ESPN 1 SUR D
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/60683
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE A" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="311" channel-id="311" group-title="Deportes",ESPN 2 CHILE A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/566
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE B" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="310" channel-id="310" group-title="Deportes",ESPN 2 CHILE B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/566
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE C" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="314" channel-id="314" group-title="Deportes",ESPN 2 CHILE C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/567
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 COLOMBIA A" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="312" channel-id="312" group-title="Deportes",ESPN 2 COLOMBIA A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/3119
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 COLOMBIA B" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="313" channel-id="313" group-title="Deportes",ESPN 2 COLOMBIA B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58426
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 COLOMBIA C" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="316" channel-id="316" group-title="Deportes",ESPN 2 COLOMBIA C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58426
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 MX" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="315" channel-id="315" group-title="Deportes",ESPN 2 MX
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/256
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 MX" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="309" channel-id="309" group-title="Deportes",ESPN 3 MX
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/260
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR A" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="299" channel-id="299" group-title="Deportes",ESPN 3 SUR A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/570
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR B" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="300" channel-id="300" group-title="Deportes",ESPN 3 SUR B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/3118
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="302" channel-id="302" group-title="Deportes",ESPN Deportes
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/264
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" tvg-chno="303" channel-id="303" group-title="Deportes",ESPN Extra
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/47732
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 MX" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="304" channel-id="304" group-title="Deportes",Fox Sports 1 MX
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/575
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 SUR A" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="305" channel-id="305" group-title="Deportes",Fox Sports 1 SUR A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/27775
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 SUR B" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="308" channel-id="308" group-title="Deportes",Fox Sports 1 SUR B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/30394
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 SUR C" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="307" channel-id="307" group-title="Deportes",Fox Sports 1 SUR C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/573
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 SUR D" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="306" channel-id="306" group-title="Deportes",Fox Sports 1 SUR D
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58428
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 SUR E" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="301" channel-id="301" group-title="Deportes",Fox Sports 1 SUR E
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/3116
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 MX" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="297" channel-id="297" group-title="Deportes",Fox Sports 2 MX
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/27003
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SUR A" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="298" channel-id="298" group-title="Deportes",Fox Sports 2 SUR A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/2
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SUR B" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="273" channel-id="273" group-title="Deportes",Fox Sports 2 SUR B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/3115
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 MX" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="294" channel-id="294" group-title="Deportes",Fox Sports 3 MX
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/279
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 SUR A" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="295" channel-id="295" group-title="Deportes",Fox Sports 3 SUR A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/582
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 SUR B" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="296" channel-id="296" group-title="Deportes",Fox Sports 3 SUR B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/3114
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" tvg-chno="274" channel-id="274" group-title="Deportes",Movistar Deportes
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/587
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports A" tvg-logo="http://img.tvcl.xyz/deportes/tnt.png" tvg-chno="277" channel-id="277" group-title="Deportes",TNT Sports A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/4846
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports B" tvg-logo="http://img.tvcl.xyz/deportes/tnt.png" tvg-chno="280" channel-id="280" group-title="Deportes",TNT Sports B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/3111
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports C" tvg-logo="http://img.tvcl.xyz/deportes/tnt.png" tvg-chno="283" channel-id="283" group-title="Deportes",TNT Sports C
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/60945
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports A" tvg-logo="http://img.tvcl.xyz/deportes/tyc.png" tvg-chno="284" channel-id="284" group-title="Deportes",TyC Sports A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/296
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports B" tvg-logo="http://img.tvcl.xyz/deportes/tyc.png" tvg-chno="281" channel-id="281" group-title="Deportes",TyC Sports B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/3112
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="http://img.tvcl.xyz/deportes/tennis.png" tvg-chno="276" channel-id="276" group-title="Deportes",Tennis Channel
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/17835
+#EXTINF:-1 tvg-id="" tvg-name="Teletrak" tvg-logo="http://img.tvcl.xyz/deportes/teletrak.png" tvg-chno="279" channel-id="279" group-title="Deportes",Teletrak
+https://unlimited2-cl.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Live" tvg-logo="http://img.tvcl.xyz/deportes/ufc.png" tvg-chno="282" channel-id="282" group-title="Deportes",UFC Live
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/595
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="http://img.tvcl.xyz/deportes/wwe.png" tvg-chno="292" channel-id="292" group-title="Deportes",WWE
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/38011
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="http://img.tvcl.xyz/peliculasyseries/comedycentral.png" tvg-chno="318" channel-id="318" group-title="Entretención",Comedy Central
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/39030
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="http://img.tvcl.xyz/entretencion/dc.png" tvg-chno="319" channel-id="319" group-title="Entretención",Distrito Comedia
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58456
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="http://img.tvcl.xyz/internacionales/dw.png" tvg-chno="320" channel-id="320" group-title="Entretención",DW
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/20961
+#EXTINF:-1 tvg-id="" tvg-name="EL Gourmet" tvg-logo="http://img.tvcl.xyz/entretencion/elgourmet.png" tvg-chno="321" channel-id="321" group-title="Entretención",EL Gourmet
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/8738
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://img.tvcl.xyz/entretencion/foodnetwork.png" tvg-chno="322" channel-id="322" group-title="Entretención",Food Network
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/8739
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="http://img.tvcl.xyz/entretencion/garagetv.png" tvg-chno="323" channel-id="323" group-title="Entretención",Garage TV
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/17830
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="https://www.portada-online.com/files/2015/01/GLITZ-450x276.jpg" tvg-chno="324" channel-id="324" group-title="Entretención",Glitz
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/7480
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="http://img.tvcl.xyz/entretencion/holatv.png" tvg-chno="325" channel-id="325" group-title="Entretención",Hola TV
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/24137
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="http://img.tvcl.xyz/entretencion/lasestrellas.png" tvg-chno="326" channel-id="326" group-title="Entretención",Las Estrellas
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/19784
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://img.tvcl.xyz/entretencion/lifetime.png" tvg-chno="327" channel-id="327" group-title="Entretención",Lifetime
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/58745
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="http://img.tvcl.xyz/entretencion/maschic.png" tvg-chno="328" channel-id="328" group-title="Entretención",Mas Chic
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/19762
+#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="http://img.tvcl.xyz/argentina/telefe.png" tvg-chno="329" channel-id="329" group-title="Entretención",Telefe
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/7488
+#EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-logo="http://img.tvcl.xyz/venezuela/telesur.png" tvg-chno="330" channel-id="330" group-title="Entretención",Telesur
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59819
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV A" tvg-logo="http://img.tvcl.xyz/infantiles/babytv.png" tvg-chno="331" channel-id="331" group-title="Infantiles",Baby TV A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1003
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV B" tvg-logo="http://img.tvcl.xyz/infantiles/babytv.png" tvg-chno="332" channel-id="332" group-title="Infantiles",Baby TV B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/536
+#EXTINF:-1 tvg-id="" tvg-name="Boomereang A" tvg-logo="http://img.tvcl.xyz/infantiles/boomerang.png" tvg-chno="333" channel-id="333" group-title="Infantiles",Boomereang A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1004
+#EXTINF:-1 tvg-id="" tvg-name="Boomereang B" tvg-logo="http://img.tvcl.xyz/infantiles/boomerang.png" tvg-chno="334" channel-id="334" group-title="Infantiles",Boomereang B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/537
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network A" tvg-logo="http://img.tvcl.xyz/infantiles/cn.png" tvg-chno="335" channel-id="335" group-title="Infantiles",Cartoon Network A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1006
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network B" tvg-logo="http://img.tvcl.xyz/infantiles/cn.png" tvg-chno="336" channel-id="336" group-title="Infantiles",Cartoon Network B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1007
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids A" tvg-logo="http://img.tvcl.xyz/infantiles/dk.png" tvg-chno="337" channel-id="337" group-title="Infantiles",Discovery Kids A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1008
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids B" tvg-logo="http://img.tvcl.xyz/infantiles/dk.png" tvg-chno="338" channel-id="338" group-title="Infantiles",Discovery Kids B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1009
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://img.tvcl.xyz/infantiles/dc.png" tvg-chno="339" channel-id="339" group-title="Infantiles",Disney Channel
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1011
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior A" tvg-logo="http://img.tvcl.xyz/infantiles/dj.png" tvg-chno="340" channel-id="340" group-title="Infantiles",Disney Junior A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1013
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior B" tvg-logo="http://img.tvcl.xyz/infantiles/dj.png" tvg-chno="341" channel-id="341" group-title="Infantiles",Disney Junior B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/39033
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD A" tvg-logo="http://img.tvcl.xyz/infantiles/xd.png" tvg-chno="342" channel-id="342" group-title="Infantiles",Disney XD A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1014
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD B" tvg-logo="http://img.tvcl.xyz/infantiles/xd.png" tvg-chno="343" channel-id="343" group-title="Infantiles",Disney XD B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1015
+#EXTINF:-1 tvg-id="" tvg-name="ETC TV" tvg-logo="http://img.tvcl.xyz/infantiles/etctv.png" tvg-chno="344" channel-id="344" group-title="Infantiles",ETC TV
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/9228
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids" tvg-logo="http://img.tvcl.xyz/infantiles/natkids.png" tvg-chno="345" channel-id="345" group-title="Infantiles",NatGeo Kids
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1016
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 A" tvg-logo="http://img.tvcl.xyz/infantiles/nick2.png" tvg-chno="346" channel-id="346" group-title="Infantiles",Nick 2 A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1018
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 B" tvg-logo="http://img.tvcl.xyz/infantiles/nick2.png" tvg-chno="347" channel-id="347" group-title="Infantiles",Nick 2 B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1019
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://img.tvcl.xyz/infantiles/nickjr.png" tvg-chno="348" channel-id="348" group-title="Infantiles",Nick Jr
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/543
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://img.tvcl.xyz/infantiles/nick.png" tvg-chno="349" channel-id="349" group-title="Infantiles",Nickelodeon
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1020
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast A" tvg-logo="http://img.tvcl.xyz/infantiles/tooncast.png" tvg-chno="350" channel-id="350" group-title="Infantiles",Tooncast A
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1022
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast B" tvg-logo="http://img.tvcl.xyz/infantiles/tooncast.png" tvg-chno="351" channel-id="351" group-title="Infantiles",Tooncast B
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/545
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="http://img.tvcl.xyz/musica/concert.png" tvg-chno="353" channel-id="353" group-title="Música",Concert Channel
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/42169
+#EXTINF:-1 tvg-id="" tvg-name="Rewind TV" tvg-logo="https://i.pinimg.com/600x315/ec/8c/45/ec8c45172c65129d3680d55791771721.jpg" tvg-chno="354" channel-id="354" group-title="Música",Rewind TV
+http://iptv.premiumstore.biz:8080/live/Diegobasc20/20Bascdiego/39081.ts
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="http://img.tvcl.xyz/musica/htv.png" tvg-chno="373" channel-id="373" group-title="Música",HTV
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/8804
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://img.tvcl.xyz/musica/vh1.png" tvg-chno="356" channel-id="356" group-title="Música",VH1
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/8809
+#EXTINF:-1 tvg-id="" tvg-name="Vh1 Classics" tvg-logo="http://img.tvcl.xyz/musica/vh1.png" tvg-chno="359" channel-id="359" group-title="Música",Vh1 Classics
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/8810
+#EXTINF:-1 tvg-id="" tvg-name="Nick Music" tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2020/06/Nick-Music.jpg" tvg-chno="389" channel-id="389" group-title="Música",Nick Music
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1021
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://img.tvcl.xyz/musica/mtv.png" tvg-chno="377" channel-id="377" group-title="Música",MTV
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/8805
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="http://img.tvcl.xyz/musica/mtvhits.png" tvg-chno="374" channel-id="374" group-title="Música",MTV Hits
+http://iptv.premiumstore.biz:8080/live/Diegobasc20/20Bascdiego/8806.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="http://img.tvcl.xyz/musica/mtvlive.png" tvg-chno="381" channel-id="381" group-title="Música",MTV Live
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/8807
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Reggaton" tvg-logo="https://brandemia.org/sites/default/files/vevo-logo-2013.png" tvg-chno="355" channel-id="355" group-title="Música",VEVO Reggaton
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59544
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Metal" tvg-logo="https://brandemia.org/sites/default/files/vevo-logo-2013.png" tvg-chno="357" channel-id="357" group-title="Música",VEVO Metal
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59543
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Urbano" tvg-logo="https://brandemia.org/sites/default/files/vevo-logo-2013.png" tvg-chno="358" channel-id="358" group-title="Música",VEVO Urbano
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59545
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Hip-Hop" tvg-logo="https://brandemia.org/sites/default/files/vevo-logo-2013.png" tvg-chno="360" channel-id="360" group-title="Música",VEVO Hip-Hop
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59541
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Latin Pop" tvg-logo="https://brandemia.org/sites/default/files/vevo-logo-2013.png" tvg-chno="361" channel-id="361" group-title="Música",VEVO Latin Pop
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59542
+#EXTINF:-1 tvg-id="" tvg-name="MV Alternativa" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="352" channel-id="352" group-title="Música",MV Alternativa
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22665
+#EXTINF:-1 tvg-id="" tvg-name="MV Hit List" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="362" channel-id="362" group-title="Música",MV Hit List
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22679
+#EXTINF:-1 tvg-id="" tvg-name="MV Pop Latino" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="363" channel-id="363" group-title="Música",MV Pop Latino
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22672
+#EXTINF:-1 tvg-id="" tvg-name="MV Hip Hop" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="364" channel-id="364" group-title="Música",MV Hip Hop
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22678
+#EXTINF:-1 tvg-id="" tvg-name="MV 90s" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="365" channel-id="365" group-title="Música",MV 90s
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22669
+#EXTINF:-1 tvg-id="" tvg-name="MV Dance" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="366" channel-id="366" group-title="Música",MV Dance
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22681
+#EXTINF:-1 tvg-id="" tvg-name="MV Urbano" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="367" channel-id="367" group-title="Música",MV Urbano
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22677
+#EXTINF:-1 tvg-id="" tvg-name="MV Vintage" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="368" channel-id="368" group-title="Música",MV Vintage
+http://iptv.premiumstore.biz:8080/live/Diegobasc20/20Bascdiego/52637.ts
+#EXTINF:-1 tvg-id="" tvg-name="MV Y2K" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="369" channel-id="369" group-title="Música",MV Y2K
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22680
+#EXTINF:-1 tvg-id="" tvg-name="MV Pop Hits" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="370" channel-id="370" group-title="Música",MV Pop Hits
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22683
+#EXTINF:-1 tvg-id="" tvg-name="MV Metal" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="371" channel-id="371" group-title="Música",MV Metal
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22664
+#EXTINF:-1 tvg-id="" tvg-name="MV Pop" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="372" channel-id="372" group-title="Música",MV Pop
+http://iptv.premiumstore.biz:8080/live/Diegobasc20/20Bascdiego/47432.ts
+#EXTINF:-1 tvg-id="" tvg-name="MV Retro" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="375" channel-id="375" group-title="Música",MV Retro
+http://iptv.premiumstore.biz:8080/live/Diegobasc20/20Bascdiego/42485.ts
+#EXTINF:-1 tvg-id="" tvg-name="MV Rap" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="376" channel-id="376" group-title="Música",MV Rap
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22674
+#EXTINF:-1 tvg-id="" tvg-name="MV Pro" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="378" channel-id="378" group-title="Música",MV Pro
+http://iptv.premiumstore.biz:8080/live/Diegobasc20/20Bascdiego/39075.ts
+#EXTINF:-1 tvg-id="" tvg-name="MV Top 100" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="379" channel-id="379" group-title="Música",MV Top 100
+http://iptv.premiumstore.biz:8080/live/Diegobasc20/20Bascdiego/39837.ts
+#EXTINF:-1 tvg-id="" tvg-name="MV R&B Soul" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="380" channel-id="380" group-title="Música",MV R&B Soul
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22671
+#EXTINF:-1 tvg-id="" tvg-name="MV Rock" tvg-logo="https://ww1.prweb.com/prfiles/2017/05/04/14550580/MusicChoice_Black_WithBackground.png" tvg-chno="382" channel-id="382" group-title="Música",MV Rock
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/22666
+#EXTINF:-1 tvg-id="" tvg-name="Estadísticas Coronavirus" tvg-logo="https://www.drschaer.com/sites/default/files/styles/facebook/public/2020-04/covid-19_-_teaser.jpg" tvg-chno="384" channel-id="384" group-title="Noticias",Estadísticas Coronavirus
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59840
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Play" tvg-logo="http://img.tvcl.xyz/noticias/24h.png" tvg-chno="387" channel-id="387" group-title="Noticias",24 Horas Play
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1436
+#EXTINF:-1 tvg-id="" tvg-name="CNN Español" tvg-logo="http://img.tvcl.xyz/noticias/cnn.png" tvg-chno="385" channel-id="385" group-title="Noticias",CNN Español
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1435
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN Internacional" tvg-logo="http://img.tvcl.xyz/noticias/cnn.png" tvg-chno="386" channel-id="386" group-title="Noticias",CNN Internacional
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/45694
+#EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="http://img.tvcl.xyz/noticias/cnn.png" tvg-chno="388" channel-id="388" group-title="Noticias",CNN Chile
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/1440
+#EXTINF:-1 tvg-id="" tvg-name="Meganoticias" tvg-logo="http://img.tvcl.xyz/chile/mega.png" tvg-chno="383" channel-id="383" group-title="Noticias",Meganoticias
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/59836
+#EXTINF:-1 tvg-id="" tvg-name="BangBros" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="390" channel-id="390" group-title="Adultos",BangBros
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/30493
+#EXTINF:-1 tvg-id="" tvg-name="Blue Hustler" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="391" channel-id="391" group-title="Adultos",Blue Hustler
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/30494
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="392" channel-id="392" group-title="Adultos",Brazzers
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/40681
+#EXTINF:-1 tvg-id="" tvg-name="Mia Khalifa" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="393" channel-id="393" group-title="Adultos",Mia Khalifa
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/30504
+#EXTINF:-1 tvg-id="" tvg-name="Shemale" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="394" channel-id="394" group-title="Adultos",Shemale
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/30515
+#EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="395" channel-id="395" group-title="Adultos",Venus
+http://iptv.premiumstore.biz:8080/Diegobasc20/20Bascdiego/48123
+#EXTINF:-1 tvg-id="" tvg-name="Anal Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="396" channel-id="396" group-title="Adultos",Anal Channel
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="397" channel-id="397" group-title="Adultos",Big Ass Channel
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Dick Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="398" channel-id="398" group-title="Adultos",Big Dick Channel
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Tits Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="399" channel-id="399" group-title="Adultos",Big Tits Channel
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blonde Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="400" channel-id="400" group-title="Adultos",Blonde Channel
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="401" channel-id="401" group-title="Adultos",Blowjob Channel
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brunette Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="402" channel-id="402" group-title="Adultos",Brunette Channel
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Compilation Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="403" channel-id="403" group-title="Adultos",Compilation Channel
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cuckold Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="404" channel-id="404" group-title="Adultos",Cuckold Channel
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fetish Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="405" channel-id="405" group-title="Adultos",Fetish Channel
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gangbang Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="406" channel-id="406" group-title="Adultos",Gangbang Channel
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gay Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="407" channel-id="407" group-title="Adultos",Gay Channel
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Chanel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="408" channel-id="408" group-title="Adultos",Hardcore Chanel
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Interracial Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="409" channel-id="409" group-title="Adultos",Interracial Channel
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="410" channel-id="410" group-title="Adultos",Latina Channel
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="411" channel-id="411" group-title="Adultos",Lesbian Channel
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live Cams Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="412" channel-id="412" group-title="Adultos",Live Cams Channel
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Milf Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="413" channel-id="413" group-title="Adultos",Milf Channel
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornstar Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="414" channel-id="414" group-title="Adultos",Pornstar Channel
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POV Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="415" channel-id="415" group-title="Adultos",POV Channel
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rough Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="416" channel-id="416" group-title="Adultos",Rough Channel
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Russian Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="417" channel-id="417" group-title="Adultos",Russian Channel
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teen Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="418" channel-id="418" group-title="Adultos",Teen Channel
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Threesome Channel" tvg-logo="http://img.tvcl.xyz/adultos/faptv.png" tvg-chno="419" channel-id="419" group-title="Adultos",Threesome Channel
+http://cdn.adultiptv.net/threesome.m3u8
