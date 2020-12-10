@@ -7,37 +7,37 @@
   </channel>
   <channel id="CDF HD 1">
     <display-name lang="es">CDF HD 1</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_premium-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="CDF HD 2">
     <display-name lang="es">CDF HD 2</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_premium-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="CDF 2k 3">
     <display-name lang="es">CDF 2k 3</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_premium-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="CDF HD 4">
     <display-name lang="es">CDF HD 4</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_premium-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="CDF SD 5">
     <display-name lang="es">CDF SD 5</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_premium-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="CDF SD 6">
     <display-name lang="es">CDF SD 6</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_premium-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="CDF SD 7">
     <display-name lang="es">CDF SD 7</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_premium-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="La Red A">
@@ -286,7 +286,7 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="AXN A">
-    <display-name lang="es">FAXN A</display-name>
+    <display-name lang="es">AXN A</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -401,6 +401,11 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Golden Premier A">
+    <display-name lang="es">Golden Premier A</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Golden Premier B">
     <display-name lang="es">Golden Premier B</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png" />
     <url>http://www.gatotv.com</url>
@@ -1918,8 +1923,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="La Red A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="La Red A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="La Red A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="La Red A">
     <title lang="es">Cierre de transmisión</title>
@@ -2107,8 +2112,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="La Red B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="La Red B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="La Red B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="La Red B">
     <title lang="es">Cierre de transmisión</title>
@@ -3416,6 +3421,9 @@
     <title lang="es">La noche es nuestra</title>
     <episode-num system="onscreen">E155</episode-num>
   </programme>
+  <programme start="20201213013000 -0300" stop="20201213070000 -0300" channel="Chilevision A">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
   <programme start="20201213070000 -0300" stop="20201213080000 -0300" channel="Chilevision A">
     <title lang="es">Programación Pagada</title>
   </programme>
@@ -3524,6 +3532,9 @@
     <title lang="es">La noche es nuestra</title>
     <episode-num system="onscreen">E155</episode-num>
   </programme>
+  <programme start="20201213013000 -0300" stop="20201213070000 -0300" channel="Chilevision B">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
   <programme start="20201213070000 -0300" stop="20201213080000 -0300" channel="Chilevision B">
     <title lang="es">Programación Pagada</title>
   </programme>
@@ -3631,6 +3642,9 @@
   <programme start="20201213003000 -0300" stop="20201213013000 -0300" channel="Chilevision C">
     <title lang="es">La noche es nuestra</title>
     <episode-num system="onscreen">E155</episode-num>
+  </programme>
+  <programme start="20201213013000 -0300" stop="20201213070000 -0300" channel="Chilevision C">
+    <title lang="es">Cierre de transmisión</title>
   </programme>
   <programme start="20201213070000 -0300" stop="20201213080000 -0300" channel="Chilevision C">
     <title lang="es">Programación Pagada</title>
@@ -4105,8 +4119,8 @@
   <programme start="20201210224000 -0300" stop="20201210235000 -0300" channel="TV Chile">
     <title lang="es">Sin parche</title>
   </programme>
-  <programme start="20201211004500 -0300" stop="20201211013000 -0300" channel="TV Chile">
-    <title lang="es">El Regreso</title>
+  <programme start="20201211013000 -0300" stop="20201211023000 -0300" channel="TV Chile">
+    <title lang="es">Conectados</title>
   </programme>
   <programme start="20201211023000 -0300" stop="20201211030000 -0300" channel="TV Chile">
     <title lang="es">Entrevistas 24</title>
@@ -4330,8 +4344,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Action A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Action A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Action A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Action A">
     <title lang="es">Cierre de transmisión</title>
@@ -4519,8 +4533,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Action B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Action B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Action B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Action B">
     <title lang="es">Cierre de transmisión</title>
@@ -4708,8 +4722,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Cinema A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Cinema A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Cinema A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Cinema A">
     <title lang="es">Cierre de transmisión</title>
@@ -4897,8 +4911,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Cinema B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Cinema B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Cinema B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Cinema B">
     <title lang="es">Cierre de transmisión</title>
@@ -5086,8 +5100,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Classics A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Classics A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Classics A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Classics A">
     <title lang="es">Cierre de transmisión</title>
@@ -5275,8 +5289,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Classics B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Classics B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Classics B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Classics B">
     <title lang="es">Cierre de transmisión</title>
@@ -5464,8 +5478,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Comedy A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Comedy A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Comedy A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Comedy A">
     <title lang="es">Cierre de transmisión</title>
@@ -5653,8 +5667,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Comedy B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Comedy B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Comedy B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Comedy B">
     <title lang="es">Cierre de transmisión</title>
@@ -5842,8 +5856,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Family A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Family A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Family A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Family A">
     <title lang="es">Cierre de transmisión</title>
@@ -6031,8 +6045,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Family B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Family B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Family B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Family B">
     <title lang="es">Cierre de transmisión</title>
@@ -6220,8 +6234,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Movies A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Movies A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Movies A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Movies A">
     <title lang="es">Cierre de transmisión</title>
@@ -6409,8 +6423,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Movies B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Movies B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Movies B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Movies B">
     <title lang="es">Cierre de transmisión</title>
@@ -6598,8 +6612,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Series A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Series A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Series A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Series A">
     <title lang="es">Cierre de transmisión</title>
@@ -6787,8 +6801,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Series B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Series B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Series B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Series B">
     <title lang="es">Cierre de transmisión</title>
@@ -6976,8 +6990,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO (CO) A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO (CO) A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO (CO) A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO (CO) A">
     <title lang="es">Cierre de transmisión</title>
@@ -7165,8 +7179,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO (CO) B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO (CO) B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO (CO) B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO (CO) B">
     <title lang="es">Cierre de transmisión</title>
@@ -7354,8 +7368,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO (CO) (SUB)">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO (CO) (SUB)">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO (CO) (SUB)">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO (CO) (SUB)">
     <title lang="es">Cierre de transmisión</title>
@@ -7543,8 +7557,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO (MX)">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO (MX)">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO (MX)">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO (MX)">
     <title lang="es">Cierre de transmisión</title>
@@ -7732,8 +7746,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO (MX) B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO (MX) B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO (MX) B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO (MX) B">
     <title lang="es">Cierre de transmisión</title>
@@ -7921,8 +7935,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO 2 (CO) A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO 2 (CO) A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO 2 (CO) A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO 2 (CO) A">
     <title lang="es">Cierre de transmisión</title>
@@ -8110,8 +8124,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO 2 (CO) B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO 2 (CO) B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO 2 (CO) B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO 2 (CO) B">
     <title lang="es">Cierre de transmisión</title>
@@ -8299,8 +8313,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO Family A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO Family A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO Family A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO Family A">
     <title lang="es">Cierre de transmisión</title>
@@ -8488,8 +8502,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO Mundi A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO Mundi A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO Mundi A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO Mundi A">
     <title lang="es">Cierre de transmisión</title>
@@ -8677,8 +8691,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO Mundi B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO Mundi B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO Mundi B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO Mundi B">
     <title lang="es">Cierre de transmisión</title>
@@ -8866,8 +8880,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO Plus A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO Plus A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO Plus A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO Plus A">
     <title lang="es">Cierre de transmisión</title>
@@ -9055,8 +9069,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO Plus B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO Plus B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO Plus B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO Plus B">
     <title lang="es">Cierre de transmisión</title>
@@ -9244,8 +9258,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO Pop A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO Pop A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO Pop A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO Pop A">
     <title lang="es">Cierre de transmisión</title>
@@ -9433,8 +9447,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO Pop B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO Pop B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO Pop B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO Pop B">
     <title lang="es">Cierre de transmisión</title>
@@ -9622,8 +9636,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO Signature A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO Signature A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO Signature A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO Signature A">
     <title lang="es">Cierre de transmisión</title>
@@ -9811,8 +9825,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO Signature B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO Signature B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO Signature B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO Signature B">
     <title lang="es">Cierre de transmisión</title>
@@ -10000,8 +10014,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO Xtreme A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO Xtreme A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO Xtreme A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO Xtreme A">
     <title lang="es">Cierre de transmisión</title>
@@ -10189,8 +10203,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HBO Xtreme B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HBO Xtreme B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HBO Xtreme B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HBO Xtreme B">
     <title lang="es">Cierre de transmisión</title>
@@ -10378,8 +10392,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="A and E">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="A and E">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="A and E">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="A and E">
     <title lang="es">Cierre de transmisión</title>
@@ -10567,8 +10581,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="AMC A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="AMC A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="AMC A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="AMC A">
     <title lang="es">Cierre de transmisión</title>
@@ -10756,8 +10770,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="AMC B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="AMC B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="AMC B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="AMC B">
     <title lang="es">Cierre de transmisión</title>
@@ -10945,8 +10959,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="AXN A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="AXN A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="AXN A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="AXN A">
     <title lang="es">Cierre de transmisión</title>
@@ -11134,8 +11148,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="AXN B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="AXN B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="AXN B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="AXN B">
     <title lang="es">Cierre de transmisión</title>
@@ -11323,8 +11337,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Cinecanal A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Cinecanal A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Cinecanal A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Cinecanal A">
     <title lang="es">Cierre de transmisión</title>
@@ -11512,8 +11526,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Cinecanal B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Cinecanal B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Cinecanal B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Cinecanal B">
     <title lang="es">Cierre de transmisión</title>
@@ -11701,8 +11715,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Cinemax A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Cinemax A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Cinemax A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Cinemax A">
     <title lang="es">Cierre de transmisión</title>
@@ -11890,8 +11904,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Cinemax B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Cinemax B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Cinemax B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Cinemax B">
     <title lang="es">Cierre de transmisión</title>
@@ -12079,8 +12093,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DHE A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DHE A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DHE A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DHE A">
     <title lang="es">Cierre de transmisión</title>
@@ -12268,8 +12282,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DHE B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DHE B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DHE B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DHE B">
     <title lang="es">Cierre de transmisión</title>
@@ -12457,8 +12471,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Film and Arts A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Film and Arts A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Film and Arts A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Film and Arts A">
     <title lang="es">Cierre de transmisión</title>
@@ -12646,8 +12660,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Film and Arts B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Film and Arts B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Film and Arts B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Film and Arts B">
     <title lang="es">Cierre de transmisión</title>
@@ -12835,8 +12849,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Channel A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Channel A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Channel A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Channel A">
     <title lang="es">Cierre de transmisión</title>
@@ -13024,8 +13038,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Channel B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Channel B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Channel B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Channel B">
     <title lang="es">Cierre de transmisión</title>
@@ -13213,8 +13227,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Life A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Life A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Life A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Life A">
     <title lang="es">Cierre de transmisión</title>
@@ -13402,8 +13416,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Life B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Life B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Life B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Life B">
     <title lang="es">Cierre de transmisión</title>
@@ -13591,8 +13605,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="FX A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="FX A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="FX A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="FX A">
     <title lang="es">Cierre de transmisión</title>
@@ -13780,8 +13794,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="FX B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="FX B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="FX B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="FX B">
     <title lang="es">Cierre de transmisión</title>
@@ -13969,8 +13983,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="FXM A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="FXM A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="FXM A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="FXM A">
     <title lang="es">Cierre de transmisión</title>
@@ -14158,8 +14172,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="FXM B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="FXM B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="FXM B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="FXM B">
     <title lang="es">Cierre de transmisión</title>
@@ -14347,8 +14361,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Golden">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Golden">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Golden">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Golden">
     <title lang="es">Cierre de transmisión</title>
@@ -14536,8 +14550,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Golden Edge A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Golden Edge A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Golden Edge A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Golden Edge A">
     <title lang="es">Cierre de transmisión</title>
@@ -14725,8 +14739,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Golden Edge B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Golden Edge B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Golden Edge B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Golden Edge B">
     <title lang="es">Cierre de transmisión</title>
@@ -14914,8 +14928,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Golden Plus A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Golden Plus A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Golden Plus A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Golden Plus A">
     <title lang="es">Cierre de transmisión</title>
@@ -15103,8 +15117,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Golden Plus B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Golden Plus B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Golden Plus B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Golden Plus B">
     <title lang="es">Cierre de transmisión</title>
@@ -15292,8 +15306,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Golden Premier A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Golden Premier A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Golden Premier A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Golden Premier A">
     <title lang="es">Cierre de transmisión</title>
@@ -15412,6 +15426,195 @@
   <programme start="20201213230000 -0300" stop="20201214000000 -0300" channel="Golden Premier A">
     <title lang="es">Círculo Central</title>
   </programme>
+  <programme start="20201210003000 -0300" stop="20201210020000 -0300" channel="Golden Premier B">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20201210020000 -0300" stop="20201210030000 -0300" channel="Golden Premier B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20201210030000 -0300" stop="20201210040000 -0300" channel="Golden Premier B">
+    <title lang="es">Red Cuerdos</title>
+  </programme>
+  <programme start="20201210040000 -0300" stop="20201210050000 -0300" channel="Golden Premier B">
+    <title lang="es">Hola Millones</title>
+  </programme>
+  <programme start="20201210050000 -0300" stop="20201210063000 -0300" channel="Golden Premier B">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201210063000 -0300" stop="20201210073000 -0300" channel="Golden Premier B">
+    <title lang="es">Juez Franco</title>
+  </programme>
+  <programme start="20201210073000 -0300" stop="20201210080000 -0300" channel="Golden Premier B">
+    <title lang="es">Just for Laughs Gags</title>
+  </programme>
+  <programme start="20201210080000 -0300" stop="20201210090000 -0300" channel="Golden Premier B">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20201210090000 -0300" stop="20201210110000 -0300" channel="Golden Premier B">
+    <title lang="es">Falabella TV</title>
+  </programme>
+  <programme start="20201210110000 -0300" stop="20201210130000 -0300" channel="Golden Premier B">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20201210130000 -0300" stop="20201210133000 -0300" channel="Golden Premier B">
+    <title lang="es">Vivir Consciente</title>
+  </programme>
+  <programme start="20201210133000 -0300" stop="20201210143000 -0300" channel="Golden Premier B">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201210143000 -0300" stop="20201210153000 -0300" channel="Golden Premier B">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201210153000 -0300" stop="20201210183000 -0300" channel="Golden Premier B">
+    <title lang="es">La tarde de Hola Chile</title>
+  </programme>
+  <programme start="20201210183000 -0300" stop="20201210193000 -0300" channel="Golden Premier B">
+    <title lang="es">Hola Millones</title>
+  </programme>
+  <programme start="20201210193000 -0300" stop="20201210213000 -0300" channel="Golden Premier B">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201210213000 -0300" stop="20201210223000 -0300" channel="Golden Premier B">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20201210223000 -0300" stop="20201211010000 -0300" channel="Golden Premier B">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20201211010000 -0300" stop="20201211023000 -0300" channel="Golden Premier B">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20201211023000 -0300" stop="20201211033000 -0300" channel="Golden Premier B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20201211033000 -0300" stop="20201211043000 -0300" channel="Golden Premier B">
+    <title lang="es">Red Cuerdos</title>
+  </programme>
+  <programme start="20201211043000 -0300" stop="20201211053000 -0300" channel="Golden Premier B">
+    <title lang="es">Hola Millones</title>
+  </programme>
+  <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Golden Premier B">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Golden Premier B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Golden Premier B">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201212060000 -0300" stop="20201212064500 -0300" channel="Golden Premier B">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20201212064500 -0300" stop="20201212073000 -0300" channel="Golden Premier B">
+    <title lang="es">Videos divertidos de Animal Planet</title>
+  </programme>
+  <programme start="20201212073000 -0300" stop="20201212080000 -0300" channel="Golden Premier B">
+    <title lang="es">Kidsabada</title>
+  </programme>
+  <programme start="20201212080000 -0300" stop="20201212083000 -0300" channel="Golden Premier B">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20201212083000 -0300" stop="20201212110000 -0300" channel="Golden Premier B">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20201212110000 -0300" stop="20201212130000 -0300" channel="Golden Premier B">
+    <title lang="es">Animal Atlas</title>
+  </programme>
+  <programme start="20201212130000 -0300" stop="20201212150000 -0300" channel="Golden Premier B">
+    <title lang="es">Lo mejor de Hola, Chile</title>
+  </programme>
+  <programme start="20201212150000 -0300" stop="20201212160000 -0300" channel="Golden Premier B">
+    <title lang="es">Comisario Rex</title>
+  </programme>
+  <programme start="20201212160000 -0300" stop="20201212163000 -0300" channel="Golden Premier B">
+    <title lang="es">Chile Sustentable</title>
+  </programme>
+  <programme start="20201212163000 -0300" stop="20201212173000 -0300" channel="Golden Premier B">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201212173000 -0300" stop="20201212181500 -0300" channel="Golden Premier B">
+    <title lang="es">Bella y bestia</title>
+  </programme>
+  <programme start="20201212181500 -0300" stop="20201212191500 -0300" channel="Golden Premier B">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201212191500 -0300" stop="20201212201500 -0300" channel="Golden Premier B">
+    <title lang="es">Numb3rs</title>
+  </programme>
+  <programme start="20201212201500 -0300" stop="20201212210000 -0300" channel="Golden Premier B">
+    <title lang="es">NCIS: Nueva Orleans</title>
+    <title lang="xx">NCIS: New Orleans</title>
+    <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+      <actor>Rob Kerkovich</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Daryl "Chill" Mitchell</actor>
+      <actor>Shalita Grant</actor>
+      <actor>Vanessa Ferlito</actor>
+      <producer>David Appelbaum</producer>
+      <producer>Joshua Rexon</producer>
+      <composer>John Lee Hooker</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_new_orleans.jpg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20201212210000 -0300" stop="20201212220000 -0300" channel="Golden Premier B">
+    <title lang="es">Scorpion</title>
+  </programme>
+  <programme start="20201212220000 -0300" stop="20201212230000 -0300" channel="Golden Premier B">
+    <title lang="es">Mentes brillantes</title>
+  </programme>
+  <programme start="20201212230000 -0300" stop="20201213000000 -0300" channel="Golden Premier B">
+    <title lang="es">Cultura verdadera</title>
+  </programme>
+  <programme start="20201213000000 -0300" stop="20201213020000 -0300" channel="Golden Premier B">
+    <title lang="es">Lo Mejor de 'Así Somos</title>
+  </programme>
+  <programme start="20201213020000 -0300" stop="20201213030000 -0300" channel="Golden Premier B">
+    <title lang="es">Aguila roja</title>
+  </programme>
+  <programme start="20201213030000 -0300" stop="20201213034500 -0300" channel="Golden Premier B">
+    <title lang="es">The Messengers</title>
+  </programme>
+  <programme start="20201213034500 -0300" stop="20201213043000 -0300" channel="Golden Premier B">
+    <title lang="es">R.I.S. París</title>
+  </programme>
+  <programme start="20201213043000 -0300" stop="20201213050000 -0300" channel="Golden Premier B">
+    <title lang="es">Chile Sustentable</title>
+  </programme>
+  <programme start="20201213073000 -0300" stop="20201213080000 -0300" channel="Golden Premier B">
+    <title lang="es">Listos a jugar</title>
+  </programme>
+  <programme start="20201213083000 -0300" stop="20201213103000 -0300" channel="Golden Premier B">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20201213103000 -0300" stop="20201213123000 -0300" channel="Golden Premier B">
+    <title lang="es">Pauta Libre</title>
+  </programme>
+  <programme start="20201213123000 -0300" stop="20201213143000 -0300" channel="Golden Premier B">
+    <title lang="es">Cada Día Mejor</title>
+  </programme>
+  <programme start="20201213143000 -0300" stop="20201213160000 -0300" channel="Golden Premier B">
+    <title lang="es">Comisario Rex</title>
+  </programme>
+  <programme start="20201213160000 -0300" stop="20201213163000 -0300" channel="Golden Premier B">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20201213163000 -0300" stop="20201213173000 -0300" channel="Golden Premier B">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20201213210000 -0300" stop="20201213230000 -0300" channel="Golden Premier B">
+    <title lang="es">Café Cargado</title>
+  </programme>
+  <programme start="20201213230000 -0300" stop="20201214000000 -0300" channel="Golden Premier B">
+    <title lang="es">Círculo Central</title>
+  </programme>
   <programme start="20201210003000 -0300" stop="20201210020000 -0300" channel="ISat">
     <title lang="es">Así somos</title>
   </programme>
@@ -15481,8 +15684,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ISat">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ISat">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ISat">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ISat">
     <title lang="es">Cierre de transmisión</title>
@@ -15670,8 +15873,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Multipremier">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Multipremier">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Multipremier">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Multipremier">
     <title lang="es">Cierre de transmisión</title>
@@ -15859,8 +16062,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Paramount Channel A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Paramount Channel A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Paramount Channel A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Paramount Channel A">
     <title lang="es">Cierre de transmisión</title>
@@ -16048,8 +16251,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Paramount Channel B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Paramount Channel B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Paramount Channel B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Paramount Channel B">
     <title lang="es">Cierre de transmisión</title>
@@ -16237,8 +16440,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Sony Channel A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Sony Channel A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Sony Channel A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Sony Channel A">
     <title lang="es">Cierre de transmisión</title>
@@ -16426,8 +16629,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Sony Channel B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Sony Channel B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Sony Channel B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Sony Channel B">
     <title lang="es">Cierre de transmisión</title>
@@ -16615,8 +16818,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Space A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Space A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Space A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Space A">
     <title lang="es">Cierre de transmisión</title>
@@ -16804,8 +17007,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Space B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Space B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Space B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Space B">
     <title lang="es">Cierre de transmisión</title>
@@ -16993,8 +17196,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Studio Universal A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Studio Universal A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Studio Universal A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Studio Universal A">
     <title lang="es">Cierre de transmisión</title>
@@ -17182,8 +17385,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Studio Universal B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Studio Universal B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Studio Universal B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Studio Universal B">
     <title lang="es">Cierre de transmisión</title>
@@ -17371,8 +17574,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="SyFy A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="SyFy A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="SyFy A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="SyFy A">
     <title lang="es">Cierre de transmisión</title>
@@ -17560,8 +17763,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="SyFy B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="SyFy B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="SyFy B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="SyFy B">
     <title lang="es">Cierre de transmisión</title>
@@ -17749,8 +17952,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TBS A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TBS A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TBS A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TBS A">
     <title lang="es">Cierre de transmisión</title>
@@ -17938,8 +18141,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TBS B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TBS B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TBS B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TBS B">
     <title lang="es">Cierre de transmisión</title>
@@ -18127,8 +18330,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TCM A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TCM A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TCM A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TCM A">
     <title lang="es">Cierre de transmisión</title>
@@ -18316,8 +18519,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TCM B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TCM B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TCM B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TCM B">
     <title lang="es">Cierre de transmisión</title>
@@ -18505,8 +18708,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TNT A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TNT A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TNT A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TNT A">
     <title lang="es">Cierre de transmisión</title>
@@ -18694,8 +18897,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TNT B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TNT B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TNT B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TNT B">
     <title lang="es">Cierre de transmisión</title>
@@ -18883,8 +19086,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TNT Series A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TNT Series A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TNT Series A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TNT Series A">
     <title lang="es">Cierre de transmisión</title>
@@ -19072,8 +19275,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TNT Series B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TNT Series B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TNT Series B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TNT Series B">
     <title lang="es">Cierre de transmisión</title>
@@ -19261,8 +19464,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Universal Channel A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Universal Channel A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Universal Channel A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Universal Channel A">
     <title lang="es">Cierre de transmisión</title>
@@ -19450,8 +19653,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Universal Channel B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Universal Channel B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Universal Channel B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Universal Channel B">
     <title lang="es">Cierre de transmisión</title>
@@ -19639,8 +19842,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Warner Channel A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Warner Channel A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Warner Channel A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Warner Channel A">
     <title lang="es">Cierre de transmisión</title>
@@ -19828,8 +20031,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Warner Channel B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Warner Channel B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Warner Channel B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Warner Channel B">
     <title lang="es">Cierre de transmisión</title>
@@ -20017,8 +20220,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Animal Planet A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Animal Planet A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Animal Planet A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Animal Planet A">
     <title lang="es">Cierre de transmisión</title>
@@ -20206,8 +20409,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Animal Planet B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Animal Planet B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Animal Planet B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Animal Planet B">
     <title lang="es">Cierre de transmisión</title>
@@ -20395,8 +20598,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Channel A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Channel A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Channel A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Channel A">
     <title lang="es">Cierre de transmisión</title>
@@ -20584,8 +20787,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Channel">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Channel">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Channel">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Channel">
     <title lang="es">Cierre de transmisión</title>
@@ -20773,8 +20976,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Home and Health A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Home and Health A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Home and Health A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Home and Health A">
     <title lang="es">Cierre de transmisión</title>
@@ -20962,8 +21165,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Home and Health B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Home and Health B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Home and Health B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Home and Health B">
     <title lang="es">Cierre de transmisión</title>
@@ -21151,8 +21354,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery ID A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery ID A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery ID A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery ID A">
     <title lang="es">Cierre de transmisión</title>
@@ -21340,8 +21543,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery ID B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery ID B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery ID B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery ID B">
     <title lang="es">Cierre de transmisión</title>
@@ -21529,8 +21732,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Science A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Science A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Science A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Science A">
     <title lang="es">Cierre de transmisión</title>
@@ -21718,8 +21921,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Science B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Science B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Science B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Science B">
     <title lang="es">Cierre de transmisión</title>
@@ -21907,8 +22110,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Theater A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Theater A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Theater A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Theater A">
     <title lang="es">Cierre de transmisión</title>
@@ -22096,8 +22299,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Theater B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Theater B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Theater B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Theater B">
     <title lang="es">Cierre de transmisión</title>
@@ -22285,8 +22488,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery TLC A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery TLC A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery TLC A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery TLC A">
     <title lang="es">Cierre de transmisión</title>
@@ -22474,8 +22677,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery TLC B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery TLC B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery TLC B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery TLC B">
     <title lang="es">Cierre de transmisión</title>
@@ -22663,8 +22866,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Turbo A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Turbo A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Turbo A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Turbo A">
     <title lang="es">Cierre de transmisión</title>
@@ -22852,8 +23055,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Turbo B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Turbo B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Turbo B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Turbo B">
     <title lang="es">Cierre de transmisión</title>
@@ -23041,8 +23244,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery World A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery World A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery World A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery World A">
     <title lang="es">Cierre de transmisión</title>
@@ -23230,8 +23433,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery World B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery World B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery World B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery World B">
     <title lang="es">Cierre de transmisión</title>
@@ -23419,8 +23622,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="History Channel A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="History Channel A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="History Channel A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="History Channel A">
     <title lang="es">Cierre de transmisión</title>
@@ -23608,8 +23811,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="History Channel B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="History Channel B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="History Channel B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="History Channel B">
     <title lang="es">Cierre de transmisión</title>
@@ -23797,8 +24000,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="H2 A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="H2 A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="H2 A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="H2 A">
     <title lang="es">Cierre de transmisión</title>
@@ -23986,8 +24189,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="H2 B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="H2 B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="H2 B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="H2 B">
     <title lang="es">Cierre de transmisión</title>
@@ -24175,8 +24378,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="NatGeo Wild A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="NatGeo Wild A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="NatGeo Wild A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="NatGeo Wild A">
     <title lang="es">Cierre de transmisión</title>
@@ -24364,8 +24567,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="NatGeo Wild B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="NatGeo Wild B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="NatGeo Wild B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="NatGeo Wild B">
     <title lang="es">Cierre de transmisión</title>
@@ -24553,8 +24756,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="National Geographic A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="National Geographic A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="National Geographic A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="National Geographic A">
     <title lang="es">Cierre de transmisión</title>
@@ -24742,8 +24945,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="National Geographic B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="National Geographic B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="National Geographic B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="National Geographic B">
     <title lang="es">Cierre de transmisión</title>
@@ -24931,8 +25134,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DirecTV Sports 1 A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DirecTV Sports 1 A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DirecTV Sports 1 A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DirecTV Sports 1 A">
     <title lang="es">Cierre de transmisión</title>
@@ -25120,8 +25323,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DirecTV Sports 1 B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DirecTV Sports 1 B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DirecTV Sports 1 B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DirecTV Sports 1 B">
     <title lang="es">Cierre de transmisión</title>
@@ -25309,8 +25512,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DirecTV Sports 1 C">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DirecTV Sports 1 C">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DirecTV Sports 1 C">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DirecTV Sports 1 C">
     <title lang="es">Cierre de transmisión</title>
@@ -25498,8 +25701,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DirecTV Sports 1 D">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DirecTV Sports 1 D">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DirecTV Sports 1 D">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DirecTV Sports 1 D">
     <title lang="es">Cierre de transmisión</title>
@@ -25687,8 +25890,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DirecTV Sports 1 E">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DirecTV Sports 1 E">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DirecTV Sports 1 E">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DirecTV Sports 1 E">
     <title lang="es">Cierre de transmisión</title>
@@ -25876,8 +26079,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DirecTV Sports 1 F">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DirecTV Sports 1 F">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DirecTV Sports 1 F">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DirecTV Sports 1 F">
     <title lang="es">Cierre de transmisión</title>
@@ -26065,8 +26268,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DirecTV Sports 2 A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DirecTV Sports 2 A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DirecTV Sports 2 A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DirecTV Sports 2 A">
     <title lang="es">Cierre de transmisión</title>
@@ -26254,8 +26457,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DirecTV Sports 2 B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DirecTV Sports 2 B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DirecTV Sports 2 B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DirecTV Sports 2 B">
     <title lang="es">Cierre de transmisión</title>
@@ -26443,8 +26646,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DirecTV Sports 2 C">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DirecTV Sports 2 C">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DirecTV Sports 2 C">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DirecTV Sports 2 C">
     <title lang="es">Cierre de transmisión</title>
@@ -26632,8 +26835,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DirecTV Sports Plus A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DirecTV Sports Plus A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DirecTV Sports Plus A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DirecTV Sports Plus A">
     <title lang="es">Cierre de transmisión</title>
@@ -26821,8 +27024,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DirecTV Sports Plus B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DirecTV Sports Plus B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DirecTV Sports Plus B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DirecTV Sports Plus B">
     <title lang="es">Cierre de transmisión</title>
@@ -27010,8 +27213,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 1 MX">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 1 MX">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 1 MX">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 1 MX">
     <title lang="es">Cierre de transmisión</title>
@@ -27199,8 +27402,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 1 SUR A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 1 SUR A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 1 SUR A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 1 SUR A">
     <title lang="es">Cierre de transmisión</title>
@@ -27388,8 +27591,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 1 SUR B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 1 SUR B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 1 SUR B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 1 SUR B">
     <title lang="es">Cierre de transmisión</title>
@@ -27577,8 +27780,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 1 SUR C">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 1 SUR C">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 1 SUR C">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 1 SUR C">
     <title lang="es">Cierre de transmisión</title>
@@ -27766,8 +27969,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 1 SUR D">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 1 SUR D">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 1 SUR D">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 1 SUR D">
     <title lang="es">Cierre de transmisión</title>
@@ -27955,8 +28158,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 2 CHILE A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 2 CHILE A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 2 CHILE A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 2 CHILE A">
     <title lang="es">Cierre de transmisión</title>
@@ -28144,8 +28347,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 2 CHILE B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 2 CHILE B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 2 CHILE B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 2 CHILE B">
     <title lang="es">Cierre de transmisión</title>
@@ -28333,8 +28536,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 2 CHILE C">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 2 CHILE C">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 2 CHILE C">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 2 CHILE C">
     <title lang="es">Cierre de transmisión</title>
@@ -28522,8 +28725,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 2 COLOMBIA A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 2 COLOMBIA A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 2 COLOMBIA A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 2 COLOMBIA A">
     <title lang="es">Cierre de transmisión</title>
@@ -28711,8 +28914,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 2 COLOMBIA B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 2 COLOMBIA B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 2 COLOMBIA B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 2 COLOMBIA B">
     <title lang="es">Cierre de transmisión</title>
@@ -28900,8 +29103,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 2 COLOMBIA C">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 2 COLOMBIA C">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 2 COLOMBIA C">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 2 COLOMBIA C">
     <title lang="es">Cierre de transmisión</title>
@@ -29089,8 +29292,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 2 MX">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 2 MX">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 2 MX">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 2 MX">
     <title lang="es">Cierre de transmisión</title>
@@ -29278,8 +29481,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 3 MX">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 3 MX">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 3 MX">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 3 MX">
     <title lang="es">Cierre de transmisión</title>
@@ -29467,8 +29670,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 3 SUR A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 3 SUR A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 3 SUR A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 3 SUR A">
     <title lang="es">Cierre de transmisión</title>
@@ -29656,8 +29859,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN 3 SUR B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN 3 SUR B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN 3 SUR B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN 3 SUR B">
     <title lang="es">Cierre de transmisión</title>
@@ -29845,8 +30048,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN Deportes">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN Deportes">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN Deportes">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN Deportes">
     <title lang="es">Cierre de transmisión</title>
@@ -30034,8 +30237,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ESPN Extra">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ESPN Extra">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ESPN Extra">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ESPN Extra">
     <title lang="es">Cierre de transmisión</title>
@@ -30223,8 +30426,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Sports 1 MX">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Sports 1 MX">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Sports 1 MX">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Sports 1 MX">
     <title lang="es">Cierre de transmisión</title>
@@ -30412,8 +30615,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Sports 1 SUR A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Sports 1 SUR A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Sports 1 SUR A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Sports 1 SUR A">
     <title lang="es">Cierre de transmisión</title>
@@ -30601,8 +30804,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Sports 1 SUR B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Sports 1 SUR B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Sports 1 SUR B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Sports 1 SUR B">
     <title lang="es">Cierre de transmisión</title>
@@ -30790,8 +30993,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Sports 1 SUR C">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Sports 1 SUR C">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Sports 1 SUR C">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Sports 1 SUR C">
     <title lang="es">Cierre de transmisión</title>
@@ -30979,8 +31182,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Sports 1 SUR D">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Sports 1 SUR D">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Sports 1 SUR D">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Sports 1 SUR D">
     <title lang="es">Cierre de transmisión</title>
@@ -31168,8 +31371,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Sports 1 SUR E">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Sports 1 SUR E">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Sports 1 SUR E">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Sports 1 SUR E">
     <title lang="es">Cierre de transmisión</title>
@@ -31357,8 +31560,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Sports 3 MX">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Sports 3 MX">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Sports 3 MX">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Sports 3 MX">
     <title lang="es">Cierre de transmisión</title>
@@ -31546,8 +31749,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Sports 3 SUR A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Sports 3 SUR A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Sports 3 SUR A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Sports 3 SUR A">
     <title lang="es">Cierre de transmisión</title>
@@ -31735,8 +31938,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Fox Sports 3 SUR B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Fox Sports 3 SUR B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Fox Sports 3 SUR B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Fox Sports 3 SUR B">
     <title lang="es">Cierre de transmisión</title>
@@ -31924,8 +32127,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TNT Sports A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TNT Sports A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TNT Sports A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TNT Sports A">
     <title lang="es">Cierre de transmisión</title>
@@ -32113,8 +32316,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TNT Sports B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TNT Sports B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TNT Sports B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TNT Sports B">
     <title lang="es">Cierre de transmisión</title>
@@ -32302,8 +32505,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TNT Sports C">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TNT Sports C">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TNT Sports C">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TNT Sports C">
     <title lang="es">Cierre de transmisión</title>
@@ -32491,8 +32694,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Movistar Deportes">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Movistar Deportes">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Movistar Deportes">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Movistar Deportes">
     <title lang="es">Cierre de transmisión</title>
@@ -32680,8 +32883,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TyC Sports A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TyC Sports A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TyC Sports A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TyC Sports A">
     <title lang="es">Cierre de transmisión</title>
@@ -32869,8 +33072,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="TyC Sports B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="TyC Sports B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="TyC Sports B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="TyC Sports B">
     <title lang="es">Cierre de transmisión</title>
@@ -33058,8 +33261,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="UFC Live">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="UFC Live">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="UFC Live">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="UFC Live">
     <title lang="es">Cierre de transmisión</title>
@@ -33247,8 +33450,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Comedy Central">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Comedy Central">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Comedy Central">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Comedy Central">
     <title lang="es">Cierre de transmisión</title>
@@ -33436,8 +33639,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Distrito Comedia">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Distrito Comedia">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Distrito Comedia">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Distrito Comedia">
     <title lang="es">Cierre de transmisión</title>
@@ -33625,8 +33828,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="DW">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="DW">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="DW">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="DW">
     <title lang="es">Cierre de transmisión</title>
@@ -33814,8 +34017,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="EL Gourmet">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="EL Gourmet">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="EL Gourmet">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="EL Gourmet">
     <title lang="es">Cierre de transmisión</title>
@@ -34003,8 +34206,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Food Network">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Food Network">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Food Network">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Food Network">
     <title lang="es">Cierre de transmisión</title>
@@ -34192,8 +34395,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Garage TV">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Garage TV">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Garage TV">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Garage TV">
     <title lang="es">Cierre de transmisión</title>
@@ -34381,8 +34584,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Glitz">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Glitz">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Glitz">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Glitz">
     <title lang="es">Cierre de transmisión</title>
@@ -34570,8 +34773,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Hola TV">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Hola TV">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Hola TV">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Hola TV">
     <title lang="es">Cierre de transmisión</title>
@@ -34759,8 +34962,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Las Estrellas">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Las Estrellas">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Las Estrellas">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Las Estrellas">
     <title lang="es">Cierre de transmisión</title>
@@ -34948,8 +35151,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Lifetime">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Lifetime">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Lifetime">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Lifetime">
     <title lang="es">Cierre de transmisión</title>
@@ -35137,8 +35340,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Mas Chic">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Mas Chic">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Mas Chic">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Mas Chic">
     <title lang="es">Cierre de transmisión</title>
@@ -35326,8 +35529,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Telefe">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Telefe">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Telefe">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Telefe">
     <title lang="es">Cierre de transmisión</title>
@@ -35515,8 +35718,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Telesur">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Telesur">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Telesur">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Telesur">
     <title lang="es">Cierre de transmisión</title>
@@ -35704,8 +35907,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Baby TV A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Baby TV A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Baby TV A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Baby TV A">
     <title lang="es">Cierre de transmisión</title>
@@ -35893,8 +36096,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Baby TV B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Baby TV B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Baby TV B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Baby TV B">
     <title lang="es">Cierre de transmisión</title>
@@ -36082,8 +36285,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Boomereang A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Boomereang A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Boomereang A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Boomereang A">
     <title lang="es">Cierre de transmisión</title>
@@ -36271,8 +36474,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Boomereang B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Boomereang B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Boomereang B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Boomereang B">
     <title lang="es">Cierre de transmisión</title>
@@ -36460,8 +36663,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Cartoon Network A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Cartoon Network A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Cartoon Network A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Cartoon Network A">
     <title lang="es">Cierre de transmisión</title>
@@ -36649,8 +36852,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Cartoon Network B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Cartoon Network B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Cartoon Network B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Cartoon Network B">
     <title lang="es">Cierre de transmisión</title>
@@ -36838,8 +37041,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Kids A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Kids A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Kids A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Kids A">
     <title lang="es">Cierre de transmisión</title>
@@ -37027,8 +37230,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Discovery Kids B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Discovery Kids B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Discovery Kids B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Discovery Kids B">
     <title lang="es">Cierre de transmisión</title>
@@ -37216,8 +37419,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Disney Channel">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Disney Channel">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Disney Channel">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Disney Channel">
     <title lang="es">Cierre de transmisión</title>
@@ -37405,8 +37608,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Disney Junior A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Disney Junior A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Disney Junior A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Disney Junior A">
     <title lang="es">Cierre de transmisión</title>
@@ -37594,8 +37797,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Disney Junior B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Disney Junior B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Disney Junior B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Disney Junior B">
     <title lang="es">Cierre de transmisión</title>
@@ -37783,8 +37986,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Disney XD A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Disney XD A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Disney XD A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Disney XD A">
     <title lang="es">Cierre de transmisión</title>
@@ -37972,8 +38175,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Disney XD B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Disney XD B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Disney XD B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Disney XD B">
     <title lang="es">Cierre de transmisión</title>
@@ -38161,8 +38364,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="ETC TV">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="ETC TV">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="ETC TV">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="ETC TV">
     <title lang="es">Cierre de transmisión</title>
@@ -38350,8 +38553,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="NatGeo Kids">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="NatGeo Kids">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="NatGeo Kids">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="NatGeo Kids">
     <title lang="es">Cierre de transmisión</title>
@@ -38539,8 +38742,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Nick 2 A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Nick 2 A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Nick 2 A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Nick 2 A">
     <title lang="es">Cierre de transmisión</title>
@@ -38728,8 +38931,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Nick 2 B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Nick 2 B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Nick 2 B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Nick 2 B">
     <title lang="es">Cierre de transmisión</title>
@@ -38917,8 +39120,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Nick Jr">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Nick Jr">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Nick Jr">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Nick Jr">
     <title lang="es">Cierre de transmisión</title>
@@ -39106,8 +39309,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Nickelodeon">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Nickelodeon">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Nickelodeon">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Nickelodeon">
     <title lang="es">Cierre de transmisión</title>
@@ -39295,8 +39498,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Tooncast A">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Tooncast A">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Tooncast A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Tooncast A">
     <title lang="es">Cierre de transmisión</title>
@@ -39484,8 +39687,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Tooncast B">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Tooncast B">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Tooncast B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Tooncast B">
     <title lang="es">Cierre de transmisión</title>
@@ -39673,8 +39876,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Concert Channel">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Concert Channel">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Concert Channel">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Concert Channel">
     <title lang="es">Cierre de transmisión</title>
@@ -39862,8 +40065,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="HTV">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="HTV">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="HTV">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="HTV">
     <title lang="es">Cierre de transmisión</title>
@@ -40051,8 +40254,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="VH1">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="VH1">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="VH1">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="VH1">
     <title lang="es">Cierre de transmisión</title>
@@ -40240,8 +40443,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Nick Music">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Nick Music">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Nick Music">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Nick Music">
     <title lang="es">Cierre de transmisión</title>
@@ -40429,8 +40632,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="Vh1 Classics">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="Vh1 Classics">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="Vh1 Classics">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="Vh1 Classics">
     <title lang="es">Cierre de transmisión</title>
@@ -40618,8 +40821,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="MTV">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="MTV">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="MTV">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="MTV">
     <title lang="es">Cierre de transmisión</title>
@@ -40807,8 +41010,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="MTV Hits">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="MTV Hits">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="MTV Hits">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="MTV Hits">
     <title lang="es">Cierre de transmisión</title>
@@ -40996,8 +41199,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="MTV Live">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="MTV Live">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="MTV Live">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="MTV Live">
     <title lang="es">Cierre de transmisión</title>
@@ -41185,8 +41388,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="24 Horas Play">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="24 Horas Play">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="24 Horas Play">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="24 Horas Play">
     <title lang="es">Cierre de transmisión</title>
@@ -41374,8 +41577,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="CNN Español">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="CNN Español">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="CNN Español">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="CNN Español">
     <title lang="es">Cierre de transmisión</title>
@@ -41563,8 +41766,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="CNN Internacional">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="CNN Internacional">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="CNN Internacional">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="CNN Internacional">
     <title lang="es">Cierre de transmisión</title>
@@ -41752,8 +41955,8 @@
   <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="CNN Chile">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20201212003000 -0300" stop="20201212020000 -0300" channel="CNN Chile">
-    <title lang="es">Así somos</title>
+  <programme start="20201212020000 -0300" stop="20201212030000 -0300" channel="CNN Chile">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
   <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="CNN Chile">
     <title lang="es">Cierre de transmisión</title>
