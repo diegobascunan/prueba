@@ -40,6 +40,76 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="La Red A">
+    <display-name lang="es">La Red A</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="La Red B">
+    <display-name lang="es">La Red B</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TVN A">
+    <display-name lang="es">TVN A</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TVN B">
+    <display-name lang="es">TVN B</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TVN C">
+    <display-name lang="es">TVN C</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Mega A">
+    <display-name lang="es">Mega A</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Mega B">
+    <display-name lang="es">Mega B</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Mega C">
+    <display-name lang="es">Mega C</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Chilevision A">
+    <display-name lang="es">Chilevision A</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Chilevision B">
+    <display-name lang="es">Chilevision B</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Chilevision C">
+    <display-name lang="es">Chilevision C</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 13 A">
+    <display-name lang="es">Canal 13 A</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 13 B">
+    <display-name lang="es">Canal 13 B</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TV Chile">
+    <display-name lang="es">TV Chile</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20201209012500 -0300" stop="20201209125000 -0300" channel="CDF Básico">
     <title lang="es">CDF</title>
   </programme>
@@ -76,31 +146,34 @@
   <programme start="20201210210000 -0300" stop="20201211060000 -0300" channel="CDF Básico">
     <title lang="es">CDF</title>
   </programme>
-  <programme start="20201211060000 -0300" stop="20201211070000 -0300" channel="CDF Básico">
-    <title lang="es">CDF Noticias</title>
-  </programme>
-  <programme start="20201211070000 -0300" stop="20201211090000 -0300" channel="CDF Básico">
-    <title lang="es">Todos Somos Técnicos</title>
-  </programme>
-  <programme start="20201211090000 -0300" stop="20201211140000 -0300" channel="CDF Básico">
+  <programme start="20201211210000 -0300" stop="20201212060000 -0300" channel="CDF Básico">
     <title lang="es">CDF</title>
   </programme>
-  <programme start="20201211140000 -0300" stop="20201211160000 -0300" channel="CDF Básico">
+  <programme start="20201212060000 -0300" stop="20201212070000 -0300" channel="CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20201212070000 -0300" stop="20201212090000 -0300" channel="CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20201212090000 -0300" stop="20201212140000 -0300" channel="CDF Básico">
+    <title lang="es">CDF</title>
+  </programme>
+  <programme start="20201212140000 -0300" stop="20201212160000 -0300" channel="CDF Básico">
     <title lang="es">Pelota Parada</title>
   </programme>
-  <programme start="20201211160000 -0300" stop="20201211180000 -0300" channel="CDF Básico">
+  <programme start="20201212160000 -0300" stop="20201212180000 -0300" channel="CDF Básico">
     <title lang="es">Abrazo de gol</title>
   </programme>
-  <programme start="20201211180000 -0300" stop="20201211190000 -0300" channel="CDF Básico">
+  <programme start="20201212180000 -0300" stop="20201212190000 -0300" channel="CDF Básico">
     <title lang="es">CDF Noticias</title>
   </programme>
-  <programme start="20201211190000 -0300" stop="20201211210000 -0300" channel="CDF Básico">
+  <programme start="20201212190000 -0300" stop="20201212210000 -0300" channel="CDF Básico">
     <title lang="es">Todos Somos Técnicos</title>
   </programme>
-  <programme start="20201212070000 -0300" stop="20201212190000 -0300" channel="CDF Básico">
+  <programme start="20201213070000 -0300" stop="20201213190000 -0300" channel="CDF Básico">
     <title lang="es">CDF</title>
   </programme>
-  <programme start="20201212190000 -0300" stop="20201213070000 -0300" channel="CDF Básico">
+  <programme start="20201213190000 -0300" stop="20201214070000 -0300" channel="CDF Básico">
     <title lang="es">CDF</title>
   </programme>
   <programme start="20201209012500 -0300" stop="20201209022000 -0300" channel="CDF HD 1">
@@ -942,5 +1015,2036 @@
   </programme>
   <programme start="20201213232500 -0300" stop="20201214002500 -0300" channel="CDF SD 7">
     <title lang="es">Pasaporte Qatar</title>
+  </programme>
+  <programme start="20201209003000 -0300" stop="20201209020000 -0300" channel="La Red A">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20201209020000 -0300" stop="20201209030000 -0300" channel="La Red A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20201209030000 -0300" stop="20201209040000 -0300" channel="La Red A">
+    <title lang="es">Red Cuerdos</title>
+  </programme>
+  <programme start="20201209040000 -0300" stop="20201209050000 -0300" channel="La Red A">
+    <title lang="es">Hola Millones</title>
+  </programme>
+  <programme start="20201209050000 -0300" stop="20201209063000 -0300" channel="La Red A">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201209063000 -0300" stop="20201209073000 -0300" channel="La Red A">
+    <title lang="es">Juez Franco</title>
+  </programme>
+  <programme start="20201209073000 -0300" stop="20201209080000 -0300" channel="La Red A">
+    <title lang="es">Just for Laughs Gags</title>
+  </programme>
+  <programme start="20201209080000 -0300" stop="20201209090000 -0300" channel="La Red A">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20201209090000 -0300" stop="20201209110000 -0300" channel="La Red A">
+    <title lang="es">Falabella TV</title>
+  </programme>
+  <programme start="20201209110000 -0300" stop="20201209130000 -0300" channel="La Red A">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209133000 -0300" channel="La Red A">
+    <title lang="es">Vivir Consciente</title>
+  </programme>
+  <programme start="20201209133000 -0300" stop="20201209143000 -0300" channel="La Red A">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201209143000 -0300" stop="20201209153000 -0300" channel="La Red A">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209183000 -0300" channel="La Red A">
+    <title lang="es">La tarde de Hola Chile</title>
+  </programme>
+  <programme start="20201209183000 -0300" stop="20201209193000 -0300" channel="La Red A">
+    <title lang="es">Hola Millones</title>
+  </programme>
+  <programme start="20201209193000 -0300" stop="20201209213000 -0300" channel="La Red A">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201209213000 -0300" stop="20201209223000 -0300" channel="La Red A">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20201210193000 -0300" stop="20201210213000 -0300" channel="La Red A">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201210223000 -0300" stop="20201211010000 -0300" channel="La Red A">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20201211010000 -0300" stop="20201211023000 -0300" channel="La Red A">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20201211023000 -0300" stop="20201211033000 -0300" channel="La Red A">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20201211033000 -0300" stop="20201211043000 -0300" channel="La Red A">
+    <title lang="es">Red Cuerdos</title>
+  </programme>
+  <programme start="20201211043000 -0300" stop="20201211053000 -0300" channel="La Red A">
+    <title lang="es">Hola Millones</title>
+  </programme>
+  <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="La Red A">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="La Red A">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201212060000 -0300" stop="20201212064500 -0300" channel="La Red A">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20201212064500 -0300" stop="20201212073000 -0300" channel="La Red A">
+    <title lang="es">Videos divertidos de Animal Planet</title>
+  </programme>
+  <programme start="20201212073000 -0300" stop="20201212080000 -0300" channel="La Red A">
+    <title lang="es">Kidsabada</title>
+  </programme>
+  <programme start="20201212080000 -0300" stop="20201212083000 -0300" channel="La Red A">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20201212083000 -0300" stop="20201212110000 -0300" channel="La Red A">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20201212110000 -0300" stop="20201212130000 -0300" channel="La Red A">
+    <title lang="es">Animal Atlas</title>
+  </programme>
+  <programme start="20201212130000 -0300" stop="20201212150000 -0300" channel="La Red A">
+    <title lang="es">Lo mejor de Hola, Chile</title>
+  </programme>
+  <programme start="20201212150000 -0300" stop="20201212160000 -0300" channel="La Red A">
+    <title lang="es">Comisario Rex</title>
+  </programme>
+  <programme start="20201212160000 -0300" stop="20201212163000 -0300" channel="La Red A">
+    <title lang="es">Chile Sustentable</title>
+  </programme>
+  <programme start="20201212163000 -0300" stop="20201212173000 -0300" channel="La Red A">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201212173000 -0300" stop="20201212181500 -0300" channel="La Red A">
+    <title lang="es">Bella y bestia</title>
+  </programme>
+  <programme start="20201212181500 -0300" stop="20201212191500 -0300" channel="La Red A">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201212191500 -0300" stop="20201212201500 -0300" channel="La Red A">
+    <title lang="es">Numb3rs</title>
+  </programme>
+  <programme start="20201212201500 -0300" stop="20201212210000 -0300" channel="La Red A">
+    <title lang="es">NCIS: Nueva Orleans</title>
+    <title lang="xx">NCIS: New Orleans</title>
+    <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+      <actor>Rob Kerkovich</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Daryl "Chill" Mitchell</actor>
+      <actor>Shalita Grant</actor>
+      <actor>Vanessa Ferlito</actor>
+      <producer>David Appelbaum</producer>
+      <producer>Joshua Rexon</producer>
+      <composer>John Lee Hooker</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_new_orleans.jpg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20201209003000 -0300" stop="20201209020000 -0300" channel="La Red B">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20201209020000 -0300" stop="20201209030000 -0300" channel="La Red B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20201209030000 -0300" stop="20201209040000 -0300" channel="La Red B">
+    <title lang="es">Red Cuerdos</title>
+  </programme>
+  <programme start="20201209040000 -0300" stop="20201209050000 -0300" channel="La Red B">
+    <title lang="es">Hola Millones</title>
+  </programme>
+  <programme start="20201209050000 -0300" stop="20201209063000 -0300" channel="La Red B">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201209063000 -0300" stop="20201209073000 -0300" channel="La Red B">
+    <title lang="es">Juez Franco</title>
+  </programme>
+  <programme start="20201209073000 -0300" stop="20201209080000 -0300" channel="La Red B">
+    <title lang="es">Just for Laughs Gags</title>
+  </programme>
+  <programme start="20201209080000 -0300" stop="20201209090000 -0300" channel="La Red B">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20201209090000 -0300" stop="20201209110000 -0300" channel="La Red B">
+    <title lang="es">Falabella TV</title>
+  </programme>
+  <programme start="20201209110000 -0300" stop="20201209130000 -0300" channel="La Red B">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209133000 -0300" channel="La Red B">
+    <title lang="es">Vivir Consciente</title>
+  </programme>
+  <programme start="20201209133000 -0300" stop="20201209143000 -0300" channel="La Red B">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201209143000 -0300" stop="20201209153000 -0300" channel="La Red B">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209183000 -0300" channel="La Red B">
+    <title lang="es">La tarde de Hola Chile</title>
+  </programme>
+  <programme start="20201209183000 -0300" stop="20201209193000 -0300" channel="La Red B">
+    <title lang="es">Hola Millones</title>
+  </programme>
+  <programme start="20201209193000 -0300" stop="20201209213000 -0300" channel="La Red B">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201209213000 -0300" stop="20201209223000 -0300" channel="La Red B">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20201210193000 -0300" stop="20201210213000 -0300" channel="La Red B">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201210223000 -0300" stop="20201211010000 -0300" channel="La Red B">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20201211010000 -0300" stop="20201211023000 -0300" channel="La Red B">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20201211023000 -0300" stop="20201211033000 -0300" channel="La Red B">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20201211033000 -0300" stop="20201211043000 -0300" channel="La Red B">
+    <title lang="es">Red Cuerdos</title>
+  </programme>
+  <programme start="20201211043000 -0300" stop="20201211053000 -0300" channel="La Red B">
+    <title lang="es">Hola Millones</title>
+  </programme>
+  <programme start="20201211053000 -0300" stop="20201211063000 -0300" channel="La Red B">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201212050000 -0300" stop="20201212060000 -0300" channel="La Red B">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201212060000 -0300" stop="20201212064500 -0300" channel="La Red B">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20201212064500 -0300" stop="20201212073000 -0300" channel="La Red B">
+    <title lang="es">Videos divertidos de Animal Planet</title>
+  </programme>
+  <programme start="20201212073000 -0300" stop="20201212080000 -0300" channel="La Red B">
+    <title lang="es">Kidsabada</title>
+  </programme>
+  <programme start="20201212080000 -0300" stop="20201212083000 -0300" channel="La Red B">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20201212083000 -0300" stop="20201212110000 -0300" channel="La Red B">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20201212110000 -0300" stop="20201212130000 -0300" channel="La Red B">
+    <title lang="es">Animal Atlas</title>
+  </programme>
+  <programme start="20201212130000 -0300" stop="20201212150000 -0300" channel="La Red B">
+    <title lang="es">Lo mejor de Hola, Chile</title>
+  </programme>
+  <programme start="20201212150000 -0300" stop="20201212160000 -0300" channel="La Red B">
+    <title lang="es">Comisario Rex</title>
+  </programme>
+  <programme start="20201212160000 -0300" stop="20201212163000 -0300" channel="La Red B">
+    <title lang="es">Chile Sustentable</title>
+  </programme>
+  <programme start="20201212163000 -0300" stop="20201212173000 -0300" channel="La Red B">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201212173000 -0300" stop="20201212181500 -0300" channel="La Red B">
+    <title lang="es">Bella y bestia</title>
+  </programme>
+  <programme start="20201212181500 -0300" stop="20201212191500 -0300" channel="La Red B">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201212191500 -0300" stop="20201212201500 -0300" channel="La Red B">
+    <title lang="es">Numb3rs</title>
+  </programme>
+  <programme start="20201212201500 -0300" stop="20201212210000 -0300" channel="La Red B">
+    <title lang="es">NCIS: Nueva Orleans</title>
+    <title lang="xx">NCIS: New Orleans</title>
+    <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+      <actor>Rob Kerkovich</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Daryl "Chill" Mitchell</actor>
+      <actor>Shalita Grant</actor>
+      <actor>Vanessa Ferlito</actor>
+      <producer>David Appelbaum</producer>
+      <producer>Joshua Rexon</producer>
+      <composer>John Lee Hooker</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_new_orleans.jpg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20201209010000 -0300" stop="20201209011500 -0300" channel="TVN A">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201209011500 -0300" stop="20201209070000 -0300" channel="TVN A">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="TVN A">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209130000 -0300" channel="TVN A">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209153000 -0300" channel="TVN A">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209164500 -0300" channel="TVN A">
+    <title lang="es">Circo de las Montini</title>
+  </programme>
+  <programme start="20201209164500 -0300" stop="20201209173000 -0300" channel="TVN A">
+    <title lang="es">Dama y obrero</title>
+  </programme>
+  <programme start="20201209173000 -0300" stop="20201209190000 -0300" channel="TVN A">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209194000 -0300" channel="TVN A">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20201209194000 -0300" stop="20201209204500 -0300" channel="TVN A">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20201209204500 -0300" stop="20201209223500 -0300" channel="TVN A">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201209223500 -0300" stop="20201209224000 -0300" channel="TVN A">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201209224000 -0300" stop="20201210000000 -0300" channel="TVN A">
+    <title lang="es">Fuerza de mujer</title>
+  </programme>
+  <programme start="20201210010000 -0300" stop="20201210013000 -0300" channel="TVN A">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20201210013000 -0300" stop="20201210014500 -0300" channel="TVN A">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201210014500 -0300" stop="20201210070000 -0300" channel="TVN A">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201210070000 -0300" stop="20201210083000 -0300" channel="TVN A">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20201210083000 -0300" stop="20201210130000 -0300" channel="TVN A">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20201210130000 -0300" stop="20201210153000 -0300" channel="TVN A">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201210153000 -0300" stop="20201210164500 -0300" channel="TVN A">
+    <title lang="es">Circo de las Montini</title>
+  </programme>
+  <programme start="20201210164500 -0300" stop="20201210173000 -0300" channel="TVN A">
+    <title lang="es">Dama y obrero</title>
+  </programme>
+  <programme start="20201210173000 -0300" stop="20201210190000 -0300" channel="TVN A">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201210190000 -0300" stop="20201210194000 -0300" channel="TVN A">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20201210194000 -0300" stop="20201210204500 -0300" channel="TVN A">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20201210204500 -0300" stop="20201210223500 -0300" channel="TVN A">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201210223500 -0300" stop="20201210224000 -0300" channel="TVN A">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201210224000 -0300" stop="20201211000000 -0300" channel="TVN A">
+    <title lang="es">Informe Especial</title>
+  </programme>
+  <programme start="20201211000000 -0300" stop="20201211010000 -0300" channel="TVN A">
+    <title lang="es">Fuerza de mujer</title>
+  </programme>
+  <programme start="20201211010000 -0300" stop="20201211014500 -0300" channel="TVN A">
+    <title lang="es">Mea Culpa</title>
+  </programme>
+  <programme start="20201211014500 -0300" stop="20201211021500 -0300" channel="TVN A">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20201211021500 -0300" stop="20201211023000 -0300" channel="TVN A">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201211023000 -0300" stop="20201211070000 -0300" channel="TVN A">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201211204500 -0300" stop="20201211223500 -0300" channel="TVN A">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201211224000 -0300" stop="20201212011500 -0300" channel="TVN A">
+    <title lang="es">Impacto profundo</title>
+  </programme>
+  <programme start="20201212224000 -0300" stop="20201213011500 -0300" channel="TVN A">
+    <title lang="es">Impacto profundo</title>
+  </programme>
+  <programme start="20201213011500 -0300" stop="20201213021500 -0300" channel="TVN A">
+    <title lang="es">El Día Menos Pensado</title>
+  </programme>
+  <programme start="20201213021500 -0300" stop="20201213023000 -0300" channel="TVN A">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201213023000 -0300" stop="20201213070000 -0300" channel="TVN A">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213080000 -0300" channel="TVN A">
+    <title lang="es">Puertas Abiertas</title>
+  </programme>
+  <programme start="20201213080000 -0300" stop="20201213083000 -0300" channel="TVN A">
+    <title lang="es">Bloque infantil</title>
+  </programme>
+  <programme start="20201213083000 -0300" stop="20201213091500 -0300" channel="TVN A">
+    <title lang="es">El Precio de la Historia</title>
+    <title lang="xx">Pawn Stars</title>
+    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.</desc>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201213091500 -0300" stop="20201213110000 -0300" channel="TVN A">
+    <title lang="es">Hermanos a la obra</title>
+  </programme>
+  <programme start="20201213110000 -0300" stop="20201213130000 -0300" channel="TVN A">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201213130000 -0300" stop="20201213143000 -0300" channel="TVN A">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201213143000 -0300" stop="20201213154500 -0300" channel="TVN A">
+    <title lang="es">Zoom Grandes momentos del deporte</title>
+  </programme>
+  <programme start="20201213154500 -0300" stop="20201213180000 -0300" channel="TVN A">
+    <title lang="es">Súper cine</title>
+  </programme>
+  <programme start="20201213180000 -0300" stop="20201213193000 -0300" channel="TVN A">
+    <title lang="es">Chilenos de selección</title>
+  </programme>
+  <programme start="20201213193000 -0300" stop="20201213210000 -0300" channel="TVN A">
+    <title lang="es">El juego de Chile</title>
+  </programme>
+  <programme start="20201209010000 -0300" stop="20201209011500 -0300" channel="TVN B">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201209011500 -0300" stop="20201209070000 -0300" channel="TVN B">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="TVN B">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209130000 -0300" channel="TVN B">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209153000 -0300" channel="TVN B">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209164500 -0300" channel="TVN B">
+    <title lang="es">Circo de las Montini</title>
+  </programme>
+  <programme start="20201209164500 -0300" stop="20201209173000 -0300" channel="TVN B">
+    <title lang="es">Dama y obrero</title>
+  </programme>
+  <programme start="20201209173000 -0300" stop="20201209190000 -0300" channel="TVN B">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209194000 -0300" channel="TVN B">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20201209194000 -0300" stop="20201209204500 -0300" channel="TVN B">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20201209204500 -0300" stop="20201209223500 -0300" channel="TVN B">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201209223500 -0300" stop="20201209224000 -0300" channel="TVN B">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201209224000 -0300" stop="20201210000000 -0300" channel="TVN B">
+    <title lang="es">Fuerza de mujer</title>
+  </programme>
+  <programme start="20201210010000 -0300" stop="20201210013000 -0300" channel="TVN B">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20201210013000 -0300" stop="20201210014500 -0300" channel="TVN B">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201210014500 -0300" stop="20201210070000 -0300" channel="TVN B">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201210070000 -0300" stop="20201210083000 -0300" channel="TVN B">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20201210083000 -0300" stop="20201210130000 -0300" channel="TVN B">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20201210130000 -0300" stop="20201210153000 -0300" channel="TVN B">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201210153000 -0300" stop="20201210164500 -0300" channel="TVN B">
+    <title lang="es">Circo de las Montini</title>
+  </programme>
+  <programme start="20201210164500 -0300" stop="20201210173000 -0300" channel="TVN B">
+    <title lang="es">Dama y obrero</title>
+  </programme>
+  <programme start="20201210173000 -0300" stop="20201210190000 -0300" channel="TVN B">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201210190000 -0300" stop="20201210194000 -0300" channel="TVN B">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20201210194000 -0300" stop="20201210204500 -0300" channel="TVN B">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20201210204500 -0300" stop="20201210223500 -0300" channel="TVN B">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201210223500 -0300" stop="20201210224000 -0300" channel="TVN B">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201210224000 -0300" stop="20201211000000 -0300" channel="TVN B">
+    <title lang="es">Informe Especial</title>
+  </programme>
+  <programme start="20201211000000 -0300" stop="20201211010000 -0300" channel="TVN B">
+    <title lang="es">Fuerza de mujer</title>
+  </programme>
+  <programme start="20201211010000 -0300" stop="20201211014500 -0300" channel="TVN B">
+    <title lang="es">Mea Culpa</title>
+  </programme>
+  <programme start="20201211014500 -0300" stop="20201211021500 -0300" channel="TVN B">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20201211021500 -0300" stop="20201211023000 -0300" channel="TVN B">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201211023000 -0300" stop="20201211070000 -0300" channel="TVN B">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201211204500 -0300" stop="20201211223500 -0300" channel="TVN B">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201211224000 -0300" stop="20201212011500 -0300" channel="TVN B">
+    <title lang="es">Impacto profundo</title>
+  </programme>
+  <programme start="20201212224000 -0300" stop="20201213011500 -0300" channel="TVN B">
+    <title lang="es">Impacto profundo</title>
+  </programme>
+  <programme start="20201213011500 -0300" stop="20201213021500 -0300" channel="TVN B">
+    <title lang="es">El Día Menos Pensado</title>
+  </programme>
+  <programme start="20201213021500 -0300" stop="20201213023000 -0300" channel="TVN B">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201213023000 -0300" stop="20201213070000 -0300" channel="TVN B">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213080000 -0300" channel="TVN B">
+    <title lang="es">Puertas Abiertas</title>
+  </programme>
+  <programme start="20201213080000 -0300" stop="20201213083000 -0300" channel="TVN B">
+    <title lang="es">Bloque infantil</title>
+  </programme>
+  <programme start="20201213083000 -0300" stop="20201213091500 -0300" channel="TVN B">
+    <title lang="es">El Precio de la Historia</title>
+    <title lang="xx">Pawn Stars</title>
+    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.</desc>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201213091500 -0300" stop="20201213110000 -0300" channel="TVN B">
+    <title lang="es">Hermanos a la obra</title>
+  </programme>
+  <programme start="20201213110000 -0300" stop="20201213130000 -0300" channel="TVN B">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201213130000 -0300" stop="20201213143000 -0300" channel="TVN B">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201213143000 -0300" stop="20201213154500 -0300" channel="TVN B">
+    <title lang="es">Zoom Grandes momentos del deporte</title>
+  </programme>
+  <programme start="20201213154500 -0300" stop="20201213180000 -0300" channel="TVN B">
+    <title lang="es">Súper cine</title>
+  </programme>
+  <programme start="20201213180000 -0300" stop="20201213193000 -0300" channel="TVN B">
+    <title lang="es">Chilenos de selección</title>
+  </programme>
+  <programme start="20201213193000 -0300" stop="20201213210000 -0300" channel="TVN B">
+    <title lang="es">El juego de Chile</title>
+  </programme>
+  <programme start="20201209010000 -0300" stop="20201209011500 -0300" channel="TVN C">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201209011500 -0300" stop="20201209070000 -0300" channel="TVN C">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="TVN C">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209130000 -0300" channel="TVN C">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209153000 -0300" channel="TVN C">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209164500 -0300" channel="TVN C">
+    <title lang="es">Circo de las Montini</title>
+  </programme>
+  <programme start="20201209164500 -0300" stop="20201209173000 -0300" channel="TVN C">
+    <title lang="es">Dama y obrero</title>
+  </programme>
+  <programme start="20201209173000 -0300" stop="20201209190000 -0300" channel="TVN C">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209194000 -0300" channel="TVN C">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20201209194000 -0300" stop="20201209204500 -0300" channel="TVN C">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20201209204500 -0300" stop="20201209223500 -0300" channel="TVN C">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201209223500 -0300" stop="20201209224000 -0300" channel="TVN C">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201209224000 -0300" stop="20201210000000 -0300" channel="TVN C">
+    <title lang="es">Fuerza de mujer</title>
+  </programme>
+  <programme start="20201210010000 -0300" stop="20201210013000 -0300" channel="TVN C">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20201210013000 -0300" stop="20201210014500 -0300" channel="TVN C">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201210014500 -0300" stop="20201210070000 -0300" channel="TVN C">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201210070000 -0300" stop="20201210083000 -0300" channel="TVN C">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20201210083000 -0300" stop="20201210130000 -0300" channel="TVN C">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20201210130000 -0300" stop="20201210153000 -0300" channel="TVN C">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201210153000 -0300" stop="20201210164500 -0300" channel="TVN C">
+    <title lang="es">Circo de las Montini</title>
+  </programme>
+  <programme start="20201210164500 -0300" stop="20201210173000 -0300" channel="TVN C">
+    <title lang="es">Dama y obrero</title>
+  </programme>
+  <programme start="20201210173000 -0300" stop="20201210190000 -0300" channel="TVN C">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201210190000 -0300" stop="20201210194000 -0300" channel="TVN C">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20201210194000 -0300" stop="20201210204500 -0300" channel="TVN C">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20201210204500 -0300" stop="20201210223500 -0300" channel="TVN C">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201210223500 -0300" stop="20201210224000 -0300" channel="TVN C">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201210224000 -0300" stop="20201211000000 -0300" channel="TVN C">
+    <title lang="es">Informe Especial</title>
+  </programme>
+  <programme start="20201211000000 -0300" stop="20201211010000 -0300" channel="TVN C">
+    <title lang="es">Fuerza de mujer</title>
+  </programme>
+  <programme start="20201211010000 -0300" stop="20201211014500 -0300" channel="TVN C">
+    <title lang="es">Mea Culpa</title>
+  </programme>
+  <programme start="20201211014500 -0300" stop="20201211021500 -0300" channel="TVN C">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20201211021500 -0300" stop="20201211023000 -0300" channel="TVN C">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201211023000 -0300" stop="20201211070000 -0300" channel="TVN C">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201211204500 -0300" stop="20201211223500 -0300" channel="TVN C">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201211224000 -0300" stop="20201212011500 -0300" channel="TVN C">
+    <title lang="es">Impacto profundo</title>
+  </programme>
+  <programme start="20201212224000 -0300" stop="20201213011500 -0300" channel="TVN C">
+    <title lang="es">Impacto profundo</title>
+  </programme>
+  <programme start="20201213011500 -0300" stop="20201213021500 -0300" channel="TVN C">
+    <title lang="es">El Día Menos Pensado</title>
+  </programme>
+  <programme start="20201213021500 -0300" stop="20201213023000 -0300" channel="TVN C">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20201213023000 -0300" stop="20201213070000 -0300" channel="TVN C">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213080000 -0300" channel="TVN C">
+    <title lang="es">Puertas Abiertas</title>
+  </programme>
+  <programme start="20201213080000 -0300" stop="20201213083000 -0300" channel="TVN C">
+    <title lang="es">Bloque infantil</title>
+  </programme>
+  <programme start="20201213083000 -0300" stop="20201213091500 -0300" channel="TVN C">
+    <title lang="es">El Precio de la Historia</title>
+    <title lang="xx">Pawn Stars</title>
+    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.</desc>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201213091500 -0300" stop="20201213110000 -0300" channel="TVN C">
+    <title lang="es">Hermanos a la obra</title>
+  </programme>
+  <programme start="20201213110000 -0300" stop="20201213130000 -0300" channel="TVN C">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201213130000 -0300" stop="20201213143000 -0300" channel="TVN C">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201213143000 -0300" stop="20201213154500 -0300" channel="TVN C">
+    <title lang="es">Zoom Grandes momentos del deporte</title>
+  </programme>
+  <programme start="20201213154500 -0300" stop="20201213180000 -0300" channel="TVN C">
+    <title lang="es">Súper cine</title>
+  </programme>
+  <programme start="20201213180000 -0300" stop="20201213193000 -0300" channel="TVN C">
+    <title lang="es">Chilenos de selección</title>
+  </programme>
+  <programme start="20201213193000 -0300" stop="20201213210000 -0300" channel="TVN C">
+    <title lang="es">El juego de Chile</title>
+  </programme>
+  <programme start="20201209001500 -0300" stop="20201209010000 -0300" channel="Mega A">
+    <title lang="es">¿Volverías con tu ex</title>
+  </programme>
+  <programme start="20201209010000 -0300" stop="20201209020000 -0300" channel="Mega A">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201209020000 -0300" stop="20201209070000 -0300" channel="Mega A">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="Mega A">
+    <title lang="es">Meganoticias conecta</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209120000 -0300" channel="Mega A">
+    <title lang="es">Mucho gusto</title>
+  </programme>
+  <programme start="20201209120000 -0300" stop="20201209130000 -0300" channel="Mega A">
+    <title lang="es">La hora de jugar</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209152500 -0300" channel="Mega A">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20201209152500 -0300" stop="20201209153000 -0300" channel="Mega A">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209155000 -0300" channel="Mega A">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20201209155000 -0300" stop="20201209164500 -0300" channel="Mega A">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20201209164500 -0300" stop="20201209173000 -0300" channel="Mega A">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20201209173000 -0300" stop="20201209181500 -0300" channel="Mega A">
+    <title lang="es">Eres mi vida</title>
+    <episode-num system="onscreen">E1191</episode-num>
+  </programme>
+  <programme start="20201209181500 -0300" stop="20201209190000 -0300" channel="Mega A">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209194500 -0300" channel="Mega A">
+    <title lang="es">Pobre gallo</title>
+  </programme>
+  <programme start="20201209194500 -0300" stop="20201209203000 -0300" channel="Mega A">
+    <title lang="es">Papá a la deriva</title>
+    <episode-num system="onscreen">E1162</episode-num>
+  </programme>
+  <programme start="20201209203000 -0300" stop="20201209215500 -0300" channel="Mega A">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20201209215500 -0300" stop="20201209220000 -0300" channel="Mega A">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20201209220000 -0300" stop="20201209224500 -0300" channel="Mega A">
+    <title lang="es">Pituca sin Lucas</title>
+    <episode-num system="onscreen">E144</episode-num>
+  </programme>
+  <programme start="20201209224500 -0300" stop="20201209233000 -0300" channel="Mega A">
+    <title lang="es">100 días para enamorarse</title>
+  </programme>
+  <programme start="20201209233000 -0300" stop="20201210001500 -0300" channel="Mega A">
+    <title lang="es">Señores Papis</title>
+  </programme>
+  <programme start="20201210173000 -0300" stop="20201210181500 -0300" channel="Mega A">
+    <title lang="es">Eres mi vida</title>
+  </programme>
+  <programme start="20201210181500 -0300" stop="20201210190000 -0300" channel="Mega A">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201210194500 -0300" stop="20201210203000 -0300" channel="Mega A">
+    <title lang="es">Papá a la deriva</title>
+  </programme>
+  <programme start="20201210203000 -0300" stop="20201210215500 -0300" channel="Mega A">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20201210220000 -0300" stop="20201210224500 -0300" channel="Mega A">
+    <title lang="es">Pituca sin Lucas</title>
+  </programme>
+  <programme start="20201210224500 -0300" stop="20201211001500 -0300" channel="Mega A">
+    <title lang="es">Dale Play</title>
+  </programme>
+  <programme start="20201211224500 -0300" stop="20201212001500 -0300" channel="Mega A">
+    <title lang="es">Dale Play</title>
+  </programme>
+  <programme start="20201212001500 -0300" stop="20201212013000 -0300" channel="Mega A">
+    <title lang="es">¿Volverías con tu ex</title>
+  </programme>
+  <programme start="20201212013000 -0300" stop="20201212023000 -0300" channel="Mega A">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201212023000 -0300" stop="20201212070000 -0300" channel="Mega A">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201212190000 -0300" stop="20201212194500 -0300" channel="Mega A">
+    <title lang="es">Papá a la deriva</title>
+    <episode-num system="onscreen">E1164</episode-num>
+  </programme>
+  <programme start="20201212194500 -0300" stop="20201212203000 -0300" channel="Mega A">
+    <title lang="es">Pobre gallo</title>
+  </programme>
+  <programme start="20201212220000 -0300" stop="20201213003000 -0300" channel="Mega A">
+    <title lang="es">Morandé con compañía</title>
+  </programme>
+  <programme start="20201213003000 -0300" stop="20201213013000 -0300" channel="Mega A">
+    <title lang="es">Comer y Sanar 2</title>
+  </programme>
+  <programme start="20201213023000 -0300" stop="20201213071500 -0300" channel="Mega A">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201213071500 -0300" stop="20201213073000 -0300" channel="Mega A">
+    <title lang="es">Pabellón de la Construcción TV</title>
+  </programme>
+  <programme start="20201213073000 -0300" stop="20201213080000 -0300" channel="Mega A">
+    <title lang="es">Cake Boss</title>
+  </programme>
+  <programme start="20201213080000 -0300" stop="20201213090000 -0300" channel="Mega A">
+    <title lang="es">A orillas del río</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213100000 -0300" channel="Mega A">
+    <title lang="es">No me olvides</title>
+  </programme>
+  <programme start="20201213100000 -0300" stop="20201213110000 -0300" channel="Mega A">
+    <title lang="es">Será Anunciado</title>
+  </programme>
+  <programme start="20201213110000 -0300" stop="20201213130000 -0300" channel="Mega A">
+    <title lang="es">Bicitantes</title>
+  </programme>
+  <programme start="20201213130000 -0300" stop="20201213150000 -0300" channel="Mega A">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20201213150000 -0300" stop="20201213160000 -0300" channel="Mega A">
+    <title lang="es">Plan V</title>
+  </programme>
+  <programme start="20201213160000 -0300" stop="20201213170000 -0300" channel="Mega A">
+    <title lang="es">Pobre gallo</title>
+  </programme>
+  <programme start="20201213170000 -0300" stop="20201213183000 -0300" channel="Mega A">
+    <title lang="es">Desafío millonario</title>
+  </programme>
+  <programme start="20201213183000 -0300" stop="20201213193000 -0300" channel="Mega A">
+    <title lang="es">Seleccion nacional</title>
+  </programme>
+  <programme start="20201213193000 -0300" stop="20201213203000 -0300" channel="Mega A">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20201209001500 -0300" stop="20201209010000 -0300" channel="Mega B">
+    <title lang="es">¿Volverías con tu ex</title>
+  </programme>
+  <programme start="20201209010000 -0300" stop="20201209020000 -0300" channel="Mega B">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201209020000 -0300" stop="20201209070000 -0300" channel="Mega B">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="Mega B">
+    <title lang="es">Meganoticias conecta</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209120000 -0300" channel="Mega B">
+    <title lang="es">Mucho gusto</title>
+  </programme>
+  <programme start="20201209120000 -0300" stop="20201209130000 -0300" channel="Mega B">
+    <title lang="es">La hora de jugar</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209152500 -0300" channel="Mega B">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20201209152500 -0300" stop="20201209153000 -0300" channel="Mega B">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209155000 -0300" channel="Mega B">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20201209155000 -0300" stop="20201209164500 -0300" channel="Mega B">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20201209164500 -0300" stop="20201209173000 -0300" channel="Mega B">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20201209173000 -0300" stop="20201209181500 -0300" channel="Mega B">
+    <title lang="es">Eres mi vida</title>
+    <episode-num system="onscreen">E1191</episode-num>
+  </programme>
+  <programme start="20201209181500 -0300" stop="20201209190000 -0300" channel="Mega B">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209194500 -0300" channel="Mega B">
+    <title lang="es">Pobre gallo</title>
+  </programme>
+  <programme start="20201209194500 -0300" stop="20201209203000 -0300" channel="Mega B">
+    <title lang="es">Papá a la deriva</title>
+    <episode-num system="onscreen">E1162</episode-num>
+  </programme>
+  <programme start="20201209203000 -0300" stop="20201209215500 -0300" channel="Mega B">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20201209215500 -0300" stop="20201209220000 -0300" channel="Mega B">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20201209220000 -0300" stop="20201209224500 -0300" channel="Mega B">
+    <title lang="es">Pituca sin Lucas</title>
+    <episode-num system="onscreen">E144</episode-num>
+  </programme>
+  <programme start="20201209224500 -0300" stop="20201209233000 -0300" channel="Mega B">
+    <title lang="es">100 días para enamorarse</title>
+  </programme>
+  <programme start="20201209233000 -0300" stop="20201210001500 -0300" channel="Mega B">
+    <title lang="es">Señores Papis</title>
+  </programme>
+  <programme start="20201210173000 -0300" stop="20201210181500 -0300" channel="Mega B">
+    <title lang="es">Eres mi vida</title>
+  </programme>
+  <programme start="20201210181500 -0300" stop="20201210190000 -0300" channel="Mega B">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201210194500 -0300" stop="20201210203000 -0300" channel="Mega B">
+    <title lang="es">Papá a la deriva</title>
+  </programme>
+  <programme start="20201210203000 -0300" stop="20201210215500 -0300" channel="Mega B">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20201210220000 -0300" stop="20201210224500 -0300" channel="Mega B">
+    <title lang="es">Pituca sin Lucas</title>
+  </programme>
+  <programme start="20201210224500 -0300" stop="20201211001500 -0300" channel="Mega B">
+    <title lang="es">Dale Play</title>
+  </programme>
+  <programme start="20201211224500 -0300" stop="20201212001500 -0300" channel="Mega B">
+    <title lang="es">Dale Play</title>
+  </programme>
+  <programme start="20201212001500 -0300" stop="20201212013000 -0300" channel="Mega B">
+    <title lang="es">¿Volverías con tu ex</title>
+  </programme>
+  <programme start="20201212013000 -0300" stop="20201212023000 -0300" channel="Mega B">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201212023000 -0300" stop="20201212070000 -0300" channel="Mega B">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201212190000 -0300" stop="20201212194500 -0300" channel="Mega B">
+    <title lang="es">Papá a la deriva</title>
+    <episode-num system="onscreen">E1164</episode-num>
+  </programme>
+  <programme start="20201212194500 -0300" stop="20201212203000 -0300" channel="Mega B">
+    <title lang="es">Pobre gallo</title>
+  </programme>
+  <programme start="20201212220000 -0300" stop="20201213003000 -0300" channel="Mega B">
+    <title lang="es">Morandé con compañía</title>
+  </programme>
+  <programme start="20201213003000 -0300" stop="20201213013000 -0300" channel="Mega B">
+    <title lang="es">Comer y Sanar 2</title>
+  </programme>
+  <programme start="20201213023000 -0300" stop="20201213071500 -0300" channel="Mega B">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201213071500 -0300" stop="20201213073000 -0300" channel="Mega B">
+    <title lang="es">Pabellón de la Construcción TV</title>
+  </programme>
+  <programme start="20201213073000 -0300" stop="20201213080000 -0300" channel="Mega B">
+    <title lang="es">Cake Boss</title>
+  </programme>
+  <programme start="20201213080000 -0300" stop="20201213090000 -0300" channel="Mega B">
+    <title lang="es">A orillas del río</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213100000 -0300" channel="Mega B">
+    <title lang="es">No me olvides</title>
+  </programme>
+  <programme start="20201213100000 -0300" stop="20201213110000 -0300" channel="Mega B">
+    <title lang="es">Será Anunciado</title>
+  </programme>
+  <programme start="20201213110000 -0300" stop="20201213130000 -0300" channel="Mega B">
+    <title lang="es">Bicitantes</title>
+  </programme>
+  <programme start="20201213130000 -0300" stop="20201213150000 -0300" channel="Mega B">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20201213150000 -0300" stop="20201213160000 -0300" channel="Mega B">
+    <title lang="es">Plan V</title>
+  </programme>
+  <programme start="20201213160000 -0300" stop="20201213170000 -0300" channel="Mega B">
+    <title lang="es">Pobre gallo</title>
+  </programme>
+  <programme start="20201213170000 -0300" stop="20201213183000 -0300" channel="Mega B">
+    <title lang="es">Desafío millonario</title>
+  </programme>
+  <programme start="20201213183000 -0300" stop="20201213193000 -0300" channel="Mega B">
+    <title lang="es">Seleccion nacional</title>
+  </programme>
+  <programme start="20201213193000 -0300" stop="20201213203000 -0300" channel="Mega B">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20201209001500 -0300" stop="20201209010000 -0300" channel="Mega C">
+    <title lang="es">¿Volverías con tu ex</title>
+  </programme>
+  <programme start="20201209010000 -0300" stop="20201209020000 -0300" channel="Mega C">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201209020000 -0300" stop="20201209070000 -0300" channel="Mega C">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="Mega C">
+    <title lang="es">Meganoticias conecta</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209120000 -0300" channel="Mega C">
+    <title lang="es">Mucho gusto</title>
+  </programme>
+  <programme start="20201209120000 -0300" stop="20201209130000 -0300" channel="Mega C">
+    <title lang="es">La hora de jugar</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209152500 -0300" channel="Mega C">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20201209152500 -0300" stop="20201209153000 -0300" channel="Mega C">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209155000 -0300" channel="Mega C">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20201209155000 -0300" stop="20201209164500 -0300" channel="Mega C">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20201209164500 -0300" stop="20201209173000 -0300" channel="Mega C">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20201209173000 -0300" stop="20201209181500 -0300" channel="Mega C">
+    <title lang="es">Eres mi vida</title>
+    <episode-num system="onscreen">E1191</episode-num>
+  </programme>
+  <programme start="20201209181500 -0300" stop="20201209190000 -0300" channel="Mega C">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209194500 -0300" channel="Mega C">
+    <title lang="es">Pobre gallo</title>
+  </programme>
+  <programme start="20201209194500 -0300" stop="20201209203000 -0300" channel="Mega C">
+    <title lang="es">Papá a la deriva</title>
+    <episode-num system="onscreen">E1162</episode-num>
+  </programme>
+  <programme start="20201209203000 -0300" stop="20201209215500 -0300" channel="Mega C">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20201209215500 -0300" stop="20201209220000 -0300" channel="Mega C">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20201209220000 -0300" stop="20201209224500 -0300" channel="Mega C">
+    <title lang="es">Pituca sin Lucas</title>
+    <episode-num system="onscreen">E144</episode-num>
+  </programme>
+  <programme start="20201209224500 -0300" stop="20201209233000 -0300" channel="Mega C">
+    <title lang="es">100 días para enamorarse</title>
+  </programme>
+  <programme start="20201209233000 -0300" stop="20201210001500 -0300" channel="Mega C">
+    <title lang="es">Señores Papis</title>
+  </programme>
+  <programme start="20201210173000 -0300" stop="20201210181500 -0300" channel="Mega C">
+    <title lang="es">Eres mi vida</title>
+  </programme>
+  <programme start="20201210181500 -0300" stop="20201210190000 -0300" channel="Mega C">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201210194500 -0300" stop="20201210203000 -0300" channel="Mega C">
+    <title lang="es">Papá a la deriva</title>
+  </programme>
+  <programme start="20201210203000 -0300" stop="20201210215500 -0300" channel="Mega C">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20201210220000 -0300" stop="20201210224500 -0300" channel="Mega C">
+    <title lang="es">Pituca sin Lucas</title>
+  </programme>
+  <programme start="20201210224500 -0300" stop="20201211001500 -0300" channel="Mega C">
+    <title lang="es">Dale Play</title>
+  </programme>
+  <programme start="20201211224500 -0300" stop="20201212001500 -0300" channel="Mega C">
+    <title lang="es">Dale Play</title>
+  </programme>
+  <programme start="20201212001500 -0300" stop="20201212013000 -0300" channel="Mega C">
+    <title lang="es">¿Volverías con tu ex</title>
+  </programme>
+  <programme start="20201212013000 -0300" stop="20201212023000 -0300" channel="Mega C">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201212023000 -0300" stop="20201212070000 -0300" channel="Mega C">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201212190000 -0300" stop="20201212194500 -0300" channel="Mega C">
+    <title lang="es">Papá a la deriva</title>
+    <episode-num system="onscreen">E1164</episode-num>
+  </programme>
+  <programme start="20201212194500 -0300" stop="20201212203000 -0300" channel="Mega C">
+    <title lang="es">Pobre gallo</title>
+  </programme>
+  <programme start="20201212220000 -0300" stop="20201213003000 -0300" channel="Mega C">
+    <title lang="es">Morandé con compañía</title>
+  </programme>
+  <programme start="20201213003000 -0300" stop="20201213013000 -0300" channel="Mega C">
+    <title lang="es">Comer y Sanar 2</title>
+  </programme>
+  <programme start="20201213023000 -0300" stop="20201213071500 -0300" channel="Mega C">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201213071500 -0300" stop="20201213073000 -0300" channel="Mega C">
+    <title lang="es">Pabellón de la Construcción TV</title>
+  </programme>
+  <programme start="20201213073000 -0300" stop="20201213080000 -0300" channel="Mega C">
+    <title lang="es">Cake Boss</title>
+  </programme>
+  <programme start="20201213080000 -0300" stop="20201213090000 -0300" channel="Mega C">
+    <title lang="es">A orillas del río</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213100000 -0300" channel="Mega C">
+    <title lang="es">No me olvides</title>
+  </programme>
+  <programme start="20201213100000 -0300" stop="20201213110000 -0300" channel="Mega C">
+    <title lang="es">Será Anunciado</title>
+  </programme>
+  <programme start="20201213110000 -0300" stop="20201213130000 -0300" channel="Mega C">
+    <title lang="es">Bicitantes</title>
+  </programme>
+  <programme start="20201213130000 -0300" stop="20201213150000 -0300" channel="Mega C">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20201213150000 -0300" stop="20201213160000 -0300" channel="Mega C">
+    <title lang="es">Plan V</title>
+  </programme>
+  <programme start="20201213160000 -0300" stop="20201213170000 -0300" channel="Mega C">
+    <title lang="es">Pobre gallo</title>
+  </programme>
+  <programme start="20201213170000 -0300" stop="20201213183000 -0300" channel="Mega C">
+    <title lang="es">Desafío millonario</title>
+  </programme>
+  <programme start="20201213183000 -0300" stop="20201213193000 -0300" channel="Mega C">
+    <title lang="es">Seleccion nacional</title>
+  </programme>
+  <programme start="20201213193000 -0300" stop="20201213203000 -0300" channel="Mega C">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20201209010000 -0300" stop="20201209013000 -0300" channel="Chilevision A">
+    <title lang="es">La noche es nuestra</title>
+    <episode-num system="onscreen">E46</episode-num>
+  </programme>
+  <programme start="20201209013000 -0300" stop="20201209070000 -0300" channel="Chilevision A">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="Chilevision A">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209130000 -0300" channel="Chilevision A">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209153000 -0300" channel="Chilevision A">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209170000 -0300" channel="Chilevision A">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20201209170000 -0300" stop="20201209183000 -0300" channel="Chilevision A">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20201209183000 -0300" stop="20201209203000 -0300" channel="Chilevision A">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201209203000 -0300" stop="20201209223000 -0300" channel="Chilevision A">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209223000 -0300" stop="20201210000000 -0300" channel="Chilevision A">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20201210000000 -0300" stop="20201210010000 -0300" channel="Chilevision A">
+    <title lang="es">Amor de familia</title>
+    <episode-num system="onscreen">E1118</episode-num>
+  </programme>
+  <programme start="20201210010000 -0300" stop="20201210013000 -0300" channel="Chilevision A">
+    <title lang="es">La noche es nuestra</title>
+  </programme>
+  <programme start="20201210170000 -0300" stop="20201210183000 -0300" channel="Chilevision A">
+    <title lang="es">La divina comida</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20201210203000 -0300" stop="20201210223000 -0300" channel="Chilevision A">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201210223000 -0300" stop="20201211003000 -0300" channel="Chilevision A">
+    <title lang="es">Oye al chef</title>
+    <episode-num system="onscreen">E113</episode-num>
+  </programme>
+  <programme start="20201211003000 -0300" stop="20201211013000 -0300" channel="Chilevision A">
+    <title lang="es">Amor de familia</title>
+    <episode-num system="onscreen">E1119</episode-num>
+  </programme>
+  <programme start="20201211013000 -0300" stop="20201211020000 -0300" channel="Chilevision A">
+    <title lang="es">La noche es nuestra</title>
+    <episode-num system="onscreen">E123</episode-num>
+  </programme>
+  <programme start="20201211020000 -0300" stop="20201211070000 -0300" channel="Chilevision A">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201211070000 -0300" stop="20201211083000 -0300" channel="Chilevision A">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201211083000 -0300" stop="20201211130000 -0300" channel="Chilevision A">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20201211130000 -0300" stop="20201211153000 -0300" channel="Chilevision A">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201211153000 -0300" stop="20201211170000 -0300" channel="Chilevision A">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20201211170000 -0300" stop="20201211183000 -0300" channel="Chilevision A">
+    <title lang="es">La divina comida</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20201211183000 -0300" stop="20201211203000 -0300" channel="Chilevision A">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201211203000 -0300" stop="20201211223000 -0300" channel="Chilevision A">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201211223000 -0300" stop="20201212003000 -0300" channel="Chilevision A">
+    <title lang="es">Oye al chef</title>
+    <episode-num system="onscreen">E112</episode-num>
+  </programme>
+  <programme start="20201212223000 -0300" stop="20201213003000 -0300" channel="Chilevision A">
+    <title lang="es">Oye al chef</title>
+    <episode-num system="onscreen">E112</episode-num>
+  </programme>
+  <programme start="20201213003000 -0300" stop="20201213013000 -0300" channel="Chilevision A">
+    <title lang="es">La noche es nuestra</title>
+    <episode-num system="onscreen">E155</episode-num>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213080000 -0300" channel="Chilevision A">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20201213080000 -0300" stop="20201213090000 -0300" channel="Chilevision A">
+    <title lang="es">La historia secreta de Chile</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213100000 -0300" channel="Chilevision A">
+    <title lang="es">Especial de Prensa</title>
+  </programme>
+  <programme start="20201213100000 -0300" stop="20201213123000 -0300" channel="Chilevision A">
+    <title lang="es">Deportes La Serena vs. Coquimbo Unido</title>
+  </programme>
+  <programme start="20201213123000 -0300" stop="20201213150000 -0300" channel="Chilevision A">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201213150000 -0300" stop="20201213180000 -0300" channel="Chilevision A">
+    <title lang="es">Sabingo</title>
+  </programme>
+  <programme start="20201213180000 -0300" stop="20201213203000 -0300" channel="Chilevision A">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20201213203000 -0300" stop="20201213221500 -0300" channel="Chilevision A">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209010000 -0300" stop="20201209013000 -0300" channel="Chilevision B">
+    <title lang="es">La noche es nuestra</title>
+    <episode-num system="onscreen">E46</episode-num>
+  </programme>
+  <programme start="20201209013000 -0300" stop="20201209070000 -0300" channel="Chilevision B">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="Chilevision B">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209130000 -0300" channel="Chilevision B">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209153000 -0300" channel="Chilevision B">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209170000 -0300" channel="Chilevision B">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20201209170000 -0300" stop="20201209183000 -0300" channel="Chilevision B">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20201209183000 -0300" stop="20201209203000 -0300" channel="Chilevision B">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201209203000 -0300" stop="20201209223000 -0300" channel="Chilevision B">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209223000 -0300" stop="20201210000000 -0300" channel="Chilevision B">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20201210000000 -0300" stop="20201210010000 -0300" channel="Chilevision B">
+    <title lang="es">Amor de familia</title>
+    <episode-num system="onscreen">E1118</episode-num>
+  </programme>
+  <programme start="20201210010000 -0300" stop="20201210013000 -0300" channel="Chilevision B">
+    <title lang="es">La noche es nuestra</title>
+  </programme>
+  <programme start="20201210170000 -0300" stop="20201210183000 -0300" channel="Chilevision B">
+    <title lang="es">La divina comida</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20201210203000 -0300" stop="20201210223000 -0300" channel="Chilevision B">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201210223000 -0300" stop="20201211003000 -0300" channel="Chilevision B">
+    <title lang="es">Oye al chef</title>
+    <episode-num system="onscreen">E113</episode-num>
+  </programme>
+  <programme start="20201211003000 -0300" stop="20201211013000 -0300" channel="Chilevision B">
+    <title lang="es">Amor de familia</title>
+    <episode-num system="onscreen">E1119</episode-num>
+  </programme>
+  <programme start="20201211013000 -0300" stop="20201211020000 -0300" channel="Chilevision B">
+    <title lang="es">La noche es nuestra</title>
+    <episode-num system="onscreen">E123</episode-num>
+  </programme>
+  <programme start="20201211020000 -0300" stop="20201211070000 -0300" channel="Chilevision B">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201211070000 -0300" stop="20201211083000 -0300" channel="Chilevision B">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201211083000 -0300" stop="20201211130000 -0300" channel="Chilevision B">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20201211130000 -0300" stop="20201211153000 -0300" channel="Chilevision B">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201211153000 -0300" stop="20201211170000 -0300" channel="Chilevision B">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20201211170000 -0300" stop="20201211183000 -0300" channel="Chilevision B">
+    <title lang="es">La divina comida</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20201211183000 -0300" stop="20201211203000 -0300" channel="Chilevision B">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201211203000 -0300" stop="20201211223000 -0300" channel="Chilevision B">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201211223000 -0300" stop="20201212003000 -0300" channel="Chilevision B">
+    <title lang="es">Oye al chef</title>
+    <episode-num system="onscreen">E112</episode-num>
+  </programme>
+  <programme start="20201212223000 -0300" stop="20201213003000 -0300" channel="Chilevision B">
+    <title lang="es">Oye al chef</title>
+    <episode-num system="onscreen">E112</episode-num>
+  </programme>
+  <programme start="20201213003000 -0300" stop="20201213013000 -0300" channel="Chilevision B">
+    <title lang="es">La noche es nuestra</title>
+    <episode-num system="onscreen">E155</episode-num>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213080000 -0300" channel="Chilevision B">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20201213080000 -0300" stop="20201213090000 -0300" channel="Chilevision B">
+    <title lang="es">La historia secreta de Chile</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213100000 -0300" channel="Chilevision B">
+    <title lang="es">Especial de Prensa</title>
+  </programme>
+  <programme start="20201213100000 -0300" stop="20201213123000 -0300" channel="Chilevision B">
+    <title lang="es">Deportes La Serena vs. Coquimbo Unido</title>
+  </programme>
+  <programme start="20201213123000 -0300" stop="20201213150000 -0300" channel="Chilevision B">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201213150000 -0300" stop="20201213180000 -0300" channel="Chilevision B">
+    <title lang="es">Sabingo</title>
+  </programme>
+  <programme start="20201213180000 -0300" stop="20201213203000 -0300" channel="Chilevision B">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20201213203000 -0300" stop="20201213221500 -0300" channel="Chilevision B">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209010000 -0300" stop="20201209013000 -0300" channel="Chilevision C">
+    <title lang="es">La noche es nuestra</title>
+    <episode-num system="onscreen">E46</episode-num>
+  </programme>
+  <programme start="20201209013000 -0300" stop="20201209070000 -0300" channel="Chilevision C">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="Chilevision C">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209130000 -0300" channel="Chilevision C">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209153000 -0300" channel="Chilevision C">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209170000 -0300" channel="Chilevision C">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20201209170000 -0300" stop="20201209183000 -0300" channel="Chilevision C">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20201209183000 -0300" stop="20201209203000 -0300" channel="Chilevision C">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201209203000 -0300" stop="20201209223000 -0300" channel="Chilevision C">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209223000 -0300" stop="20201210000000 -0300" channel="Chilevision C">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20201210000000 -0300" stop="20201210010000 -0300" channel="Chilevision C">
+    <title lang="es">Amor de familia</title>
+    <episode-num system="onscreen">E1118</episode-num>
+  </programme>
+  <programme start="20201210010000 -0300" stop="20201210013000 -0300" channel="Chilevision C">
+    <title lang="es">La noche es nuestra</title>
+  </programme>
+  <programme start="20201210170000 -0300" stop="20201210183000 -0300" channel="Chilevision C">
+    <title lang="es">La divina comida</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20201210203000 -0300" stop="20201210223000 -0300" channel="Chilevision C">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201210223000 -0300" stop="20201211003000 -0300" channel="Chilevision C">
+    <title lang="es">Oye al chef</title>
+    <episode-num system="onscreen">E113</episode-num>
+  </programme>
+  <programme start="20201211003000 -0300" stop="20201211013000 -0300" channel="Chilevision C">
+    <title lang="es">Amor de familia</title>
+    <episode-num system="onscreen">E1119</episode-num>
+  </programme>
+  <programme start="20201211013000 -0300" stop="20201211020000 -0300" channel="Chilevision C">
+    <title lang="es">La noche es nuestra</title>
+    <episode-num system="onscreen">E123</episode-num>
+  </programme>
+  <programme start="20201211020000 -0300" stop="20201211070000 -0300" channel="Chilevision C">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20201211070000 -0300" stop="20201211083000 -0300" channel="Chilevision C">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201211083000 -0300" stop="20201211130000 -0300" channel="Chilevision C">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20201211130000 -0300" stop="20201211153000 -0300" channel="Chilevision C">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201211153000 -0300" stop="20201211170000 -0300" channel="Chilevision C">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20201211170000 -0300" stop="20201211183000 -0300" channel="Chilevision C">
+    <title lang="es">La divina comida</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20201211183000 -0300" stop="20201211203000 -0300" channel="Chilevision C">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201211203000 -0300" stop="20201211223000 -0300" channel="Chilevision C">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201211223000 -0300" stop="20201212003000 -0300" channel="Chilevision C">
+    <title lang="es">Oye al chef</title>
+    <episode-num system="onscreen">E112</episode-num>
+  </programme>
+  <programme start="20201212223000 -0300" stop="20201213003000 -0300" channel="Chilevision C">
+    <title lang="es">Oye al chef</title>
+    <episode-num system="onscreen">E112</episode-num>
+  </programme>
+  <programme start="20201213003000 -0300" stop="20201213013000 -0300" channel="Chilevision C">
+    <title lang="es">La noche es nuestra</title>
+    <episode-num system="onscreen">E155</episode-num>
+  </programme>
+  <programme start="20201213070000 -0300" stop="20201213080000 -0300" channel="Chilevision C">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20201213080000 -0300" stop="20201213090000 -0300" channel="Chilevision C">
+    <title lang="es">La historia secreta de Chile</title>
+  </programme>
+  <programme start="20201213090000 -0300" stop="20201213100000 -0300" channel="Chilevision C">
+    <title lang="es">Especial de Prensa</title>
+  </programme>
+  <programme start="20201213100000 -0300" stop="20201213123000 -0300" channel="Chilevision C">
+    <title lang="es">Deportes La Serena vs. Coquimbo Unido</title>
+  </programme>
+  <programme start="20201213123000 -0300" stop="20201213150000 -0300" channel="Chilevision C">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201213150000 -0300" stop="20201213180000 -0300" channel="Chilevision C">
+    <title lang="es">Sabingo</title>
+  </programme>
+  <programme start="20201213180000 -0300" stop="20201213203000 -0300" channel="Chilevision C">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20201213203000 -0300" stop="20201213221500 -0300" channel="Chilevision C">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20201209003000 -0300" stop="20201209011500 -0300" channel="Canal 13 A">
+    <title lang="es">Pacto de sangre</title>
+  </programme>
+  <programme start="20201209011500 -0300" stop="20201209021500 -0300" channel="Canal 13 A">
+    <title lang="es">Bones</title>
+    <title lang="xx">Bones</title>
+    <desc lang="es">Una antropóloga forense experta en encontrar pistas en los huesos y un agente especial del FBI hacen un equipo para investigar casos difíciles de resolver.</desc>
+    <credits>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>Michaela Conlin</actor>
+      <actor>Eric Millegan</actor>
+      <actor>T. J. Thyne</actor>
+      <actor>Jonathan Adams</actor>
+      <actor>Tamara Taylor</actor>
+      <actor>John Francis Daley</actor>
+      <producer>Kathy Reichs</producer>
+      <producer>Emily Deschanel</producer>
+      <composer>The Crystal Method</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/bones.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201209021500 -0300" stop="20201209070000 -0300" channel="Canal 13 A">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="Canal 13 A">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209130000 -0300" channel="Canal 13 A">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209143000 -0300" channel="Canal 13 A">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201209143000 -0300" stop="20201209143500 -0300" channel="Canal 13 A">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20201209143500 -0300" stop="20201209155500 -0300" channel="Canal 13 A">
+    <title lang="es">Brujas</title>
+  </programme>
+  <programme start="20201209155500 -0300" stop="20201209164000 -0300" channel="Canal 13 A">
+    <title lang="es">Yeter</title>
+  </programme>
+  <programme start="20201209164000 -0300" stop="20201209182000 -0300" channel="Canal 13 A">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201209182000 -0300" stop="20201209200000 -0300" channel="Canal 13 A">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20201209200000 -0300" stop="20201209210000 -0300" channel="Canal 13 A">
+    <title lang="es">Los 80</title>
+  </programme>
+  <programme start="20201209210000 -0300" stop="20201209223000 -0300" channel="Canal 13 A">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201209223000 -0300" stop="20201209223500 -0300" channel="Canal 13 A">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20201209223500 -0300" stop="20201209233000 -0300" channel="Canal 13 A">
+    <title lang="es">Soltera otra vez</title>
+  </programme>
+  <programme start="20201210210000 -0300" stop="20201210223000 -0300" channel="Canal 13 A">
+    <title lang="es">Especial de Teletrece</title>
+  </programme>
+  <programme start="20201210223500 -0300" stop="20201211011000 -0300" channel="Canal 13 A">
+    <title lang="es">Grandes eventos Mujeres al ataque</title>
+  </programme>
+  <programme start="20201211223500 -0300" stop="20201212011000 -0300" channel="Canal 13 A">
+    <title lang="es">Grandes eventos Mujeres al ataque</title>
+  </programme>
+  <programme start="20201212011000 -0300" stop="20201212013000 -0300" channel="Canal 13 A">
+    <title lang="es">Canal 13</title>
+  </programme>
+  <programme start="20201212013000 -0300" stop="20201212023000 -0300" channel="Canal 13 A">
+    <title lang="es">9-1-1 Lone Star</title>
+  </programme>
+  <programme start="20201212023000 -0300" stop="20201212070000 -0300" channel="Canal 13 A">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201212070000 -0300" stop="20201212080000 -0300" channel="Canal 13 A">
+    <title lang="es">Malcolm</title>
+  </programme>
+  <programme start="20201212080000 -0300" stop="20201212083000 -0300" channel="Canal 13 A">
+    <title lang="es">Canal 13</title>
+  </programme>
+  <programme start="20201212083000 -0300" stop="20201212090000 -0300" channel="Canal 13 A">
+    <title lang="es">Canal 13</title>
+  </programme>
+  <programme start="20201212090000 -0300" stop="20201212110000 -0300" channel="Canal 13 A">
+    <title lang="es">Sábado en Familia</title>
+  </programme>
+  <programme start="20201212110000 -0300" stop="20201212130000 -0300" channel="Canal 13 A">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201212130000 -0300" stop="20201212150000 -0300" channel="Canal 13 A">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201212150000 -0300" stop="20201212160000 -0300" channel="Canal 13 A">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20201212160000 -0300" stop="20201212171500 -0300" channel="Canal 13 A">
+    <title lang="es">Buscando a Dios</title>
+  </programme>
+  <programme start="20201212171500 -0300" stop="20201212183000 -0300" channel="Canal 13 A">
+    <title lang="es">Maravillas del mundo</title>
+  </programme>
+  <programme start="20201212183000 -0300" stop="20201212193000 -0300" channel="Canal 13 A">
+    <title lang="es">Siempre hay un chileno</title>
+  </programme>
+  <programme start="20201212193000 -0300" stop="20201212210000 -0300" channel="Canal 13 A">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20201209003000 -0300" stop="20201209011500 -0300" channel="Canal 13 B">
+    <title lang="es">Pacto de sangre</title>
+  </programme>
+  <programme start="20201209011500 -0300" stop="20201209021500 -0300" channel="Canal 13 B">
+    <title lang="es">Bones</title>
+    <title lang="xx">Bones</title>
+    <desc lang="es">Una antropóloga forense experta en encontrar pistas en los huesos y un agente especial del FBI hacen un equipo para investigar casos difíciles de resolver.</desc>
+    <credits>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>Michaela Conlin</actor>
+      <actor>Eric Millegan</actor>
+      <actor>T. J. Thyne</actor>
+      <actor>Jonathan Adams</actor>
+      <actor>Tamara Taylor</actor>
+      <actor>John Francis Daley</actor>
+      <producer>Kathy Reichs</producer>
+      <producer>Emily Deschanel</producer>
+      <composer>The Crystal Method</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/bones.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201209021500 -0300" stop="20201209070000 -0300" channel="Canal 13 B">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="Canal 13 B">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209130000 -0300" channel="Canal 13 B">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209143000 -0300" channel="Canal 13 B">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201209143000 -0300" stop="20201209143500 -0300" channel="Canal 13 B">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20201209143500 -0300" stop="20201209155500 -0300" channel="Canal 13 B">
+    <title lang="es">Brujas</title>
+  </programme>
+  <programme start="20201209155500 -0300" stop="20201209164000 -0300" channel="Canal 13 B">
+    <title lang="es">Yeter</title>
+  </programme>
+  <programme start="20201209164000 -0300" stop="20201209182000 -0300" channel="Canal 13 B">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201209182000 -0300" stop="20201209200000 -0300" channel="Canal 13 B">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20201209200000 -0300" stop="20201209210000 -0300" channel="Canal 13 B">
+    <title lang="es">Los 80</title>
+  </programme>
+  <programme start="20201209210000 -0300" stop="20201209223000 -0300" channel="Canal 13 B">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201209223000 -0300" stop="20201209223500 -0300" channel="Canal 13 B">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20201209223500 -0300" stop="20201209233000 -0300" channel="Canal 13 B">
+    <title lang="es">Soltera otra vez</title>
+  </programme>
+  <programme start="20201210210000 -0300" stop="20201210223000 -0300" channel="Canal 13 B">
+    <title lang="es">Especial de Teletrece</title>
+  </programme>
+  <programme start="20201210223500 -0300" stop="20201211011000 -0300" channel="Canal 13 B">
+    <title lang="es">Grandes eventos Mujeres al ataque</title>
+  </programme>
+  <programme start="20201211223500 -0300" stop="20201212011000 -0300" channel="Canal 13 B">
+    <title lang="es">Grandes eventos Mujeres al ataque</title>
+  </programme>
+  <programme start="20201212011000 -0300" stop="20201212013000 -0300" channel="Canal 13 B">
+    <title lang="es">Canal 13</title>
+  </programme>
+  <programme start="20201212013000 -0300" stop="20201212023000 -0300" channel="Canal 13 B">
+    <title lang="es">9-1-1 Lone Star</title>
+  </programme>
+  <programme start="20201212023000 -0300" stop="20201212070000 -0300" channel="Canal 13 B">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201212070000 -0300" stop="20201212080000 -0300" channel="Canal 13 B">
+    <title lang="es">Malcolm</title>
+  </programme>
+  <programme start="20201212080000 -0300" stop="20201212083000 -0300" channel="Canal 13 B">
+    <title lang="es">Canal 13</title>
+  </programme>
+  <programme start="20201212083000 -0300" stop="20201212090000 -0300" channel="Canal 13 B">
+    <title lang="es">Canal 13</title>
+  </programme>
+  <programme start="20201212090000 -0300" stop="20201212110000 -0300" channel="Canal 13 B">
+    <title lang="es">Sábado en Familia</title>
+  </programme>
+  <programme start="20201212110000 -0300" stop="20201212130000 -0300" channel="Canal 13 B">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201212130000 -0300" stop="20201212150000 -0300" channel="Canal 13 B">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20201212150000 -0300" stop="20201212160000 -0300" channel="Canal 13 B">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20201212160000 -0300" stop="20201212171500 -0300" channel="Canal 13 B">
+    <title lang="es">Buscando a Dios</title>
+  </programme>
+  <programme start="20201212171500 -0300" stop="20201212183000 -0300" channel="Canal 13 B">
+    <title lang="es">Maravillas del mundo</title>
+  </programme>
+  <programme start="20201212183000 -0300" stop="20201212193000 -0300" channel="Canal 13 B">
+    <title lang="es">Siempre hay un chileno</title>
+  </programme>
+  <programme start="20201212193000 -0300" stop="20201212210000 -0300" channel="Canal 13 B">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20201209004500 -0300" stop="20201209013000 -0300" channel="TV Chile">
+    <title lang="es">El Regreso</title>
+  </programme>
+  <programme start="20201209013000 -0300" stop="20201209023000 -0300" channel="TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20201209023000 -0300" stop="20201209030000 -0300" channel="TV Chile">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20201209030000 -0300" stop="20201209040000 -0300" channel="TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201209040000 -0300" stop="20201209050000 -0300" channel="TV Chile">
+    <title lang="es">¡Mierda, mierda! La función debe continuar</title>
+  </programme>
+  <programme start="20201209050000 -0300" stop="20201209060000 -0300" channel="TV Chile">
+    <title lang="es">El Regreso</title>
+  </programme>
+  <programme start="20201209060000 -0300" stop="20201209070000 -0300" channel="TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20201209070000 -0300" stop="20201209083000 -0300" channel="TV Chile">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20201209083000 -0300" stop="20201209130000 -0300" channel="TV Chile">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20201209130000 -0300" stop="20201209153000 -0300" channel="TV Chile">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201209153000 -0300" stop="20201209163000 -0300" channel="TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20201209163000 -0300" stop="20201209170000 -0300" channel="TV Chile">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201209170000 -0300" stop="20201209173000 -0300" channel="TV Chile">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201209173000 -0300" stop="20201209190000 -0300" channel="TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201209190000 -0300" stop="20201209194000 -0300" channel="TV Chile">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20201209194000 -0300" stop="20201209200000 -0300" channel="TV Chile">
+    <title lang="es">La Chúcara</title>
+  </programme>
+  <programme start="20201209200000 -0300" stop="20201209204500 -0300" channel="TV Chile">
+    <title lang="es">El Regreso</title>
+  </programme>
+  <programme start="20201209204500 -0300" stop="20201209224000 -0300" channel="TV Chile">
+    <title lang="es">24 Horas Central</title>
+  </programme>
+  <programme start="20201209224000 -0300" stop="20201209235000 -0300" channel="TV Chile">
+    <title lang="es">Fruto Del País</title>
+  </programme>
+  <programme start="20201210040000 -0300" stop="20201210050000 -0300" channel="TV Chile">
+    <title lang="es">Fruto Del País</title>
+  </programme>
+  <programme start="20201210204500 -0300" stop="20201210224000 -0300" channel="TV Chile">
+    <title lang="es">24 Horas Central</title>
+  </programme>
+  <programme start="20201210224000 -0300" stop="20201210235000 -0300" channel="TV Chile">
+    <title lang="es">Sin parche</title>
+  </programme>
+  <programme start="20201211023000 -0300" stop="20201211030000 -0300" channel="TV Chile">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+  <programme start="20201211040000 -0300" stop="20201211050000 -0300" channel="TV Chile">
+    <title lang="es">Sin parche</title>
+  </programme>
+  <programme start="20201211224000 -0300" stop="20201211235000 -0300" channel="TV Chile">
+    <title lang="es">Retro</title>
+  </programme>
+  <programme start="20201211235000 -0300" stop="20201212013000 -0300" channel="TV Chile">
+    <title lang="es">La Chúcara</title>
+  </programme>
+  <programme start="20201212013000 -0300" stop="20201212023000 -0300" channel="TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20201212023000 -0300" stop="20201212030000 -0300" channel="TV Chile">
+    <title lang="es">Sesiones 24H</title>
+  </programme>
+  <programme start="20201212030000 -0300" stop="20201212034500 -0300" channel="TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201212034500 -0300" stop="20201212044500 -0300" channel="TV Chile">
+    <title lang="es">Retro</title>
+  </programme>
+  <programme start="20201212044500 -0300" stop="20201212053000 -0300" channel="TV Chile">
+    <title lang="es">El Regreso</title>
+  </programme>
+  <programme start="20201212053000 -0300" stop="20201212063000 -0300" channel="TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20201212063000 -0300" stop="20201212070000 -0300" channel="TV Chile">
+    <title lang="es">Sesiones 24H</title>
+  </programme>
+  <programme start="20201212070000 -0300" stop="20201212073000 -0300" channel="TV Chile">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201212073000 -0300" stop="20201212080000 -0300" channel="TV Chile">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201212080000 -0300" stop="20201212083000 -0300" channel="TV Chile">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201212083000 -0300" stop="20201212090000 -0300" channel="TV Chile">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201212090000 -0300" stop="20201212103000 -0300" channel="TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20201212103000 -0300" stop="20201212110000 -0300" channel="TV Chile">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201212110000 -0300" stop="20201212130000 -0300" channel="TV Chile">
+    <title lang="es">24 Horas a la Hora</title>
+  </programme>
+  <programme start="20201212130000 -0300" stop="20201212143000 -0300" channel="TV Chile">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201212143000 -0300" stop="20201212150000 -0300" channel="TV Chile">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201212150000 -0300" stop="20201212163000 -0300" channel="TV Chile">
+    <title lang="es">Zoom: Grandes momentos del deporte</title>
+  </programme>
+  <programme start="20201212163000 -0300" stop="20201212173000 -0300" channel="TV Chile">
+    <title lang="es">Informe Especial</title>
+  </programme>
+  <programme start="20201212173000 -0300" stop="20201212180000 -0300" channel="TV Chile">
+    <title lang="es">Insulares</title>
+  </programme>
+  <programme start="20201212180000 -0300" stop="20201212190000 -0300" channel="TV Chile">
+    <title lang="es">Retro</title>
+  </programme>
+  <programme start="20201212190000 -0300" stop="20201212203000 -0300" channel="TV Chile">
+    <title lang="es">Casa de Angelis</title>
+  </programme>
+  <programme start="20201212203000 -0300" stop="20201212210000 -0300" channel="TV Chile">
+    <title lang="es">Exploradores</title>
+  </programme>
+  <programme start="20201212210000 -0300" stop="20201212223000 -0300" channel="TV Chile">
+    <title lang="es">24 Horas Central</title>
+  </programme>
+  <programme start="20201212223000 -0300" stop="20201212233000 -0300" channel="TV Chile">
+    <title lang="es">Casa de Angelis</title>
+  </programme>
+  <programme start="20201212233000 -0300" stop="20201213000000 -0300" channel="TV Chile">
+    <title lang="es">Sesiones 24H</title>
   </programme>
 </tv>
