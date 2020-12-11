@@ -51,12 +51,17 @@
     <url>http://www.mi.tv</url>
   </channel>
   <channel id="TV+ A">
-    <display-name lang="es">La Red B</display-name>
+    <display-name lang="es">TV+ A</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_ucv-tv_l.png" />
     <url>http://www.mi.tv</url>
   </channel>
   <channel id="TV+ B">
-    <display-name lang="es">La Red B</display-name>
+    <display-name lang="es">TV+ B</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_ucv-tv_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TV+ C">
+    <display-name lang="es">TV+ C</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_ucv-tv_l.png" />
     <url>http://www.mi.tv</url>
   </channel>
@@ -126,7 +131,7 @@
     <url>http://www.mi.tv</url>
   </channel>
   <channel id="Camara de Diputados">
-    <display-name lang="es">Canal 13 B</display-name>
+    <display-name lang="es">Camara de Diputados</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_tv-diputados_l.png" />
     <url>http://www.mi.tv</url>
   </channel>
@@ -1934,6 +1939,202 @@
     </rating>
   </programme>
   <programme start="20201211235600 +0000" stop="20201212011000 +0000" channel="TV+ B">
+    <title lang="es">Toc Show</title>
+    <desc lang="es">El periodista Juan Carlos "Pollo" Valdivia conduce este espacio de conversación y entretención. Junto a su equipo, tocan temas de actualidad, espectáculos y hablan de la contingencia nacional con un estilo distendido.</desc>
+    <credits>
+      <director>Carolina Antecao</director>
+      <actor>Juan Carlos Valdivia</actor>
+      <actor>Álvaro García</actor>
+      <actor>Bernardita Ruffinelli</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_toc-show_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211060000 +0000" stop="20201211063000 +0000" channel="TV+ C">
+    <title lang="es">La vitrina 360</title>
+    <desc lang="es">Tus vitrineos ahora serán más entretenidos con este nuevo programa de compras junto a Andrea Hoffman.</desc>
+    <credits>
+      <actor>Andrea Hoffman</actor>
+    </credits>
+    <category lang="es">Moda</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-vitrina-360_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211063000 +0000" stop="20201211070000 +0000" channel="TV+ C">
+    <title lang="es">El superagente 86</title>
+    <desc lang="es">La serie se centra en las aventuras del inepto agente secreto Maxwell Smart, conocido también como Agente 86 y su compañera la agente 99. Max y 99 trabajan para "Control.</desc>
+    <credits>
+      <director>Norman Abbott</director>
+      <director>Murray Golden</director>
+      <actor>Barbara Feldon</actor>
+      <actor>William Schallert</actor>
+      <actor>Don Adams</actor>
+      <actor>Edward Platt</actor>
+      <actor>Victor French</actor>
+      <actor>Angelique Pettyjohn</actor>
+      <actor>Ellen Weston</actor>
+      <actor>Dick Gautier</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-superagente-86_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211070000 +0000" stop="20201211083000 +0000" channel="TV+ C">
+    <title lang="es">Me late</title>
+    <desc lang="es">Una conversación con un personaje público y conocido, abordando el lado más íntimo del entrevistado. Cuenta con un panel estable de jóvenes que en conjunto analizarán los principales videos que están marcando tendencia en la red.</desc>
+    <credits>
+      <actor>Daniel Fuenzalida</actor>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-late_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211083000 +0000" stop="20201211093000 +0000" channel="TV+ C">
+    <title lang="es">Somos un plato</title>
+    <desc lang="es">El periodista José Miguel Furnaro y el cocinero Álvaro Lois combinan recetas para toda la familia con entrevistas a reconocidos personajes públicos en un espacio distendido, lleno de risas, anécdotas y buenas conversaciones.</desc>
+    <credits>
+      <actor>Álvaro Lois</actor>
+      <actor>José Miguel Furnaro</actor>
+    </credits>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_somos-un-plato_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211093000 +0000" stop="20201211105500 +0000" channel="TV+ C">
+    <title lang="es">MILF</title>
+    <desc lang="es">El programa aborda distintas temáticas dirigidas a las "mujeres, independientes, libres y felices" (MILF). Claudia Conserva, junto a Yazmín Vásquez y Renata Bravo, combinan la actualidad y el humor con una entretenida conversación.</desc>
+    <credits>
+      <actor>Renata Bravo</actor>
+      <actor>Claudia Conserva</actor>
+      <actor>Yazmín Vásquez</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_milf_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211105500 +0000" stop="20201211110000 +0000" channel="TV+ C">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211110000 +0000" stop="20201211133600 +0000" channel="TV+ C">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211133600 +0000" stop="20201211160000 +0000" channel="TV+ C">
+    <title lang="es">Falabella TV</title>
+    <desc lang="es">Los productos que buscan están aquí, este espacio te ofrece una guía para que hagas tus compras con tranquilidad. Desde la comodidad de tu hogar podrás adquirir lo que quieras, en el mejor precio.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_falabella-tv_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211170000 +0000" channel="TV+ C">
+    <title lang="es">Swisslab</title>
+    <desc lang="es">Productos para la salud - Infomerciales.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swisslab_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211170000 +0000" stop="20201211173000 +0000" channel="TV+ C">
+    <title lang="es">La vitrina 360</title>
+    <desc lang="es">Tus vitrineos ahora serán más entretenidos con este nuevo programa de compras junto a Andrea Hoffman.</desc>
+    <credits>
+      <actor>Andrea Hoffman</actor>
+    </credits>
+    <category lang="es">Moda</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-vitrina-360_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211173000 +0000" stop="20201211180000 +0000" channel="TV+ C">
+    <title lang="es">Tierra de reyes</title>
+    <title lang="en">Tierra de reyes</title>
+    <desc lang="es">Los hermanos Gallardo, Arturo, Samuel y Flavio intentarán hacer justicia por la muerte de su pariente menor. En medio del conflicto y la sed de venganza, caerán en su propia trampa al enamorarse de las tres hijas de Cayetana Belmonte.</desc>
+    <credits>
+      <director>Luis Manzo</director>
+      <director>Ricardo Schwarz</director>
+      <actor>Joaquín Garrido</actor>
+      <actor>Aarón Díaz</actor>
+      <actor>Sonya Smith</actor>
+      <actor>Omar Germenos</actor>
+      <actor>Adriana Lavat</actor>
+      <actor>Gonzalo Garcia Vivanco</actor>
+      <actor>Kimberly Dos Ramos</actor>
+      <actor>Fabián Ríos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tierra-de-reyes-s00e132_l_l.jpg" />
+    <episode-num system="onscreen">E132</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211180000 +0000" stop="20201211190000 +0000" channel="TV+ C">
+    <title lang="es">Somos un plato</title>
+    <desc lang="es">El periodista José Miguel Furnaro y el cocinero Álvaro Lois combinan recetas para toda la familia con entrevistas a reconocidos personajes públicos en un espacio distendido, lleno de risas, anécdotas y buenas conversaciones.</desc>
+    <credits>
+      <actor>Álvaro Lois</actor>
+      <actor>José Miguel Furnaro</actor>
+    </credits>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_somos-un-plato_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211201000 +0000" stop="20201211221500 +0000" channel="TV+ C">
+    <title lang="es">Me late</title>
+    <desc lang="es">Una conversación con un personaje público y conocido, abordando el lado más íntimo del entrevistado. Cuenta con un panel estable de jóvenes que en conjunto analizarán los principales videos que están marcando tendencia en la red.</desc>
+    <credits>
+      <actor>Daniel Fuenzalida</actor>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-late_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211221500 +0000" stop="20201211235600 +0000" channel="TV+ C">
+    <title lang="es">MILF</title>
+    <desc lang="es">El programa aborda distintas temáticas dirigidas a las "mujeres, independientes, libres y felices" (MILF). Claudia Conserva, junto a Yazmín Vásquez y Renata Bravo, combinan la actualidad y el humor con una entretenida conversación.</desc>
+    <credits>
+      <actor>Renata Bravo</actor>
+      <actor>Claudia Conserva</actor>
+      <actor>Yazmín Vásquez</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_milf_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211235600 +0000" stop="20201212011000 +0000" channel="TV+ C">
     <title lang="es">Toc Show</title>
     <desc lang="es">El periodista Juan Carlos "Pollo" Valdivia conduce este espacio de conversación y entretención. Junto a su equipo, tocan temas de actualidad, espectáculos y hablan de la contingencia nacional con un estilo distendido.</desc>
     <credits>
