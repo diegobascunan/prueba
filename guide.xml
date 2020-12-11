@@ -2,7 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="CDF Básico">
     <display-name lang="es">CDF Básico</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/__l.png" />
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_l.png" />
     <url>http://www.mi.tv</url>
   </channel>
   <channel id="CDF HD 1">
@@ -40,6 +40,237 @@
     <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-premium_l.png" />
     <url>http://www.mi.tv</url>
   </channel>
+  <channel id="La Red A">
+    <display-name lang="es">La Red A</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_la-red_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="La Red B">
+    <display-name lang="es">La Red B</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_la-red_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TV+ A">
+    <display-name lang="es">La Red B</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_ucv-tv_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TV+ B">
+    <display-name lang="es">La Red B</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_ucv-tv_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TVN A">
+    <display-name lang="es">TVN A</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TVN B">
+    <display-name lang="es">TVN B</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TVN C">
+    <display-name lang="es">TVN C</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Mega A">
+    <display-name lang="es">Mega A</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mega_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Mega B">
+    <display-name lang="es">Mega B</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mega_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Mega C">
+    <display-name lang="es">Mega C</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mega_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Chilevision A">
+    <display-name lang="es">Chilevision A</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Chilevision B">
+    <display-name lang="es">Chilevision B</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Chilevision C">
+    <display-name lang="es">Chilevision C</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Canal 13 A">
+    <display-name lang="es">Canal 13 A</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Canal 13 B">
+    <display-name lang="es">Canal 13 B</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="13C">
+    <display-name lang="es">13C</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13-c_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Rec TV">
+    <display-name lang="es">Rec TV</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_rec-tv_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Camara de Diputados">
+    <display-name lang="es">Canal 13 B</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_tv-diputados_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TV Chile">
+    <display-name lang="es">TV Chile</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201211054500 +0000" stop="20201211064500 +0000" channel="CDF Básico">
+    <title lang="es">CDF Noticias - Edición central</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Espacio que brinda una amplia cobertura a todas las informaciones nacionales e internacionales del ámbito deportivo, llevamos hasta ti lo más actual a importante, para que siempre estés actualizado.</desc>
+    <credits>
+      <actor>Matias Fuenzalida</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-cdf-noticias-edicion-central_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211064500 +0000" stop="20201211084500 +0000" channel="CDF Básico">
+    <title lang="es">Pelota parada</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Disfrute de toda la actualidad deportiva, de la mano del mejor equipo de panelistas.</desc>
+    <credits>
+      <actor>Ignacio Valenzuela</actor>
+      <actor>Claudio Bustíos</actor>
+      <actor>Nahla Hassan</actor>
+      <actor>Gastón Fauré</actor>
+      <actor>Marcelo Díaz</actor>
+      <actor>Romina Parraguirre</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211084500 +0000" stop="20201211090000 +0000" channel="CDF Básico">
+    <title lang="es">La década - Chile femenino</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-la-decada-chile-femenino_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211090000 +0000" stop="20201211100000 +0000" channel="CDF Básico">
+    <title lang="es">CDF Noticias - Edición central</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Espacio que brinda una amplia cobertura a todas las informaciones nacionales e internacionales del ámbito deportivo, llevamos hasta ti lo más actual a importante, para que siempre estés actualizado.</desc>
+    <credits>
+      <actor>Matias Fuenzalida</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-cdf-noticias-edicion-central_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211120000 +0000" channel="CDF Básico">
+    <title lang="es">Todos somos técnicos</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <credits>
+      <actor>Manuel De Tezanos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211120000 +0000" stop="20201211143000 +0000" channel="CDF Básico">
+    <title lang="es">Everton vs. Curicó Unido, Fecha 22</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Disfrute de la 104º edición de la primera categoría del fútbol chileno. El campeonato lo organiza la Asociación Nacional de Fútbol Profesional (ANFP).</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-everton-vs-curico-unido-fecha-22_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211143000 +0000" stop="20201211170000 +0000" channel="CDF Básico">
+    <title lang="es">Audax Italiano vs. Universidad de Chile, Fecha 22</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Disfrute de la 104º edición de la primera categoría del fútbol chileno. El campeonato lo organiza la Asociación Nacional de Fútbol Profesional (ANFP).</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-audax-italiano-vs-universidad-de-chile-fecha-22_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211170000 +0000" stop="20201211190000 +0000" channel="CDF Básico">
+    <title lang="es">Pelota parada</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Disfrute de toda la actualidad deportiva, de la mano del mejor equipo de panelistas.</desc>
+    <credits>
+      <actor>Ignacio Valenzuela</actor>
+      <actor>Claudio Bustíos</actor>
+      <actor>Nahla Hassan</actor>
+      <actor>Gastón Fauré</actor>
+      <actor>Marcelo Díaz</actor>
+      <actor>Romina Parraguirre</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211190000 +0000" stop="20201211210000 +0000" channel="CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Disfrute de toda la actualidad deportiva, de la mano del mejor equipo de panelistas.</desc>
+    <credits>
+      <actor>Eduardo Fuentes</actor>
+      <actor>Rodrigo González</actor>
+      <actor>Isidora Ureta</actor>
+      <actor>Lorena Miki</actor>
+      <actor>Mark González</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211210000 +0000" stop="20201211220000 +0000" channel="CDF Básico">
+    <title lang="es">CDF Noticias - Edición central</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Espacio que brinda una amplia cobertura a todas las informaciones nacionales e internacionales del ámbito deportivo, llevamos hasta ti lo más actual a importante, para que siempre estés actualizado.</desc>
+    <credits>
+      <actor>Matias Fuenzalida</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-cdf-noticias-edicion-central_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211220000 +0000" stop="20201212000000 +0000" channel="CDF Básico">
+    <title lang="es">Todos somos técnicos</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <credits>
+      <actor>Manuel De Tezanos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
   <programme start="20201211040500 +0000" stop="20201211060500 +0000" channel="CDF HD 1">
     <title lang="es">Show de goles</title>
     <sub-title lang="es">Fútbol</sub-title>
@@ -914,5 +1145,3380 @@
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
     </rating>
+  </programme>
+  <programme start="20201211053000 +0000" stop="20201211063000 +0000" channel="La Red A">
+    <title lang="es">Grandes mentiras verdaderas</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_grandes-mentiras-verdaderas_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211063000 +0000" stop="20201211073000 +0000" channel="La Red A">
+    <title lang="es">Red cuerdos</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_red-cuerdos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211073000 +0000" stop="20201211083000 +0000" channel="La Red A">
+    <title lang="es">Hola millones</title>
+    <desc lang="es">Participa diariamente por un premio de hasta $3 millones en este espacio de Lotería y La Red, en el cual tus sueños se pueden cumplir con estos millonarios premios en efectivo.</desc>
+    <credits>
+      <actor>Julia Vial</actor>
+      <actor>Eduardo De la Iglesia</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hola-millones_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211083000 +0000" stop="20201211093000 +0000" channel="La Red A">
+    <title lang="es">Cierre de transmisión</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cierre-de-transmision_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211093000 +0000" stop="20201211103000 +0000" channel="La Red A">
+    <title lang="es">El Juez Franco</title>
+    <desc lang="es">El abogado Manuel Franco recibe en el estrado de su corte a diversos de testigos que pretenden resolver su caso. Cada episodio trae consigo nuevas problemáticas para resolver, las cuales finalizan con el golpe del mazo del Juez.</desc>
+    <credits>
+      <actor>Manuel Franco</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-juez-franco_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211103000 +0000" stop="20201211110000 +0000" channel="La Red A">
+    <title lang="es">Parte A</title>
+    <title lang="en">Just for Laughs: Gags</title>
+    <sub-title lang="es">Just for Laughs: Gags</sub-title>
+    <desc lang="es">Espectáculo de bromas encubiertas en Montreal.</desc>
+    <credits>
+      <director>Marc-Olivier Valiquette</director>
+      <director>Dagan Taylor</director>
+      <director>Pascal Carrette</director>
+      <director>Gilles Denis</director>
+      <director>Jean Kohnen</director>
+      <director>Yann Vallières</director>
+      <director>Martin Brière</director>
+      <director>Ben Gagnon</director>
+      <director>Pascal Babin</director>
+      <actor>Ted Pluviose</actor>
+      <actor>Ruth Chiang</actor>
+      <actor>Satine Scarlett Montaz</actor>
+      <actor>Marie-Ève Verdier</actor>
+      <actor>Denis Levasseur</actor>
+      <actor>Pascal Babin</actor>
+      <actor>Marie Pierre Bouchard</actor>
+      <actor>Valerie Roy</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_just-for-laughs-gags-s07e117-parte-a_l_l.jpg" />
+    <episode-num system="onscreen">S7 E117</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211110000 +0000" stop="20201211120000 +0000" channel="La Red A">
+    <title lang="es">Swiss Nature Labs</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211120000 +0000" stop="20201211140000 +0000" channel="La Red A">
+    <title lang="es">Falabella TV</title>
+    <desc lang="es">Los productos que buscan están aquí, este espacio te ofrece una guía para que hagas tus compras con tranquilidad. Desde la comodidad de tu hogar podrás adquirir lo que quieras, en el mejor precio.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_falabella-tv_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211140000 +0000" stop="20201211160000 +0000" channel="La Red A">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211163000 +0000" channel="La Red A">
+    <title lang="es">Vivir consciente</title>
+    <desc lang="es">Un espacio dedicado al cuidado de nuestro cuerpo y nuestra mente. Con tips y datos de vida sana, ejercicios, gastronomía y bienestar, para llevar una vida más plena y saludable.</desc>
+    <credits>
+      <actor>Vanesa Borghi</actor>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_vivir-consciente_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211163000 +0000" stop="20201211173000 +0000" channel="La Red A">
+    <title lang="es">Tanto quiere el diablo a su hijo, hasta que le saca un ojo</title>
+    <title lang="en">Como dice el dicho</title>
+    <sub-title lang="es">Como dice el dicho</sub-title>
+    <desc lang="es">Espacio en el que se darán a conocer historias conmovedoras y divertidas con una fórmula muy peculiar: llevan los dichos más populares de nuestro país a la televisión.</desc>
+    <credits>
+      <director>Emmanuel Duprez</director>
+      <director>Genoveva Martínez</director>
+      <actor>Sergio Corona</actor>
+      <actor>Wendy Gonzalez</actor>
+      <actor>Michael Ronda</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_como-dice-el-dicho-s07e50-tanto-quiere-el-diablo-a-su-hijo-hasta-que-le-saca-un-ojo_l_l.jpg" />
+    <episode-num system="onscreen">S7 E50</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211173000 +0000" stop="20201211183000 +0000" channel="La Red A">
+    <title lang="es">Padre e hija</title>
+    <title lang="en">La rosa de Guadalupe</title>
+    <sub-title lang="es">La rosa de Guadalupe</sub-title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+    <credits>
+      <director>Miguel Ángel Herros</director>
+      <actor>Roxana Saucedo</actor>
+      <actor>Maru Dueñas</actor>
+      <actor>Aleyda Gallardo</actor>
+      <actor>Gerardo Murguía</actor>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Francisco Avendaño</actor>
+      <actor>Karol Sevilla</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-rosa-de-guadalupe-s03e981-padre-e-hija_l_l.jpg" />
+    <episode-num system="onscreen">S3 E981</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211213000 +0000" channel="La Red A">
+    <title lang="es">La tarde de hola Chile</title>
+    <desc lang="es">Con humor, mucha entretenimiento y la mejor conversación, ahora estos buenos amigos nos invitan a compartir las tardes. Este divertido grupo te acompañará con los más entretenidos temas de conversación.</desc>
+    <credits>
+      <actor>Julia Vial</actor>
+      <actor>Eduardo De la Iglesia</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-tarde-de-hola-chile_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211213000 +0000" stop="20201211223000 +0000" channel="La Red A">
+    <title lang="es">Hola millones</title>
+    <desc lang="es">Participa diariamente por un premio de hasta $3 millones en este espacio de Lotería y La Red, en el cual tus sueños se pueden cumplir con estos millonarios premios en efectivo.</desc>
+    <credits>
+      <actor>Julia Vial</actor>
+      <actor>Eduardo De la Iglesia</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hola-millones_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211223000 +0000" stop="20201212003000 +0000" channel="La Red A">
+    <title lang="es">Aprender a sonreír / Desde pequeños</title>
+    <title lang="en">La rosa de Guadalupe</title>
+    <sub-title lang="es">La rosa de Guadalupe</sub-title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+    <credits>
+      <director>Miguel Ángel Herros</director>
+      <actor>Roxana Saucedo</actor>
+      <actor>Maru Dueñas</actor>
+      <actor>Aleyda Gallardo</actor>
+      <actor>Gerardo Murguía</actor>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Francisco Avendaño</actor>
+      <actor>Karol Sevilla</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-rosa-de-guadalupe-aprender-a-sonreir-desde-pequenos_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211053000 +0000" stop="20201211063000 +0000" channel="La Red B">
+    <title lang="es">Grandes mentiras verdaderas</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_grandes-mentiras-verdaderas_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211063000 +0000" stop="20201211073000 +0000" channel="La Red B">
+    <title lang="es">Red cuerdos</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_red-cuerdos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211073000 +0000" stop="20201211083000 +0000" channel="La Red B">
+    <title lang="es">Hola millones</title>
+    <desc lang="es">Participa diariamente por un premio de hasta $3 millones en este espacio de Lotería y La Red, en el cual tus sueños se pueden cumplir con estos millonarios premios en efectivo.</desc>
+    <credits>
+      <actor>Julia Vial</actor>
+      <actor>Eduardo De la Iglesia</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hola-millones_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211083000 +0000" stop="20201211093000 +0000" channel="La Red B">
+    <title lang="es">Cierre de transmisión</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cierre-de-transmision_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211093000 +0000" stop="20201211103000 +0000" channel="La Red B">
+    <title lang="es">El Juez Franco</title>
+    <desc lang="es">El abogado Manuel Franco recibe en el estrado de su corte a diversos de testigos que pretenden resolver su caso. Cada episodio trae consigo nuevas problemáticas para resolver, las cuales finalizan con el golpe del mazo del Juez.</desc>
+    <credits>
+      <actor>Manuel Franco</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-juez-franco_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211103000 +0000" stop="20201211110000 +0000" channel="La Red B">
+    <title lang="es">Parte A</title>
+    <title lang="en">Just for Laughs: Gags</title>
+    <sub-title lang="es">Just for Laughs: Gags</sub-title>
+    <desc lang="es">Espectáculo de bromas encubiertas en Montreal.</desc>
+    <credits>
+      <director>Marc-Olivier Valiquette</director>
+      <director>Dagan Taylor</director>
+      <director>Pascal Carrette</director>
+      <director>Gilles Denis</director>
+      <director>Jean Kohnen</director>
+      <director>Yann Vallières</director>
+      <director>Martin Brière</director>
+      <director>Ben Gagnon</director>
+      <director>Pascal Babin</director>
+      <actor>Ted Pluviose</actor>
+      <actor>Ruth Chiang</actor>
+      <actor>Satine Scarlett Montaz</actor>
+      <actor>Marie-Ève Verdier</actor>
+      <actor>Denis Levasseur</actor>
+      <actor>Pascal Babin</actor>
+      <actor>Marie Pierre Bouchard</actor>
+      <actor>Valerie Roy</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_just-for-laughs-gags-s07e117-parte-a_l_l.jpg" />
+    <episode-num system="onscreen">S7 E117</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211110000 +0000" stop="20201211120000 +0000" channel="La Red B">
+    <title lang="es">Swiss Nature Labs</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211120000 +0000" stop="20201211140000 +0000" channel="La Red B">
+    <title lang="es">Falabella TV</title>
+    <desc lang="es">Los productos que buscan están aquí, este espacio te ofrece una guía para que hagas tus compras con tranquilidad. Desde la comodidad de tu hogar podrás adquirir lo que quieras, en el mejor precio.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_falabella-tv_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211140000 +0000" stop="20201211160000 +0000" channel="La Red B">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211163000 +0000" channel="La Red B">
+    <title lang="es">Vivir consciente</title>
+    <desc lang="es">Un espacio dedicado al cuidado de nuestro cuerpo y nuestra mente. Con tips y datos de vida sana, ejercicios, gastronomía y bienestar, para llevar una vida más plena y saludable.</desc>
+    <credits>
+      <actor>Vanesa Borghi</actor>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_vivir-consciente_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211163000 +0000" stop="20201211173000 +0000" channel="La Red B">
+    <title lang="es">Tanto quiere el diablo a su hijo, hasta que le saca un ojo</title>
+    <title lang="en">Como dice el dicho</title>
+    <sub-title lang="es">Como dice el dicho</sub-title>
+    <desc lang="es">Espacio en el que se darán a conocer historias conmovedoras y divertidas con una fórmula muy peculiar: llevan los dichos más populares de nuestro país a la televisión.</desc>
+    <credits>
+      <director>Emmanuel Duprez</director>
+      <director>Genoveva Martínez</director>
+      <actor>Sergio Corona</actor>
+      <actor>Wendy Gonzalez</actor>
+      <actor>Michael Ronda</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_como-dice-el-dicho-s07e50-tanto-quiere-el-diablo-a-su-hijo-hasta-que-le-saca-un-ojo_l_l.jpg" />
+    <episode-num system="onscreen">S7 E50</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211173000 +0000" stop="20201211183000 +0000" channel="La Red B">
+    <title lang="es">Padre e hija</title>
+    <title lang="en">La rosa de Guadalupe</title>
+    <sub-title lang="es">La rosa de Guadalupe</sub-title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+    <credits>
+      <director>Miguel Ángel Herros</director>
+      <actor>Roxana Saucedo</actor>
+      <actor>Maru Dueñas</actor>
+      <actor>Aleyda Gallardo</actor>
+      <actor>Gerardo Murguía</actor>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Francisco Avendaño</actor>
+      <actor>Karol Sevilla</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-rosa-de-guadalupe-s03e981-padre-e-hija_l_l.jpg" />
+    <episode-num system="onscreen">S3 E981</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211213000 +0000" channel="La Red B">
+    <title lang="es">La tarde de hola Chile</title>
+    <desc lang="es">Con humor, mucha entretenimiento y la mejor conversación, ahora estos buenos amigos nos invitan a compartir las tardes. Este divertido grupo te acompañará con los más entretenidos temas de conversación.</desc>
+    <credits>
+      <actor>Julia Vial</actor>
+      <actor>Eduardo De la Iglesia</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-tarde-de-hola-chile_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211213000 +0000" stop="20201211223000 +0000" channel="La Red B">
+    <title lang="es">Hola millones</title>
+    <desc lang="es">Participa diariamente por un premio de hasta $3 millones en este espacio de Lotería y La Red, en el cual tus sueños se pueden cumplir con estos millonarios premios en efectivo.</desc>
+    <credits>
+      <actor>Julia Vial</actor>
+      <actor>Eduardo De la Iglesia</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hola-millones_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211223000 +0000" stop="20201212003000 +0000" channel="La Red B">
+    <title lang="es">Aprender a sonreír / Desde pequeños</title>
+    <title lang="en">La rosa de Guadalupe</title>
+    <sub-title lang="es">La rosa de Guadalupe</sub-title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+    <credits>
+      <director>Miguel Ángel Herros</director>
+      <actor>Roxana Saucedo</actor>
+      <actor>Maru Dueñas</actor>
+      <actor>Aleyda Gallardo</actor>
+      <actor>Gerardo Murguía</actor>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Francisco Avendaño</actor>
+      <actor>Karol Sevilla</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-rosa-de-guadalupe-aprender-a-sonreir-desde-pequenos_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211060000 +0000" stop="20201211063000 +0000" channel="TV+ A">
+    <title lang="es">La vitrina 360</title>
+    <desc lang="es">Tus vitrineos ahora serán más entretenidos con este nuevo programa de compras junto a Andrea Hoffman.</desc>
+    <credits>
+      <actor>Andrea Hoffman</actor>
+    </credits>
+    <category lang="es">Moda</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-vitrina-360_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211063000 +0000" stop="20201211070000 +0000" channel="TV+ A">
+    <title lang="es">El superagente 86</title>
+    <desc lang="es">La serie se centra en las aventuras del inepto agente secreto Maxwell Smart, conocido también como Agente 86 y su compañera la agente 99. Max y 99 trabajan para "Control.</desc>
+    <credits>
+      <director>Norman Abbott</director>
+      <director>Murray Golden</director>
+      <actor>Barbara Feldon</actor>
+      <actor>William Schallert</actor>
+      <actor>Don Adams</actor>
+      <actor>Edward Platt</actor>
+      <actor>Victor French</actor>
+      <actor>Angelique Pettyjohn</actor>
+      <actor>Ellen Weston</actor>
+      <actor>Dick Gautier</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-superagente-86_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211070000 +0000" stop="20201211083000 +0000" channel="TV+ A">
+    <title lang="es">Me late</title>
+    <desc lang="es">Una conversación con un personaje público y conocido, abordando el lado más íntimo del entrevistado. Cuenta con un panel estable de jóvenes que en conjunto analizarán los principales videos que están marcando tendencia en la red.</desc>
+    <credits>
+      <actor>Daniel Fuenzalida</actor>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-late_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211083000 +0000" stop="20201211093000 +0000" channel="TV+ A">
+    <title lang="es">Somos un plato</title>
+    <desc lang="es">El periodista José Miguel Furnaro y el cocinero Álvaro Lois combinan recetas para toda la familia con entrevistas a reconocidos personajes públicos en un espacio distendido, lleno de risas, anécdotas y buenas conversaciones.</desc>
+    <credits>
+      <actor>Álvaro Lois</actor>
+      <actor>José Miguel Furnaro</actor>
+    </credits>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_somos-un-plato_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211093000 +0000" stop="20201211105500 +0000" channel="TV+ A">
+    <title lang="es">MILF</title>
+    <desc lang="es">El programa aborda distintas temáticas dirigidas a las "mujeres, independientes, libres y felices" (MILF). Claudia Conserva, junto a Yazmín Vásquez y Renata Bravo, combinan la actualidad y el humor con una entretenida conversación.</desc>
+    <credits>
+      <actor>Renata Bravo</actor>
+      <actor>Claudia Conserva</actor>
+      <actor>Yazmín Vásquez</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_milf_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211105500 +0000" stop="20201211110000 +0000" channel="TV+ A">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211110000 +0000" stop="20201211133600 +0000" channel="TV+ A">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211133600 +0000" stop="20201211160000 +0000" channel="TV+ A">
+    <title lang="es">Falabella TV</title>
+    <desc lang="es">Los productos que buscan están aquí, este espacio te ofrece una guía para que hagas tus compras con tranquilidad. Desde la comodidad de tu hogar podrás adquirir lo que quieras, en el mejor precio.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_falabella-tv_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211170000 +0000" channel="TV+ A">
+    <title lang="es">Swisslab</title>
+    <desc lang="es">Productos para la salud - Infomerciales.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swisslab_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211170000 +0000" stop="20201211173000 +0000" channel="TV+ A">
+    <title lang="es">La vitrina 360</title>
+    <desc lang="es">Tus vitrineos ahora serán más entretenidos con este nuevo programa de compras junto a Andrea Hoffman.</desc>
+    <credits>
+      <actor>Andrea Hoffman</actor>
+    </credits>
+    <category lang="es">Moda</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-vitrina-360_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211173000 +0000" stop="20201211180000 +0000" channel="TV+ A">
+    <title lang="es">Tierra de reyes</title>
+    <title lang="en">Tierra de reyes</title>
+    <desc lang="es">Los hermanos Gallardo, Arturo, Samuel y Flavio intentarán hacer justicia por la muerte de su pariente menor. En medio del conflicto y la sed de venganza, caerán en su propia trampa al enamorarse de las tres hijas de Cayetana Belmonte.</desc>
+    <credits>
+      <director>Luis Manzo</director>
+      <director>Ricardo Schwarz</director>
+      <actor>Joaquín Garrido</actor>
+      <actor>Aarón Díaz</actor>
+      <actor>Sonya Smith</actor>
+      <actor>Omar Germenos</actor>
+      <actor>Adriana Lavat</actor>
+      <actor>Gonzalo Garcia Vivanco</actor>
+      <actor>Kimberly Dos Ramos</actor>
+      <actor>Fabián Ríos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tierra-de-reyes-s00e132_l_l.jpg" />
+    <episode-num system="onscreen">E132</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211180000 +0000" stop="20201211190000 +0000" channel="TV+ A">
+    <title lang="es">Somos un plato</title>
+    <desc lang="es">El periodista José Miguel Furnaro y el cocinero Álvaro Lois combinan recetas para toda la familia con entrevistas a reconocidos personajes públicos en un espacio distendido, lleno de risas, anécdotas y buenas conversaciones.</desc>
+    <credits>
+      <actor>Álvaro Lois</actor>
+      <actor>José Miguel Furnaro</actor>
+    </credits>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_somos-un-plato_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211201000 +0000" stop="20201211221500 +0000" channel="TV+ A">
+    <title lang="es">Me late</title>
+    <desc lang="es">Una conversación con un personaje público y conocido, abordando el lado más íntimo del entrevistado. Cuenta con un panel estable de jóvenes que en conjunto analizarán los principales videos que están marcando tendencia en la red.</desc>
+    <credits>
+      <actor>Daniel Fuenzalida</actor>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-late_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211221500 +0000" stop="20201211235600 +0000" channel="TV+ A">
+    <title lang="es">MILF</title>
+    <desc lang="es">El programa aborda distintas temáticas dirigidas a las "mujeres, independientes, libres y felices" (MILF). Claudia Conserva, junto a Yazmín Vásquez y Renata Bravo, combinan la actualidad y el humor con una entretenida conversación.</desc>
+    <credits>
+      <actor>Renata Bravo</actor>
+      <actor>Claudia Conserva</actor>
+      <actor>Yazmín Vásquez</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_milf_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211235600 +0000" stop="20201212011000 +0000" channel="TV+ A">
+    <title lang="es">Toc Show</title>
+    <desc lang="es">El periodista Juan Carlos "Pollo" Valdivia conduce este espacio de conversación y entretención. Junto a su equipo, tocan temas de actualidad, espectáculos y hablan de la contingencia nacional con un estilo distendido.</desc>
+    <credits>
+      <director>Carolina Antecao</director>
+      <actor>Juan Carlos Valdivia</actor>
+      <actor>Álvaro García</actor>
+      <actor>Bernardita Ruffinelli</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_toc-show_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211060000 +0000" stop="20201211063000 +0000" channel="TV+ B">
+    <title lang="es">La vitrina 360</title>
+    <desc lang="es">Tus vitrineos ahora serán más entretenidos con este nuevo programa de compras junto a Andrea Hoffman.</desc>
+    <credits>
+      <actor>Andrea Hoffman</actor>
+    </credits>
+    <category lang="es">Moda</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-vitrina-360_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211063000 +0000" stop="20201211070000 +0000" channel="TV+ B">
+    <title lang="es">El superagente 86</title>
+    <desc lang="es">La serie se centra en las aventuras del inepto agente secreto Maxwell Smart, conocido también como Agente 86 y su compañera la agente 99. Max y 99 trabajan para "Control.</desc>
+    <credits>
+      <director>Norman Abbott</director>
+      <director>Murray Golden</director>
+      <actor>Barbara Feldon</actor>
+      <actor>William Schallert</actor>
+      <actor>Don Adams</actor>
+      <actor>Edward Platt</actor>
+      <actor>Victor French</actor>
+      <actor>Angelique Pettyjohn</actor>
+      <actor>Ellen Weston</actor>
+      <actor>Dick Gautier</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-superagente-86_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211070000 +0000" stop="20201211083000 +0000" channel="TV+ B">
+    <title lang="es">Me late</title>
+    <desc lang="es">Una conversación con un personaje público y conocido, abordando el lado más íntimo del entrevistado. Cuenta con un panel estable de jóvenes que en conjunto analizarán los principales videos que están marcando tendencia en la red.</desc>
+    <credits>
+      <actor>Daniel Fuenzalida</actor>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-late_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211083000 +0000" stop="20201211093000 +0000" channel="TV+ B">
+    <title lang="es">Somos un plato</title>
+    <desc lang="es">El periodista José Miguel Furnaro y el cocinero Álvaro Lois combinan recetas para toda la familia con entrevistas a reconocidos personajes públicos en un espacio distendido, lleno de risas, anécdotas y buenas conversaciones.</desc>
+    <credits>
+      <actor>Álvaro Lois</actor>
+      <actor>José Miguel Furnaro</actor>
+    </credits>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_somos-un-plato_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211093000 +0000" stop="20201211105500 +0000" channel="TV+ B">
+    <title lang="es">MILF</title>
+    <desc lang="es">El programa aborda distintas temáticas dirigidas a las "mujeres, independientes, libres y felices" (MILF). Claudia Conserva, junto a Yazmín Vásquez y Renata Bravo, combinan la actualidad y el humor con una entretenida conversación.</desc>
+    <credits>
+      <actor>Renata Bravo</actor>
+      <actor>Claudia Conserva</actor>
+      <actor>Yazmín Vásquez</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_milf_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211105500 +0000" stop="20201211110000 +0000" channel="TV+ B">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211110000 +0000" stop="20201211133600 +0000" channel="TV+ B">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211133600 +0000" stop="20201211160000 +0000" channel="TV+ B">
+    <title lang="es">Falabella TV</title>
+    <desc lang="es">Los productos que buscan están aquí, este espacio te ofrece una guía para que hagas tus compras con tranquilidad. Desde la comodidad de tu hogar podrás adquirir lo que quieras, en el mejor precio.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_falabella-tv_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211170000 +0000" channel="TV+ B">
+    <title lang="es">Swisslab</title>
+    <desc lang="es">Productos para la salud - Infomerciales.</desc>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swisslab_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211170000 +0000" stop="20201211173000 +0000" channel="TV+ B">
+    <title lang="es">La vitrina 360</title>
+    <desc lang="es">Tus vitrineos ahora serán más entretenidos con este nuevo programa de compras junto a Andrea Hoffman.</desc>
+    <credits>
+      <actor>Andrea Hoffman</actor>
+    </credits>
+    <category lang="es">Moda</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-vitrina-360_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211173000 +0000" stop="20201211180000 +0000" channel="TV+ B">
+    <title lang="es">Tierra de reyes</title>
+    <title lang="en">Tierra de reyes</title>
+    <desc lang="es">Los hermanos Gallardo, Arturo, Samuel y Flavio intentarán hacer justicia por la muerte de su pariente menor. En medio del conflicto y la sed de venganza, caerán en su propia trampa al enamorarse de las tres hijas de Cayetana Belmonte.</desc>
+    <credits>
+      <director>Luis Manzo</director>
+      <director>Ricardo Schwarz</director>
+      <actor>Joaquín Garrido</actor>
+      <actor>Aarón Díaz</actor>
+      <actor>Sonya Smith</actor>
+      <actor>Omar Germenos</actor>
+      <actor>Adriana Lavat</actor>
+      <actor>Gonzalo Garcia Vivanco</actor>
+      <actor>Kimberly Dos Ramos</actor>
+      <actor>Fabián Ríos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tierra-de-reyes-s00e132_l_l.jpg" />
+    <episode-num system="onscreen">E132</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211180000 +0000" stop="20201211190000 +0000" channel="TV+ B">
+    <title lang="es">Somos un plato</title>
+    <desc lang="es">El periodista José Miguel Furnaro y el cocinero Álvaro Lois combinan recetas para toda la familia con entrevistas a reconocidos personajes públicos en un espacio distendido, lleno de risas, anécdotas y buenas conversaciones.</desc>
+    <credits>
+      <actor>Álvaro Lois</actor>
+      <actor>José Miguel Furnaro</actor>
+    </credits>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_somos-un-plato_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211201000 +0000" stop="20201211221500 +0000" channel="TV+ B">
+    <title lang="es">Me late</title>
+    <desc lang="es">Una conversación con un personaje público y conocido, abordando el lado más íntimo del entrevistado. Cuenta con un panel estable de jóvenes que en conjunto analizarán los principales videos que están marcando tendencia en la red.</desc>
+    <credits>
+      <actor>Daniel Fuenzalida</actor>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-late_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211221500 +0000" stop="20201211235600 +0000" channel="TV+ B">
+    <title lang="es">MILF</title>
+    <desc lang="es">El programa aborda distintas temáticas dirigidas a las "mujeres, independientes, libres y felices" (MILF). Claudia Conserva, junto a Yazmín Vásquez y Renata Bravo, combinan la actualidad y el humor con una entretenida conversación.</desc>
+    <credits>
+      <actor>Renata Bravo</actor>
+      <actor>Claudia Conserva</actor>
+      <actor>Yazmín Vásquez</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_milf_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211235600 +0000" stop="20201212011000 +0000" channel="TV+ B">
+    <title lang="es">Toc Show</title>
+    <desc lang="es">El periodista Juan Carlos "Pollo" Valdivia conduce este espacio de conversación y entretención. Junto a su equipo, tocan temas de actualidad, espectáculos y hablan de la contingencia nacional con un estilo distendido.</desc>
+    <credits>
+      <director>Carolina Antecao</director>
+      <actor>Juan Carlos Valdivia</actor>
+      <actor>Álvaro García</actor>
+      <actor>Bernardita Ruffinelli</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_toc-show_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211060000 +0000" stop="20201211070000 +0000" channel="TVN A">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos.</desc>
+    <credits>
+      <actor>Ángela Contreras</actor>
+      <actor>Carmen Gloria</actor>
+      <actor>Carolina Faúndez</actor>
+      <actor>Jaime Sánchez</actor>
+      <actor>Galdino Besomi</actor>
+      <actor>Carolina Zaror</actor>
+      <actor>Esteban De Barbieri</actor>
+      <actor>Catherine Campos</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211070000 +0000" stop="20201211080000 +0000" channel="TVN A">
+    <title lang="es">Sin parche</title>
+    <desc lang="es">Con conversaciones profundas y diferentes, Santiago Pavlovic abordará desde la intimidad de sus vidas a chilenos que son considerados únicos por su trascendencia social y conocimiento público.</desc>
+    <credits>
+      <actor>Santiago Pavlovic</actor>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sin-parche_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211080000 +0000" stop="20201211090000 +0000" channel="TVN A">
+    <title lang="es">El regreso</title>
+    <desc lang="es">La historia de una mujer que retorna al mundo tras pasar 10 años encarcelada por un crimen que no cometió.</desc>
+    <credits>
+      <director>Nicola Alemparte</director>
+      <actor>Alejandra Fosalba</actor>
+      <actor>Mónica Carrasco</actor>
+      <actor>Macarena Teke</actor>
+      <actor>Ivan Alvarez de Araya</actor>
+      <actor>María José Illanes</actor>
+      <actor>Felipe Contreras</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-regreso_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211090000 +0000" stop="20201211100000 +0000" channel="TVN A">
+    <title lang="es">Conectados</title>
+    <desc lang="es">Un espacio que te permite estar en contacto con diversos temas de interés. Hay información, actualidad, experiencias de vida y todos aquellos tópicos que acercan a los latinoamericanos a sus raíces.</desc>
+    <credits>
+      <actor>Jorge Hevia</actor>
+      <actor>María Jimena Pereira</actor>
+      <actor>Simoney Romero</actor>
+      <actor>Patricio Ado</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conectados_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211113000 +0000" channel="TVN A">
+    <title lang="es">24 AM</title>
+    <desc lang="es">Un noticiario que tendrá mucho trabajo en terreno, recogiendo los hechos que marcaron la noche y la madrugada, como también revisando los primeras hechos que comienzan a marcar la jornada.</desc>
+    <credits>
+      <actor>Gonzalo Ramírez</actor>
+      <actor>Carla Zunino</actor>
+    </credits>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-am_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211113000 +0000" stop="20201211160000 +0000" channel="TVN A">
+    <title lang="es">Buenos días a todos</title>
+    <desc lang="es">Un magazine matutino en el que se presentan servicios, conversaciones, humor y la mejor compañía para empezar cada día.</desc>
+    <credits>
+      <director>Pablo Hernández</director>
+      <actor>Carolina Escobar</actor>
+      <actor>Gonzalo Ramírez</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_buenos-dias-a-todos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211183000 +0000" channel="TVN A">
+    <title lang="es">24 horas Tarde</title>
+    <desc lang="es">Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial de la tarde, donde te presentamos un resumen con informaciones completas.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-tarde_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211193000 +0000" channel="TVN A">
+    <title lang="es">Conectados</title>
+    <desc lang="es">Un espacio que te permite estar en contacto con diversos temas de interés. Hay información, actualidad, experiencias de vida y todos aquellos tópicos que acercan a los latinoamericanos a sus raíces.</desc>
+    <credits>
+      <actor>Jorge Hevia</actor>
+      <actor>María Jimena Pereira</actor>
+      <actor>Simoney Romero</actor>
+      <actor>Patricio Ado</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conectados_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211193000 +0000" stop="20201211200000 +0000" channel="TVN A">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211200000 +0000" stop="20201211203000 +0000" channel="TVN A">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211203000 +0000" stop="20201211220000 +0000" channel="TVN A">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos.</desc>
+    <credits>
+      <actor>Ángela Contreras</actor>
+      <actor>Carmen Gloria</actor>
+      <actor>Carolina Faúndez</actor>
+      <actor>Jaime Sánchez</actor>
+      <actor>Galdino Besomi</actor>
+      <actor>Carolina Zaror</actor>
+      <actor>Esteban De Barbieri</actor>
+      <actor>Catherine Campos</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211220000 +0000" stop="20201211224000 +0000" channel="TVN A">
+    <title lang="es">Noticias 24</title>
+    <desc lang="es">Resumen noticioso nacional e internacional.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211224000 +0000" stop="20201211230000 +0000" channel="TVN A">
+    <title lang="es">La chúcara</title>
+    <desc lang="es">Tras años sin volver, Laura pasa por la Hacienda donde trabajan su madre y hermano. Allí conoce a Vicente, dueño del lugar y viudo hace poco. Con el tiempo, Laura y Vicente comenzarán una relación, y ella luchará por el amor de su vida.</desc>
+    <credits>
+      <director>Matías Stagnaro</director>
+      <actor>Felipe Braun</actor>
+      <actor>Iñigo Urrutia</actor>
+      <actor>Eduardo Paxeco</actor>
+      <actor>Mariana Derderián</actor>
+      <actor>Josefina Velasco</actor>
+      <actor>Antonia Santa María</actor>
+      <actor>Bárbara Ruiz-Tagle</actor>
+      <actor>Carmina Riego</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-chucara_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211230000 +0000" stop="20201211234500 +0000" channel="TVN A">
+    <title lang="es">El regreso</title>
+    <desc lang="es">La historia de una mujer que retorna al mundo tras pasar 10 años encarcelada por un crimen que no cometió.</desc>
+    <credits>
+      <director>Nicola Alemparte</director>
+      <actor>Alejandra Fosalba</actor>
+      <actor>Mónica Carrasco</actor>
+      <actor>Macarena Teke</actor>
+      <actor>Ivan Alvarez de Araya</actor>
+      <actor>María José Illanes</actor>
+      <actor>Felipe Contreras</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-regreso_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211234500 +0000" stop="20201212014000 +0000" channel="TVN A">
+    <title lang="es">24 horas central</title>
+    <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.</desc>
+    <credits>
+      <actor>Carolina Escobar</actor>
+      <actor>Iván Núñez</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-central_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211060000 +0000" stop="20201211070000 +0000" channel="TVN B">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos.</desc>
+    <credits>
+      <actor>Ángela Contreras</actor>
+      <actor>Carmen Gloria</actor>
+      <actor>Carolina Faúndez</actor>
+      <actor>Jaime Sánchez</actor>
+      <actor>Galdino Besomi</actor>
+      <actor>Carolina Zaror</actor>
+      <actor>Esteban De Barbieri</actor>
+      <actor>Catherine Campos</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211070000 +0000" stop="20201211080000 +0000" channel="TVN B">
+    <title lang="es">Sin parche</title>
+    <desc lang="es">Con conversaciones profundas y diferentes, Santiago Pavlovic abordará desde la intimidad de sus vidas a chilenos que son considerados únicos por su trascendencia social y conocimiento público.</desc>
+    <credits>
+      <actor>Santiago Pavlovic</actor>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sin-parche_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211080000 +0000" stop="20201211090000 +0000" channel="TVN B">
+    <title lang="es">El regreso</title>
+    <desc lang="es">La historia de una mujer que retorna al mundo tras pasar 10 años encarcelada por un crimen que no cometió.</desc>
+    <credits>
+      <director>Nicola Alemparte</director>
+      <actor>Alejandra Fosalba</actor>
+      <actor>Mónica Carrasco</actor>
+      <actor>Macarena Teke</actor>
+      <actor>Ivan Alvarez de Araya</actor>
+      <actor>María José Illanes</actor>
+      <actor>Felipe Contreras</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-regreso_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211090000 +0000" stop="20201211100000 +0000" channel="TVN B">
+    <title lang="es">Conectados</title>
+    <desc lang="es">Un espacio que te permite estar en contacto con diversos temas de interés. Hay información, actualidad, experiencias de vida y todos aquellos tópicos que acercan a los latinoamericanos a sus raíces.</desc>
+    <credits>
+      <actor>Jorge Hevia</actor>
+      <actor>María Jimena Pereira</actor>
+      <actor>Simoney Romero</actor>
+      <actor>Patricio Ado</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conectados_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211113000 +0000" channel="TVN B">
+    <title lang="es">24 AM</title>
+    <desc lang="es">Un noticiario que tendrá mucho trabajo en terreno, recogiendo los hechos que marcaron la noche y la madrugada, como también revisando los primeras hechos que comienzan a marcar la jornada.</desc>
+    <credits>
+      <actor>Gonzalo Ramírez</actor>
+      <actor>Carla Zunino</actor>
+    </credits>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-am_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211113000 +0000" stop="20201211160000 +0000" channel="TVN B">
+    <title lang="es">Buenos días a todos</title>
+    <desc lang="es">Un magazine matutino en el que se presentan servicios, conversaciones, humor y la mejor compañía para empezar cada día.</desc>
+    <credits>
+      <director>Pablo Hernández</director>
+      <actor>Carolina Escobar</actor>
+      <actor>Gonzalo Ramírez</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_buenos-dias-a-todos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211183000 +0000" channel="TVN B">
+    <title lang="es">24 horas Tarde</title>
+    <desc lang="es">Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial de la tarde, donde te presentamos un resumen con informaciones completas.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-tarde_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211193000 +0000" channel="TVN B">
+    <title lang="es">Conectados</title>
+    <desc lang="es">Un espacio que te permite estar en contacto con diversos temas de interés. Hay información, actualidad, experiencias de vida y todos aquellos tópicos que acercan a los latinoamericanos a sus raíces.</desc>
+    <credits>
+      <actor>Jorge Hevia</actor>
+      <actor>María Jimena Pereira</actor>
+      <actor>Simoney Romero</actor>
+      <actor>Patricio Ado</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conectados_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211193000 +0000" stop="20201211200000 +0000" channel="TVN B">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211200000 +0000" stop="20201211203000 +0000" channel="TVN B">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211203000 +0000" stop="20201211220000 +0000" channel="TVN B">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos.</desc>
+    <credits>
+      <actor>Ángela Contreras</actor>
+      <actor>Carmen Gloria</actor>
+      <actor>Carolina Faúndez</actor>
+      <actor>Jaime Sánchez</actor>
+      <actor>Galdino Besomi</actor>
+      <actor>Carolina Zaror</actor>
+      <actor>Esteban De Barbieri</actor>
+      <actor>Catherine Campos</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211220000 +0000" stop="20201211224000 +0000" channel="TVN B">
+    <title lang="es">Noticias 24</title>
+    <desc lang="es">Resumen noticioso nacional e internacional.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211224000 +0000" stop="20201211230000 +0000" channel="TVN B">
+    <title lang="es">La chúcara</title>
+    <desc lang="es">Tras años sin volver, Laura pasa por la Hacienda donde trabajan su madre y hermano. Allí conoce a Vicente, dueño del lugar y viudo hace poco. Con el tiempo, Laura y Vicente comenzarán una relación, y ella luchará por el amor de su vida.</desc>
+    <credits>
+      <director>Matías Stagnaro</director>
+      <actor>Felipe Braun</actor>
+      <actor>Iñigo Urrutia</actor>
+      <actor>Eduardo Paxeco</actor>
+      <actor>Mariana Derderián</actor>
+      <actor>Josefina Velasco</actor>
+      <actor>Antonia Santa María</actor>
+      <actor>Bárbara Ruiz-Tagle</actor>
+      <actor>Carmina Riego</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-chucara_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211230000 +0000" stop="20201211234500 +0000" channel="TVN B">
+    <title lang="es">El regreso</title>
+    <desc lang="es">La historia de una mujer que retorna al mundo tras pasar 10 años encarcelada por un crimen que no cometió.</desc>
+    <credits>
+      <director>Nicola Alemparte</director>
+      <actor>Alejandra Fosalba</actor>
+      <actor>Mónica Carrasco</actor>
+      <actor>Macarena Teke</actor>
+      <actor>Ivan Alvarez de Araya</actor>
+      <actor>María José Illanes</actor>
+      <actor>Felipe Contreras</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-regreso_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211234500 +0000" stop="20201212014000 +0000" channel="TVN B">
+    <title lang="es">24 horas central</title>
+    <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.</desc>
+    <credits>
+      <actor>Carolina Escobar</actor>
+      <actor>Iván Núñez</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-central_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211060000 +0000" stop="20201211070000 +0000" channel="TVN C">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos.</desc>
+    <credits>
+      <actor>Ángela Contreras</actor>
+      <actor>Carmen Gloria</actor>
+      <actor>Carolina Faúndez</actor>
+      <actor>Jaime Sánchez</actor>
+      <actor>Galdino Besomi</actor>
+      <actor>Carolina Zaror</actor>
+      <actor>Esteban De Barbieri</actor>
+      <actor>Catherine Campos</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211070000 +0000" stop="20201211080000 +0000" channel="TVN C">
+    <title lang="es">Sin parche</title>
+    <desc lang="es">Con conversaciones profundas y diferentes, Santiago Pavlovic abordará desde la intimidad de sus vidas a chilenos que son considerados únicos por su trascendencia social y conocimiento público.</desc>
+    <credits>
+      <actor>Santiago Pavlovic</actor>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sin-parche_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211080000 +0000" stop="20201211090000 +0000" channel="TVN C">
+    <title lang="es">El regreso</title>
+    <desc lang="es">La historia de una mujer que retorna al mundo tras pasar 10 años encarcelada por un crimen que no cometió.</desc>
+    <credits>
+      <director>Nicola Alemparte</director>
+      <actor>Alejandra Fosalba</actor>
+      <actor>Mónica Carrasco</actor>
+      <actor>Macarena Teke</actor>
+      <actor>Ivan Alvarez de Araya</actor>
+      <actor>María José Illanes</actor>
+      <actor>Felipe Contreras</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-regreso_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211090000 +0000" stop="20201211100000 +0000" channel="TVN C">
+    <title lang="es">Conectados</title>
+    <desc lang="es">Un espacio que te permite estar en contacto con diversos temas de interés. Hay información, actualidad, experiencias de vida y todos aquellos tópicos que acercan a los latinoamericanos a sus raíces.</desc>
+    <credits>
+      <actor>Jorge Hevia</actor>
+      <actor>María Jimena Pereira</actor>
+      <actor>Simoney Romero</actor>
+      <actor>Patricio Ado</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conectados_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211113000 +0000" channel="TVN C">
+    <title lang="es">24 AM</title>
+    <desc lang="es">Un noticiario que tendrá mucho trabajo en terreno, recogiendo los hechos que marcaron la noche y la madrugada, como también revisando los primeras hechos que comienzan a marcar la jornada.</desc>
+    <credits>
+      <actor>Gonzalo Ramírez</actor>
+      <actor>Carla Zunino</actor>
+    </credits>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-am_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211113000 +0000" stop="20201211160000 +0000" channel="TVN C">
+    <title lang="es">Buenos días a todos</title>
+    <desc lang="es">Un magazine matutino en el que se presentan servicios, conversaciones, humor y la mejor compañía para empezar cada día.</desc>
+    <credits>
+      <director>Pablo Hernández</director>
+      <actor>Carolina Escobar</actor>
+      <actor>Gonzalo Ramírez</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_buenos-dias-a-todos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211183000 +0000" channel="TVN C">
+    <title lang="es">24 horas Tarde</title>
+    <desc lang="es">Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial de la tarde, donde te presentamos un resumen con informaciones completas.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-tarde_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211193000 +0000" channel="TVN C">
+    <title lang="es">Conectados</title>
+    <desc lang="es">Un espacio que te permite estar en contacto con diversos temas de interés. Hay información, actualidad, experiencias de vida y todos aquellos tópicos que acercan a los latinoamericanos a sus raíces.</desc>
+    <credits>
+      <actor>Jorge Hevia</actor>
+      <actor>María Jimena Pereira</actor>
+      <actor>Simoney Romero</actor>
+      <actor>Patricio Ado</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conectados_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211193000 +0000" stop="20201211200000 +0000" channel="TVN C">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211200000 +0000" stop="20201211203000 +0000" channel="TVN C">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211203000 +0000" stop="20201211220000 +0000" channel="TVN C">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos.</desc>
+    <credits>
+      <actor>Ángela Contreras</actor>
+      <actor>Carmen Gloria</actor>
+      <actor>Carolina Faúndez</actor>
+      <actor>Jaime Sánchez</actor>
+      <actor>Galdino Besomi</actor>
+      <actor>Carolina Zaror</actor>
+      <actor>Esteban De Barbieri</actor>
+      <actor>Catherine Campos</actor>
+    </credits>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211220000 +0000" stop="20201211224000 +0000" channel="TVN C">
+    <title lang="es">Noticias 24</title>
+    <desc lang="es">Resumen noticioso nacional e internacional.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211224000 +0000" stop="20201211230000 +0000" channel="TVN C">
+    <title lang="es">La chúcara</title>
+    <desc lang="es">Tras años sin volver, Laura pasa por la Hacienda donde trabajan su madre y hermano. Allí conoce a Vicente, dueño del lugar y viudo hace poco. Con el tiempo, Laura y Vicente comenzarán una relación, y ella luchará por el amor de su vida.</desc>
+    <credits>
+      <director>Matías Stagnaro</director>
+      <actor>Felipe Braun</actor>
+      <actor>Iñigo Urrutia</actor>
+      <actor>Eduardo Paxeco</actor>
+      <actor>Mariana Derderián</actor>
+      <actor>Josefina Velasco</actor>
+      <actor>Antonia Santa María</actor>
+      <actor>Bárbara Ruiz-Tagle</actor>
+      <actor>Carmina Riego</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-chucara_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211230000 +0000" stop="20201211234500 +0000" channel="TVN C">
+    <title lang="es">El regreso</title>
+    <desc lang="es">La historia de una mujer que retorna al mundo tras pasar 10 años encarcelada por un crimen que no cometió.</desc>
+    <credits>
+      <director>Nicola Alemparte</director>
+      <actor>Alejandra Fosalba</actor>
+      <actor>Mónica Carrasco</actor>
+      <actor>Macarena Teke</actor>
+      <actor>Ivan Alvarez de Araya</actor>
+      <actor>María José Illanes</actor>
+      <actor>Felipe Contreras</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-regreso_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211234500 +0000" stop="20201212014000 +0000" channel="TVN C">
+    <title lang="es">24 horas central</title>
+    <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.</desc>
+    <credits>
+      <actor>Carolina Escobar</actor>
+      <actor>Iván Núñez</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-central_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211053000 +0000" stop="20201211100000 +0000" channel="Mega A">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fin-de-transmision_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211113000 +0000" channel="Mega A">
+    <title lang="es">Meganoticias conecta</title>
+    <desc lang="es">Un noticiero que busca entregar la mejor y más detallada información de todo el acontecer nacional, de lo que está pasando en Chile y en el mundo minuto a minuto, de una forma ágil y dinámica.</desc>
+    <credits>
+      <actor>José Luis Repenning</actor>
+      <actor>Priscilla Vargas</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-conecta_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211182500 +0000" channel="Mega A">
+    <title lang="es">Meganoticias Actualiza</title>
+    <desc lang="es">Un noticiero que busca entregar la mejor y más detallada información de todo el acontecer nacional, de lo que está pasando en Chile y en el mundo minuto a minuto, de una forma ágil y dinámica.</desc>
+    <credits>
+      <actor>José Antonio Neme</actor>
+      <actor>Priscilla Vargas</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-actualiza_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211182500 +0000" stop="20201211183000 +0000" channel="Mega A">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211185000 +0000" channel="Mega A">
+    <title lang="es">Verdades ocultas</title>
+    <title lang="en">Verdades ocultas</title>
+    <desc lang="es">Laura Flores es una madre soltera de dos niñas. Las tres viven en una condición de extrema pobreza y abandono. Por esto toma la decisión más difícil de su vida: vender a una de sus hijas para darle de comer a la otra, y así salvar a ambas.</desc>
+    <credits>
+      <director>Felipe Arratia</director>
+      <actor>Julio Jung</actor>
+      <actor>Maricarmen Arrigorriaga</actor>
+      <actor>Cristián Arriagada</actor>
+      <actor>Viviana Rodríguez</actor>
+      <actor>Matías Oviedo</actor>
+      <actor>Javiera Diaz De Valdés</actor>
+      <actor>Camila Hirane</actor>
+      <actor>Alexander Solórzano</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_verdades-ocultas-s05e748_l_l.jpg" />
+    <episode-num system="onscreen">S5 E748</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211185000 +0000" stop="20201211194500 +0000" channel="Mega A">
+    <title lang="es">Verdades ocultas</title>
+    <title lang="en">Verdades ocultas</title>
+    <desc lang="es">Laura Flores es una madre soltera de dos niñas. Las tres viven en una condición de extrema pobreza y abandono. Por esto toma la decisión más difícil de su vida: vender a una de sus hijas para darle de comer a la otra, y así salvar a ambas.</desc>
+    <credits>
+      <director>Felipe Arratia</director>
+      <actor>Julio Jung</actor>
+      <actor>Maricarmen Arrigorriaga</actor>
+      <actor>Cristián Arriagada</actor>
+      <actor>Viviana Rodríguez</actor>
+      <actor>Matías Oviedo</actor>
+      <actor>Javiera Diaz De Valdés</actor>
+      <actor>Camila Hirane</actor>
+      <actor>Alexander Solórzano</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_verdades-ocultas-s05e749_l_l.jpg" />
+    <episode-num system="onscreen">S5 E749</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211194500 +0000" stop="20201211203000 +0000" channel="Mega A">
+    <title lang="es">Te doy la vida</title>
+    <title lang="en">Te doy la vida</title>
+    <desc lang="es">Fabián es un mecánico de barrio cuya vida cambia por completo cuando se entera de que es el padre de un pequeño diagnosticado con leucemia, pues, en sus deseos de ayudarlo, logra crear un vínculo especial tanto con él como con su madre.</desc>
+    <credits>
+      <director>Claudio López de Lérida</director>
+      <actor>Álvaro Espinoza</actor>
+      <actor>María Llanes</actor>
+      <actor>Cristián Riquelme</actor>
+      <actor>Celine Reymond</actor>
+      <actor>Carmen Gloria Bresky</actor>
+      <actor>Carmen Disa Gutiérrez</actor>
+      <actor>Cecilia Cucurella</actor>
+      <actor>Osvaldo Silva</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_te-doy-la-vida-s01e60_l_l.jpg" />
+    <episode-num system="onscreen">S1 E60</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211203000 +0000" stop="20201211211500 +0000" channel="Mega A">
+    <title lang="es">Mi vida eres tú</title>
+    <title lang="en">Vatanim Sensin</title>
+    <desc lang="es">Cevdet es un comandante que lucha por su país en la Guerra de los Balcanes. Tras la caída del Imperio Otomano, Cevdet es dado por muerto, razón por la que su esposa decide irse del país. Ocho años después, Cevdet aparece con vida.</desc>
+    <credits>
+      <director>Yagmur Taylan</director>
+      <director>Durul Taylan</director>
+      <director>Burak Arliel</director>
+      <actor>Bergüzar Korel</actor>
+      <actor>Baki Davrak</actor>
+      <actor>Halit Ergenc</actor>
+      <actor>Okan Yalabik</actor>
+      <actor>Saadet Aksoy</actor>
+      <actor>Onur Saylak</actor>
+      <actor>Tugrul Tulek</actor>
+      <actor>Levent Can</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mi-vida-eres-tu-s01e193_l_l.jpg" />
+    <episode-num system="onscreen">S1 E193</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211211500 +0000" stop="20201211220000 +0000" channel="Mega A">
+    <title lang="es">Episodio #1.110</title>
+    <title lang="en">Insensato Coracao</title>
+    <sub-title lang="es">Insensato corazón</sub-title>
+    <desc lang="es">Leo trata de hacer una inversión en máquinas tragamonedas ilegales, pero Raúl, su padre, le niega el préstamo. Entonces, para convencerlo, Leo busca a su tìo Humberto seguro de que un reencuentro entre los hermanos le suavizará el carácter.</desc>
+    <credits>
+      <actor>Glória Pires</actor>
+      <actor>Natalia Do Vale</actor>
+      <actor>Deborah Secco</actor>
+      <actor>Antônio Fagundes</actor>
+      <actor>Deborah Evelyn</actor>
+      <actor>Camila Pitanga</actor>
+      <actor>Eriberto Leao</actor>
+      <actor>Gabriel Braga Nunes</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_insensato-corazon-s01e110-episodio-1-110_l_l.jpg" />
+    <episode-num system="onscreen">S1 E110</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211220000 +0000" stop="20201211224500 +0000" channel="Mega A">
+    <title lang="es">Papá a la deriva</title>
+    <title lang="en">Papá a la deriva</title>
+    <desc lang="es">Bruno Montt es un famoso y estricto capitán de la marina que, desde que quedó viudo, ha criado a sus cuatro hijos con rigor y mucha disciplina. Su vida se verá alterada con la aparición de una carismática muchacha.</desc>
+    <credits>
+      <director>Felipe Arratia</director>
+      <director>Mauricio Lucero</director>
+      <actor>Maricarmen Arrigorriaga</actor>
+      <actor>Gonzalo Valenzuela</actor>
+      <actor>Claudio Arredondo</actor>
+      <actor>Fernando Larraín</actor>
+      <actor>Solange Lackington</actor>
+      <actor>Simón Pesutic</actor>
+      <actor>María Gracia Omegna</actor>
+      <actor>Renato Jofré</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_papa-a-la-deriva-s01e164_l_l.jpg" />
+    <episode-num system="onscreen">S1 E164</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211224500 +0000" stop="20201211233000 +0000" channel="Mega A">
+    <title lang="es">Pobre Gallo</title>
+    <title lang="en">Pobre Gallo</title>
+    <desc lang="es">Nicolás Pérez de Castro se traslada a pasar una temporada con sus hijos al fundo de su padre en el pueblo de Yerbas Buenas para alejarse de su adicción a la tecnología. Pero los conflictos comenzarán cuando empiecen las historias de amor.</desc>
+    <credits>
+      <director>Enrique Bravo</director>
+      <director>Nicolás Alemparte</director>
+      <actor>Álvaro Rudolphy</actor>
+      <actor>Paola Volpato</actor>
+      <actor>Fernando Godoy</actor>
+      <actor>Augusto Schuster</actor>
+      <actor>Dayana Amigo</actor>
+      <actor>Ingrid Cruz</actor>
+      <actor>Gabriela Hernández</actor>
+      <actor>Pedro Campos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pobre-gallo-s00e144_l_l.jpg" />
+    <episode-num system="onscreen">E144</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211233000 +0000" stop="20201212005500 +0000" channel="Mega A">
+    <title lang="es">Meganoticias Prime</title>
+    <desc lang="es">La revisión de las principales informaciones que marcan la jornada en Chile y el mundo.</desc>
+    <credits>
+      <actor>Gianfranco Marcone</actor>
+      <actor>Jaime Leyton</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-prime_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211053000 +0000" stop="20201211100000 +0000" channel="Mega B">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fin-de-transmision_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211113000 +0000" channel="Mega B">
+    <title lang="es">Meganoticias conecta</title>
+    <desc lang="es">Un noticiero que busca entregar la mejor y más detallada información de todo el acontecer nacional, de lo que está pasando en Chile y en el mundo minuto a minuto, de una forma ágil y dinámica.</desc>
+    <credits>
+      <actor>José Luis Repenning</actor>
+      <actor>Priscilla Vargas</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-conecta_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211182500 +0000" channel="Mega B">
+    <title lang="es">Meganoticias Actualiza</title>
+    <desc lang="es">Un noticiero que busca entregar la mejor y más detallada información de todo el acontecer nacional, de lo que está pasando en Chile y en el mundo minuto a minuto, de una forma ágil y dinámica.</desc>
+    <credits>
+      <actor>José Antonio Neme</actor>
+      <actor>Priscilla Vargas</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-actualiza_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211182500 +0000" stop="20201211183000 +0000" channel="Mega B">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211185000 +0000" channel="Mega B">
+    <title lang="es">Verdades ocultas</title>
+    <title lang="en">Verdades ocultas</title>
+    <desc lang="es">Laura Flores es una madre soltera de dos niñas. Las tres viven en una condición de extrema pobreza y abandono. Por esto toma la decisión más difícil de su vida: vender a una de sus hijas para darle de comer a la otra, y así salvar a ambas.</desc>
+    <credits>
+      <director>Felipe Arratia</director>
+      <actor>Julio Jung</actor>
+      <actor>Maricarmen Arrigorriaga</actor>
+      <actor>Cristián Arriagada</actor>
+      <actor>Viviana Rodríguez</actor>
+      <actor>Matías Oviedo</actor>
+      <actor>Javiera Diaz De Valdés</actor>
+      <actor>Camila Hirane</actor>
+      <actor>Alexander Solórzano</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_verdades-ocultas-s05e748_l_l.jpg" />
+    <episode-num system="onscreen">S5 E748</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211185000 +0000" stop="20201211194500 +0000" channel="Mega B">
+    <title lang="es">Verdades ocultas</title>
+    <title lang="en">Verdades ocultas</title>
+    <desc lang="es">Laura Flores es una madre soltera de dos niñas. Las tres viven en una condición de extrema pobreza y abandono. Por esto toma la decisión más difícil de su vida: vender a una de sus hijas para darle de comer a la otra, y así salvar a ambas.</desc>
+    <credits>
+      <director>Felipe Arratia</director>
+      <actor>Julio Jung</actor>
+      <actor>Maricarmen Arrigorriaga</actor>
+      <actor>Cristián Arriagada</actor>
+      <actor>Viviana Rodríguez</actor>
+      <actor>Matías Oviedo</actor>
+      <actor>Javiera Diaz De Valdés</actor>
+      <actor>Camila Hirane</actor>
+      <actor>Alexander Solórzano</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_verdades-ocultas-s05e749_l_l.jpg" />
+    <episode-num system="onscreen">S5 E749</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211194500 +0000" stop="20201211203000 +0000" channel="Mega B">
+    <title lang="es">Te doy la vida</title>
+    <title lang="en">Te doy la vida</title>
+    <desc lang="es">Fabián es un mecánico de barrio cuya vida cambia por completo cuando se entera de que es el padre de un pequeño diagnosticado con leucemia, pues, en sus deseos de ayudarlo, logra crear un vínculo especial tanto con él como con su madre.</desc>
+    <credits>
+      <director>Claudio López de Lérida</director>
+      <actor>Álvaro Espinoza</actor>
+      <actor>María Llanes</actor>
+      <actor>Cristián Riquelme</actor>
+      <actor>Celine Reymond</actor>
+      <actor>Carmen Gloria Bresky</actor>
+      <actor>Carmen Disa Gutiérrez</actor>
+      <actor>Cecilia Cucurella</actor>
+      <actor>Osvaldo Silva</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_te-doy-la-vida-s01e60_l_l.jpg" />
+    <episode-num system="onscreen">S1 E60</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211203000 +0000" stop="20201211211500 +0000" channel="Mega B">
+    <title lang="es">Mi vida eres tú</title>
+    <title lang="en">Vatanim Sensin</title>
+    <desc lang="es">Cevdet es un comandante que lucha por su país en la Guerra de los Balcanes. Tras la caída del Imperio Otomano, Cevdet es dado por muerto, razón por la que su esposa decide irse del país. Ocho años después, Cevdet aparece con vida.</desc>
+    <credits>
+      <director>Yagmur Taylan</director>
+      <director>Durul Taylan</director>
+      <director>Burak Arliel</director>
+      <actor>Bergüzar Korel</actor>
+      <actor>Baki Davrak</actor>
+      <actor>Halit Ergenc</actor>
+      <actor>Okan Yalabik</actor>
+      <actor>Saadet Aksoy</actor>
+      <actor>Onur Saylak</actor>
+      <actor>Tugrul Tulek</actor>
+      <actor>Levent Can</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mi-vida-eres-tu-s01e193_l_l.jpg" />
+    <episode-num system="onscreen">S1 E193</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211211500 +0000" stop="20201211220000 +0000" channel="Mega B">
+    <title lang="es">Episodio #1.110</title>
+    <title lang="en">Insensato Coracao</title>
+    <sub-title lang="es">Insensato corazón</sub-title>
+    <desc lang="es">Leo trata de hacer una inversión en máquinas tragamonedas ilegales, pero Raúl, su padre, le niega el préstamo. Entonces, para convencerlo, Leo busca a su tìo Humberto seguro de que un reencuentro entre los hermanos le suavizará el carácter.</desc>
+    <credits>
+      <actor>Glória Pires</actor>
+      <actor>Natalia Do Vale</actor>
+      <actor>Deborah Secco</actor>
+      <actor>Antônio Fagundes</actor>
+      <actor>Deborah Evelyn</actor>
+      <actor>Camila Pitanga</actor>
+      <actor>Eriberto Leao</actor>
+      <actor>Gabriel Braga Nunes</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_insensato-corazon-s01e110-episodio-1-110_l_l.jpg" />
+    <episode-num system="onscreen">S1 E110</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211220000 +0000" stop="20201211224500 +0000" channel="Mega B">
+    <title lang="es">Papá a la deriva</title>
+    <title lang="en">Papá a la deriva</title>
+    <desc lang="es">Bruno Montt es un famoso y estricto capitán de la marina que, desde que quedó viudo, ha criado a sus cuatro hijos con rigor y mucha disciplina. Su vida se verá alterada con la aparición de una carismática muchacha.</desc>
+    <credits>
+      <director>Felipe Arratia</director>
+      <director>Mauricio Lucero</director>
+      <actor>Maricarmen Arrigorriaga</actor>
+      <actor>Gonzalo Valenzuela</actor>
+      <actor>Claudio Arredondo</actor>
+      <actor>Fernando Larraín</actor>
+      <actor>Solange Lackington</actor>
+      <actor>Simón Pesutic</actor>
+      <actor>María Gracia Omegna</actor>
+      <actor>Renato Jofré</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_papa-a-la-deriva-s01e164_l_l.jpg" />
+    <episode-num system="onscreen">S1 E164</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211224500 +0000" stop="20201211233000 +0000" channel="Mega B">
+    <title lang="es">Pobre Gallo</title>
+    <title lang="en">Pobre Gallo</title>
+    <desc lang="es">Nicolás Pérez de Castro se traslada a pasar una temporada con sus hijos al fundo de su padre en el pueblo de Yerbas Buenas para alejarse de su adicción a la tecnología. Pero los conflictos comenzarán cuando empiecen las historias de amor.</desc>
+    <credits>
+      <director>Enrique Bravo</director>
+      <director>Nicolás Alemparte</director>
+      <actor>Álvaro Rudolphy</actor>
+      <actor>Paola Volpato</actor>
+      <actor>Fernando Godoy</actor>
+      <actor>Augusto Schuster</actor>
+      <actor>Dayana Amigo</actor>
+      <actor>Ingrid Cruz</actor>
+      <actor>Gabriela Hernández</actor>
+      <actor>Pedro Campos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pobre-gallo-s00e144_l_l.jpg" />
+    <episode-num system="onscreen">E144</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211233000 +0000" stop="20201212005500 +0000" channel="Mega B">
+    <title lang="es">Meganoticias Prime</title>
+    <desc lang="es">La revisión de las principales informaciones que marcan la jornada en Chile y el mundo.</desc>
+    <credits>
+      <actor>Gianfranco Marcone</actor>
+      <actor>Jaime Leyton</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-prime_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211053000 +0000" stop="20201211100000 +0000" channel="Mega C">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fin-de-transmision_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211113000 +0000" channel="Mega C">
+    <title lang="es">Meganoticias conecta</title>
+    <desc lang="es">Un noticiero que busca entregar la mejor y más detallada información de todo el acontecer nacional, de lo que está pasando en Chile y en el mundo minuto a minuto, de una forma ágil y dinámica.</desc>
+    <credits>
+      <actor>José Luis Repenning</actor>
+      <actor>Priscilla Vargas</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-conecta_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211182500 +0000" channel="Mega C">
+    <title lang="es">Meganoticias Actualiza</title>
+    <desc lang="es">Un noticiero que busca entregar la mejor y más detallada información de todo el acontecer nacional, de lo que está pasando en Chile y en el mundo minuto a minuto, de una forma ágil y dinámica.</desc>
+    <credits>
+      <actor>José Antonio Neme</actor>
+      <actor>Priscilla Vargas</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-actualiza_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211182500 +0000" stop="20201211183000 +0000" channel="Mega C">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211185000 +0000" channel="Mega C">
+    <title lang="es">Verdades ocultas</title>
+    <title lang="en">Verdades ocultas</title>
+    <desc lang="es">Laura Flores es una madre soltera de dos niñas. Las tres viven en una condición de extrema pobreza y abandono. Por esto toma la decisión más difícil de su vida: vender a una de sus hijas para darle de comer a la otra, y así salvar a ambas.</desc>
+    <credits>
+      <director>Felipe Arratia</director>
+      <actor>Julio Jung</actor>
+      <actor>Maricarmen Arrigorriaga</actor>
+      <actor>Cristián Arriagada</actor>
+      <actor>Viviana Rodríguez</actor>
+      <actor>Matías Oviedo</actor>
+      <actor>Javiera Diaz De Valdés</actor>
+      <actor>Camila Hirane</actor>
+      <actor>Alexander Solórzano</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_verdades-ocultas-s05e748_l_l.jpg" />
+    <episode-num system="onscreen">S5 E748</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211185000 +0000" stop="20201211194500 +0000" channel="Mega C">
+    <title lang="es">Verdades ocultas</title>
+    <title lang="en">Verdades ocultas</title>
+    <desc lang="es">Laura Flores es una madre soltera de dos niñas. Las tres viven en una condición de extrema pobreza y abandono. Por esto toma la decisión más difícil de su vida: vender a una de sus hijas para darle de comer a la otra, y así salvar a ambas.</desc>
+    <credits>
+      <director>Felipe Arratia</director>
+      <actor>Julio Jung</actor>
+      <actor>Maricarmen Arrigorriaga</actor>
+      <actor>Cristián Arriagada</actor>
+      <actor>Viviana Rodríguez</actor>
+      <actor>Matías Oviedo</actor>
+      <actor>Javiera Diaz De Valdés</actor>
+      <actor>Camila Hirane</actor>
+      <actor>Alexander Solórzano</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_verdades-ocultas-s05e749_l_l.jpg" />
+    <episode-num system="onscreen">S5 E749</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211194500 +0000" stop="20201211203000 +0000" channel="Mega C">
+    <title lang="es">Te doy la vida</title>
+    <title lang="en">Te doy la vida</title>
+    <desc lang="es">Fabián es un mecánico de barrio cuya vida cambia por completo cuando se entera de que es el padre de un pequeño diagnosticado con leucemia, pues, en sus deseos de ayudarlo, logra crear un vínculo especial tanto con él como con su madre.</desc>
+    <credits>
+      <director>Claudio López de Lérida</director>
+      <actor>Álvaro Espinoza</actor>
+      <actor>María Llanes</actor>
+      <actor>Cristián Riquelme</actor>
+      <actor>Celine Reymond</actor>
+      <actor>Carmen Gloria Bresky</actor>
+      <actor>Carmen Disa Gutiérrez</actor>
+      <actor>Cecilia Cucurella</actor>
+      <actor>Osvaldo Silva</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_te-doy-la-vida-s01e60_l_l.jpg" />
+    <episode-num system="onscreen">S1 E60</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211203000 +0000" stop="20201211211500 +0000" channel="Mega C">
+    <title lang="es">Mi vida eres tú</title>
+    <title lang="en">Vatanim Sensin</title>
+    <desc lang="es">Cevdet es un comandante que lucha por su país en la Guerra de los Balcanes. Tras la caída del Imperio Otomano, Cevdet es dado por muerto, razón por la que su esposa decide irse del país. Ocho años después, Cevdet aparece con vida.</desc>
+    <credits>
+      <director>Yagmur Taylan</director>
+      <director>Durul Taylan</director>
+      <director>Burak Arliel</director>
+      <actor>Bergüzar Korel</actor>
+      <actor>Baki Davrak</actor>
+      <actor>Halit Ergenc</actor>
+      <actor>Okan Yalabik</actor>
+      <actor>Saadet Aksoy</actor>
+      <actor>Onur Saylak</actor>
+      <actor>Tugrul Tulek</actor>
+      <actor>Levent Can</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mi-vida-eres-tu-s01e193_l_l.jpg" />
+    <episode-num system="onscreen">S1 E193</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211211500 +0000" stop="20201211220000 +0000" channel="Mega C">
+    <title lang="es">Episodio #1.110</title>
+    <title lang="en">Insensato Coracao</title>
+    <sub-title lang="es">Insensato corazón</sub-title>
+    <desc lang="es">Leo trata de hacer una inversión en máquinas tragamonedas ilegales, pero Raúl, su padre, le niega el préstamo. Entonces, para convencerlo, Leo busca a su tìo Humberto seguro de que un reencuentro entre los hermanos le suavizará el carácter.</desc>
+    <credits>
+      <actor>Glória Pires</actor>
+      <actor>Natalia Do Vale</actor>
+      <actor>Deborah Secco</actor>
+      <actor>Antônio Fagundes</actor>
+      <actor>Deborah Evelyn</actor>
+      <actor>Camila Pitanga</actor>
+      <actor>Eriberto Leao</actor>
+      <actor>Gabriel Braga Nunes</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_insensato-corazon-s01e110-episodio-1-110_l_l.jpg" />
+    <episode-num system="onscreen">S1 E110</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211220000 +0000" stop="20201211224500 +0000" channel="Mega C">
+    <title lang="es">Papá a la deriva</title>
+    <title lang="en">Papá a la deriva</title>
+    <desc lang="es">Bruno Montt es un famoso y estricto capitán de la marina que, desde que quedó viudo, ha criado a sus cuatro hijos con rigor y mucha disciplina. Su vida se verá alterada con la aparición de una carismática muchacha.</desc>
+    <credits>
+      <director>Felipe Arratia</director>
+      <director>Mauricio Lucero</director>
+      <actor>Maricarmen Arrigorriaga</actor>
+      <actor>Gonzalo Valenzuela</actor>
+      <actor>Claudio Arredondo</actor>
+      <actor>Fernando Larraín</actor>
+      <actor>Solange Lackington</actor>
+      <actor>Simón Pesutic</actor>
+      <actor>María Gracia Omegna</actor>
+      <actor>Renato Jofré</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_papa-a-la-deriva-s01e164_l_l.jpg" />
+    <episode-num system="onscreen">S1 E164</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211224500 +0000" stop="20201211233000 +0000" channel="Mega C">
+    <title lang="es">Pobre Gallo</title>
+    <title lang="en">Pobre Gallo</title>
+    <desc lang="es">Nicolás Pérez de Castro se traslada a pasar una temporada con sus hijos al fundo de su padre en el pueblo de Yerbas Buenas para alejarse de su adicción a la tecnología. Pero los conflictos comenzarán cuando empiecen las historias de amor.</desc>
+    <credits>
+      <director>Enrique Bravo</director>
+      <director>Nicolás Alemparte</director>
+      <actor>Álvaro Rudolphy</actor>
+      <actor>Paola Volpato</actor>
+      <actor>Fernando Godoy</actor>
+      <actor>Augusto Schuster</actor>
+      <actor>Dayana Amigo</actor>
+      <actor>Ingrid Cruz</actor>
+      <actor>Gabriela Hernández</actor>
+      <actor>Pedro Campos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pobre-gallo-s00e144_l_l.jpg" />
+    <episode-num system="onscreen">E144</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211233000 +0000" stop="20201212005500 +0000" channel="Mega C">
+    <title lang="es">Meganoticias Prime</title>
+    <desc lang="es">La revisión de las principales informaciones que marcan la jornada en Chile y el mundo.</desc>
+    <credits>
+      <actor>Gianfranco Marcone</actor>
+      <actor>Jaime Leyton</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-prime_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211050000 +0000" stop="20201211100000 +0000" channel="Chilevision A">
+    <title lang="es">Cierre de transmisión</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cierre-de-transmision_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211113000 +0000" channel="Chilevision A">
+    <title lang="es">Contigo CHV Noticias A.M.</title>
+    <desc lang="es">Información fresca de lo que pasa en nuestro país como también a nivel mundial. Todo esto a través del profesionalismo que caracteriza a ambos conductores, acompañado de carisma y cercanía... ese es el sello.</desc>
+    <credits>
+      <actor>Monserrat Álvarez</actor>
+      <actor>Humberto Sichel</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-chv-noticias-a-m_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211113000 +0000" stop="20201211160000 +0000" channel="Chilevision A">
+    <title lang="es">Contigo en la mañana</title>
+    <desc lang="es">Espacio de información y entretenimiento que invita al público a mantenerse al día sobre los temas que mueven sus vidas diarias, los llevan a tomar decisiones y a formar sus propias opiniones.</desc>
+    <credits>
+      <actor>Julio César Rodríguez</actor>
+      <actor>Monserrat Álvarez</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-en-la-manana_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211183000 +0000" channel="Chilevision A">
+    <title lang="es">Chilevisión noticias</title>
+    <desc lang="es">Infórmate al minuto y en video con uno de los principales noticieros de Chile.</desc>
+    <credits>
+      <actor>Fernando Paulsen</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chilevision-noticias_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211200000 +0000" channel="Chilevision A">
+    <title lang="es">Contigo en directo</title>
+    <desc lang="es">Una propuesta que busca profundizar en los temas más importantes del día en el contexto de la pandemia del Covid-19.</desc>
+    <credits>
+      <actor>Humberto Sichel</actor>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-en-directo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211200000 +0000" stop="20201211213000 +0000" channel="Chilevision A">
+    <title lang="es">La divina comida</title>
+    <desc lang="es">Desafiamos a los famosos para saber quién es el mejor anfitrión. Cuatro concursantes deberán sacar a relucir todas sus armas para sorprender a sus invitados con platillos exquisitos y una excelente atención.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-divina-comida_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211213000 +0000" stop="20201211233000 +0000" channel="Chilevision A">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">Juegos de palabras tradicionales: Ahorcado, Sinónimos y Antónimos, Bachillerato, entre otros. En cada capítulo se enfrentan 2 equipos: cada uno de ellos, conformado por 2 famosos y una persona que será elegida en un casting.</desc>
+    <credits>
+      <actor>Julián Elfenbein</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pasapalabra_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211233000 +0000" stop="20201212011500 +0000" channel="Chilevision A">
+    <title lang="es">CHV Noticias central</title>
+    <desc lang="es">Todas las noticias de Chile y el mundo tratadas con seriedad, rigurosidad, profundidad y objetividad, con los temas que de verdad le interesan a la gente y un punto de vista crítico e independiente.</desc>
+    <credits>
+      <actor>Iván Núñez</actor>
+      <actor>Macarena Pizarro</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-central_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211050000 +0000" stop="20201211100000 +0000" channel="Chilevision B">
+    <title lang="es">Cierre de transmisión</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cierre-de-transmision_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211113000 +0000" channel="Chilevision B">
+    <title lang="es">Contigo CHV Noticias A.M.</title>
+    <desc lang="es">Información fresca de lo que pasa en nuestro país como también a nivel mundial. Todo esto a través del profesionalismo que caracteriza a ambos conductores, acompañado de carisma y cercanía... ese es el sello.</desc>
+    <credits>
+      <actor>Monserrat Álvarez</actor>
+      <actor>Humberto Sichel</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-chv-noticias-a-m_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211113000 +0000" stop="20201211160000 +0000" channel="Chilevision B">
+    <title lang="es">Contigo en la mañana</title>
+    <desc lang="es">Espacio de información y entretenimiento que invita al público a mantenerse al día sobre los temas que mueven sus vidas diarias, los llevan a tomar decisiones y a formar sus propias opiniones.</desc>
+    <credits>
+      <actor>Julio César Rodríguez</actor>
+      <actor>Monserrat Álvarez</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-en-la-manana_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211183000 +0000" channel="Chilevision B">
+    <title lang="es">Chilevisión noticias</title>
+    <desc lang="es">Infórmate al minuto y en video con uno de los principales noticieros de Chile.</desc>
+    <credits>
+      <actor>Fernando Paulsen</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chilevision-noticias_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211200000 +0000" channel="Chilevision B">
+    <title lang="es">Contigo en directo</title>
+    <desc lang="es">Una propuesta que busca profundizar en los temas más importantes del día en el contexto de la pandemia del Covid-19.</desc>
+    <credits>
+      <actor>Humberto Sichel</actor>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-en-directo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211200000 +0000" stop="20201211213000 +0000" channel="Chilevision B">
+    <title lang="es">La divina comida</title>
+    <desc lang="es">Desafiamos a los famosos para saber quién es el mejor anfitrión. Cuatro concursantes deberán sacar a relucir todas sus armas para sorprender a sus invitados con platillos exquisitos y una excelente atención.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-divina-comida_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211213000 +0000" stop="20201211233000 +0000" channel="Chilevision B">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">Juegos de palabras tradicionales: Ahorcado, Sinónimos y Antónimos, Bachillerato, entre otros. En cada capítulo se enfrentan 2 equipos: cada uno de ellos, conformado por 2 famosos y una persona que será elegida en un casting.</desc>
+    <credits>
+      <actor>Julián Elfenbein</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pasapalabra_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211233000 +0000" stop="20201212011500 +0000" channel="Chilevision B">
+    <title lang="es">CHV Noticias central</title>
+    <desc lang="es">Todas las noticias de Chile y el mundo tratadas con seriedad, rigurosidad, profundidad y objetividad, con los temas que de verdad le interesan a la gente y un punto de vista crítico e independiente.</desc>
+    <credits>
+      <actor>Iván Núñez</actor>
+      <actor>Macarena Pizarro</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-central_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211050000 +0000" stop="20201211100000 +0000" channel="Chilevision C">
+    <title lang="es">Cierre de transmisión</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cierre-de-transmision_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211113000 +0000" channel="Chilevision C">
+    <title lang="es">Contigo CHV Noticias A.M.</title>
+    <desc lang="es">Información fresca de lo que pasa en nuestro país como también a nivel mundial. Todo esto a través del profesionalismo que caracteriza a ambos conductores, acompañado de carisma y cercanía... ese es el sello.</desc>
+    <credits>
+      <actor>Monserrat Álvarez</actor>
+      <actor>Humberto Sichel</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-chv-noticias-a-m_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211113000 +0000" stop="20201211160000 +0000" channel="Chilevision C">
+    <title lang="es">Contigo en la mañana</title>
+    <desc lang="es">Espacio de información y entretenimiento que invita al público a mantenerse al día sobre los temas que mueven sus vidas diarias, los llevan a tomar decisiones y a formar sus propias opiniones.</desc>
+    <credits>
+      <actor>Julio César Rodríguez</actor>
+      <actor>Monserrat Álvarez</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-en-la-manana_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211183000 +0000" channel="Chilevision C">
+    <title lang="es">Chilevisión noticias</title>
+    <desc lang="es">Infórmate al minuto y en video con uno de los principales noticieros de Chile.</desc>
+    <credits>
+      <actor>Fernando Paulsen</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chilevision-noticias_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211200000 +0000" channel="Chilevision C">
+    <title lang="es">Contigo en directo</title>
+    <desc lang="es">Una propuesta que busca profundizar en los temas más importantes del día en el contexto de la pandemia del Covid-19.</desc>
+    <credits>
+      <actor>Humberto Sichel</actor>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-en-directo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211200000 +0000" stop="20201211213000 +0000" channel="Chilevision C">
+    <title lang="es">La divina comida</title>
+    <desc lang="es">Desafiamos a los famosos para saber quién es el mejor anfitrión. Cuatro concursantes deberán sacar a relucir todas sus armas para sorprender a sus invitados con platillos exquisitos y una excelente atención.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-divina-comida_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211213000 +0000" stop="20201211233000 +0000" channel="Chilevision C">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">Juegos de palabras tradicionales: Ahorcado, Sinónimos y Antónimos, Bachillerato, entre otros. En cada capítulo se enfrentan 2 equipos: cada uno de ellos, conformado por 2 famosos y una persona que será elegida en un casting.</desc>
+    <credits>
+      <actor>Julián Elfenbein</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pasapalabra_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211233000 +0000" stop="20201212011500 +0000" channel="Chilevision C">
+    <title lang="es">CHV Noticias central</title>
+    <desc lang="es">Todas las noticias de Chile y el mundo tratadas con seriedad, rigurosidad, profundidad y objetividad, con los temas que de verdad le interesan a la gente y un punto de vista crítico e independiente.</desc>
+    <credits>
+      <actor>Iván Núñez</actor>
+      <actor>Macarena Pizarro</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-central_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211051500 +0000" stop="20201211100000 +0000" channel="Canal 13 A">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fin-de-transmision_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211113000 +0000" channel="Canal 13 A">
+    <title lang="es">Teletrece AM</title>
+    <desc lang="es">Informativo matinal en el que podrás enterarte del acontecer actual en materia política, económica, social, tecnológica, cultural, deportiva y de espectáculos que ocurre tanto en Chile como en el mundo.</desc>
+    <credits>
+      <actor>Cristina González</actor>
+      <actor>Paulo Ramírez</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-am_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211113000 +0000" stop="20201211160000 +0000" channel="Canal 13 A">
+    <title lang="es">Bienvenidos, cada uno cuenta</title>
+    <desc lang="es">Este espacio sintoniza con los gustos de la audiencia y representa fielmente el objetivo perseguido desde su origen. Aquí encontraras información, videos, consejos y más.</desc>
+    <credits>
+      <actor>Tonka Tomicic</actor>
+      <actor>Amaro Gómez-Pablos</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bienvenidos-cada-uno-cuenta_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211173000 +0000" channel="Canal 13 A">
+    <title lang="es">Teletrece tarde</title>
+    <desc lang="es">Informativo de mediodía con toda la actualidad y un resumen de los acontecimientos que trascienden en Chile y el resto del mundo.</desc>
+    <credits>
+      <actor>Mónica Pérez</actor>
+      <actor>Iván Valenzuela</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-tarde_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211173000 +0000" stop="20201211173500 +0000" channel="Canal 13 A">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211173500 +0000" stop="20201211185500 +0000" channel="Canal 13 A">
+    <title lang="es">Brujas</title>
+    <desc lang="es">Beatriz logra casarse con el hombre ideal, Vicente, quien tiene un gran arrastre entre las demás féminas, lo cual hace estallar los celos de esta indomable esposa en una serie de situaciones complicadas y a la vez alocadas.</desc>
+    <credits>
+      <director>Italo Galleani</director>
+      <director>Guillermo Helo</director>
+      <actor>Osvaldo Laport</actor>
+      <actor>Carolina Arregui</actor>
+      <actor>Felipe Braun</actor>
+      <actor>Mariana Loyola</actor>
+      <actor>María Elena Swett</actor>
+      <actor>Luciano Coke Cruz</actor>
+      <actor>Lorena Capetillo</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_brujas_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211185500 +0000" stop="20201211194000 +0000" channel="Canal 13 A">
+    <title lang="es">Yeter</title>
+    <desc lang="es">Yekta Harmanli es un afamado cirujano, perfeccionista y supuesto tipo modelo y Aylin es una mujer que dejó su carrera por ser la mejor esposa. Pero en realidad, ella sufre día a día un infierno al estar con un hombre que la maltrata.</desc>
+    <credits>
+      <director>Kemal Uzun</director>
+      <director>Cemal San</director>
+      <actor>Wilma Elles</actor>
+      <actor>Yurdaer Okur</actor>
+      <actor>Pelin Karahan</actor>
+      <actor>Mahmut Gökgöz</actor>
+      <actor>Hazim Körmükcü</actor>
+      <actor>Cansu Kurgun</actor>
+      <actor>Tolga Evren</actor>
+      <actor>Selen Domaç</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_yeter_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211194000 +0000" stop="20201211212000 +0000" channel="Canal 13 A">
+    <title lang="es">Caso cerrado</title>
+    <desc lang="es">Un espacio que propone conocer historias más humanas y vivir las emociones más intensas. La Dra. Polo busca resolver de la manera más justa los casos que se le presentan con dinamismo y carisma.</desc>
+    <credits>
+      <actor>Ana María Polo</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caso-cerrado_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211212000 +0000" stop="20201211230000 +0000" channel="Canal 13 A">
+    <title lang="es">Aquí somos todos</title>
+    <desc lang="es">¿Qué quiere la gente hoy?...Que alguien se ponga en sus zapatos, que escuchen sus problemas y los resuelvan ya. Ángeles Araya tendrá la misión de solucionar dos casos con un panel de especialistas y la ayuda de la comunidad.</desc>
+    <credits>
+      <actor>Emilio Sutherland</actor>
+      <actor>Ángeles Araya</actor>
+      <actor>Bárbara Canepa</actor>
+      <actor>Natalia Henríquez</actor>
+      <actor>David Cornejo</actor>
+    </credits>
+    <category lang="es">Servicios</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_aqui-somos-todos-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211230000 +0000" stop="20201212000000 +0000" channel="Canal 13 A">
+    <title lang="es">Los 80</title>
+    <desc lang="es">La historia de una familia de clase media santiaguina entre los años 1982 y 1990, en plena dictadura de Pinochet. Su vida gira en torno a los diversos sucesos históricos que marcaron a Chile dejando un legado histórico imborrable.</desc>
+    <credits>
+      <actor>Tamara Acosta</actor>
+      <actor>Fernando Farías</actor>
+      <actor>Daniel Muñoz</actor>
+      <actor>Daniel Alcaíno</actor>
+      <actor>Katty Kowaleczko</actor>
+      <actor>Loreto Aravena</actor>
+      <actor>Tomás Verdejo</actor>
+      <actor>Lucas Escobar</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_los-80_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211051500 +0000" stop="20201211100000 +0000" channel="Canal 13 B">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fin-de-transmision_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211113000 +0000" channel="Canal 13 B">
+    <title lang="es">Teletrece AM</title>
+    <desc lang="es">Informativo matinal en el que podrás enterarte del acontecer actual en materia política, económica, social, tecnológica, cultural, deportiva y de espectáculos que ocurre tanto en Chile como en el mundo.</desc>
+    <credits>
+      <actor>Cristina González</actor>
+      <actor>Paulo Ramírez</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-am_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211113000 +0000" stop="20201211160000 +0000" channel="Canal 13 B">
+    <title lang="es">Bienvenidos, cada uno cuenta</title>
+    <desc lang="es">Este espacio sintoniza con los gustos de la audiencia y representa fielmente el objetivo perseguido desde su origen. Aquí encontraras información, videos, consejos y más.</desc>
+    <credits>
+      <actor>Tonka Tomicic</actor>
+      <actor>Amaro Gómez-Pablos</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bienvenidos-cada-uno-cuenta_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211173000 +0000" channel="Canal 13 B">
+    <title lang="es">Teletrece tarde</title>
+    <desc lang="es">Informativo de mediodía con toda la actualidad y un resumen de los acontecimientos que trascienden en Chile y el resto del mundo.</desc>
+    <credits>
+      <actor>Mónica Pérez</actor>
+      <actor>Iván Valenzuela</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-tarde_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211173000 +0000" stop="20201211173500 +0000" channel="Canal 13 B">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211173500 +0000" stop="20201211185500 +0000" channel="Canal 13 B">
+    <title lang="es">Brujas</title>
+    <desc lang="es">Beatriz logra casarse con el hombre ideal, Vicente, quien tiene un gran arrastre entre las demás féminas, lo cual hace estallar los celos de esta indomable esposa en una serie de situaciones complicadas y a la vez alocadas.</desc>
+    <credits>
+      <director>Italo Galleani</director>
+      <director>Guillermo Helo</director>
+      <actor>Osvaldo Laport</actor>
+      <actor>Carolina Arregui</actor>
+      <actor>Felipe Braun</actor>
+      <actor>Mariana Loyola</actor>
+      <actor>María Elena Swett</actor>
+      <actor>Luciano Coke Cruz</actor>
+      <actor>Lorena Capetillo</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_brujas_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211185500 +0000" stop="20201211194000 +0000" channel="Canal 13 B">
+    <title lang="es">Yeter</title>
+    <desc lang="es">Yekta Harmanli es un afamado cirujano, perfeccionista y supuesto tipo modelo y Aylin es una mujer que dejó su carrera por ser la mejor esposa. Pero en realidad, ella sufre día a día un infierno al estar con un hombre que la maltrata.</desc>
+    <credits>
+      <director>Kemal Uzun</director>
+      <director>Cemal San</director>
+      <actor>Wilma Elles</actor>
+      <actor>Yurdaer Okur</actor>
+      <actor>Pelin Karahan</actor>
+      <actor>Mahmut Gökgöz</actor>
+      <actor>Hazim Körmükcü</actor>
+      <actor>Cansu Kurgun</actor>
+      <actor>Tolga Evren</actor>
+      <actor>Selen Domaç</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_yeter_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211194000 +0000" stop="20201211212000 +0000" channel="Canal 13 B">
+    <title lang="es">Caso cerrado</title>
+    <desc lang="es">Un espacio que propone conocer historias más humanas y vivir las emociones más intensas. La Dra. Polo busca resolver de la manera más justa los casos que se le presentan con dinamismo y carisma.</desc>
+    <credits>
+      <actor>Ana María Polo</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caso-cerrado_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211212000 +0000" stop="20201211230000 +0000" channel="Canal 13 B">
+    <title lang="es">Aquí somos todos</title>
+    <desc lang="es">¿Qué quiere la gente hoy?...Que alguien se ponga en sus zapatos, que escuchen sus problemas y los resuelvan ya. Ángeles Araya tendrá la misión de solucionar dos casos con un panel de especialistas y la ayuda de la comunidad.</desc>
+    <credits>
+      <actor>Emilio Sutherland</actor>
+      <actor>Ángeles Araya</actor>
+      <actor>Bárbara Canepa</actor>
+      <actor>Natalia Henríquez</actor>
+      <actor>David Cornejo</actor>
+    </credits>
+    <category lang="es">Servicios</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_aqui-somos-todos-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211230000 +0000" stop="20201212000000 +0000" channel="Canal 13 B">
+    <title lang="es">Los 80</title>
+    <desc lang="es">La historia de una familia de clase media santiaguina entre los años 1982 y 1990, en plena dictadura de Pinochet. Su vida gira en torno a los diversos sucesos históricos que marcaron a Chile dejando un legado histórico imborrable.</desc>
+    <credits>
+      <actor>Tamara Acosta</actor>
+      <actor>Fernando Farías</actor>
+      <actor>Daniel Muñoz</actor>
+      <actor>Daniel Alcaíno</actor>
+      <actor>Katty Kowaleczko</actor>
+      <actor>Loreto Aravena</actor>
+      <actor>Tomás Verdejo</actor>
+      <actor>Lucas Escobar</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_los-80_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211060000 +0000" stop="20201211070000 +0000" channel="13C">
+    <title lang="es">Tiwanaku, los señores del altiplano</title>
+    <title lang="en">Al sur del mundo</title>
+    <sub-title lang="es">Al sur del mundo</sub-title>
+    <desc lang="es">Recorre los paisajes más recónditos de Chile y Latinoamérica a través de reportajes que te ofrecen una mirada distinta del pasado y presente de nuestra tierra, mostrándote los lugares más exóticos del continente.</desc>
+    <credits>
+      <director>Ricardo Carrasco</director>
+      <actor>Francisco Gedda</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_al-sur-del-mundo-s00e06-puertecillo-pueblo-del-cochayuyo_l_l.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211070000 +0000" stop="20201211080000 +0000" channel="13C">
+    <title lang="es">Ollague</title>
+    <title lang="en">Tierra adentro</title>
+    <sub-title lang="es">Tierra adentro</sub-title>
+    <desc lang="es">Acompáñanos a un recorrido especial a través del Chile rural, visitando sus zonas campesinas donde pescadores, labradores y artesanos, entre muchas otras personas, realizan sus actividades diarias llenos de felicidad.</desc>
+    <credits>
+      <actor>Paul Landon</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tierra-adentro-s00e03-san-pedro-de-atacama-construcciones_l_l.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211080000 +0000" stop="20201211090000 +0000" channel="13C">
+    <title lang="es">Jordi Castell</title>
+    <title lang="en">Descubre Chile by Land Rover</title>
+    <sub-title lang="es">Descubre Chile by Land Rover</sub-title>
+    <desc lang="es">Angélica Castro, junto a interesantes invitados, nos mostrará increíble destinos de nuestro país que no son precisamente los más turísticos, pero que cuentan con una belleza y majestuosidad que nos sorprenderán.</desc>
+    <credits>
+      <actor>Angélica Castro</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_descubre-chile-by-land-rover-s00e03-rodolfo-guzman_l_l.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211090000 +0000" stop="20201211100000 +0000" channel="13C">
+    <title lang="es">Ulcera duodenal</title>
+    <title lang="en">Cómo me sano</title>
+    <sub-title lang="es">Cómo me sano</sub-title>
+    <desc lang="es">Conoce junto a Connie Achurra distintas historias de intolerancias y problemáticas alimentarias, buscando recetas fáciles y prácticas para mejorar tu alimentación y la de tu familia.</desc>
+    <credits>
+      <actor>Connie Achurra</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_como-me-sano-s00e17-paula-ninos-que-se-resfrian-mucho_l_l.jpg" />
+    <episode-num system="onscreen">E17</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211110000 +0000" channel="13C">
+    <title lang="es">Ollague</title>
+    <title lang="en">Tierra adentro</title>
+    <sub-title lang="es">Tierra adentro</sub-title>
+    <desc lang="es">Acompáñanos a un recorrido especial a través del Chile rural, visitando sus zonas campesinas donde pescadores, labradores y artesanos, entre muchas otras personas, realizan sus actividades diarias llenos de felicidad.</desc>
+    <credits>
+      <actor>Paul Landon</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tierra-adentro-s00e03-san-pedro-de-atacama-construcciones_l_l.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211110000 +0000" stop="20201211120000 +0000" channel="13C">
+    <title lang="es">El arrollado</title>
+    <title lang="en">Plato único</title>
+    <sub-title lang="es">Plato único</sub-title>
+    <desc lang="es">Este programa busca recorrer la geografía gastronómica nacional a través de sus platos más emblemáticos.</desc>
+    <credits>
+      <actor>Marcelo Cicali</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_plato-unico-s00e04-el-errollado_l_l.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211120000 +0000" stop="20201211130000 +0000" channel="13C">
+    <title lang="es">Palacio Vergara en Viña del Mar</title>
+    <title lang="en">City Tour</title>
+    <sub-title lang="es">City Tour</sub-title>
+    <desc lang="es">Federico Sánchez y Marcelo Comparini recorren las ciudades del mundo, sus calles y lugares emblemáticos para mostrar la arquitectura patrimonial del mundo, el diseño, urbanismo y cultura popular, fomentando su apreciación y cuidado.</desc>
+    <credits>
+      <actor>Marcelo Comparini</actor>
+      <actor>Federico Sánchez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_city-tour-s00e41-sector-bustamante-almirante-simpson-y-edificios-turri_l_l.jpg" />
+    <episode-num system="onscreen">E41</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211130000 +0000" stop="20201211133000 +0000" channel="13C">
+    <title lang="es">#CómoLoHizo: el tío Manolo / Big boba / Detailing Chile / El profesor que hace mochilas a mano</title>
+    <title lang="en">Reportaje de selección</title>
+    <sub-title lang="es">Reportajes de selección</sub-title>
+    <desc lang="es">Recopilación de trabajos de investigación que te presenta los hechos y eventos más destacados que se desarrollan en el país y en el mundo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_reportajes-de-seleccion-s00e11-cambio-climatico-en-chile-el-avance-del-desierto_l_l.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211133000 +0000" stop="20201211140000 +0000" channel="13C">
+    <title lang="es">#CómoLoHizo: la popular, pizza y pan / Empanadas rosalía, dueña de casa que vende las mejores...</title>
+    <title lang="en">Reportaje de selección</title>
+    <sub-title lang="es">Reportajes de selección</sub-title>
+    <desc lang="es">#CómoLoHizo: la popular, pizza y pan / Empanadas rosalía, dueña de casa que vende las mejores empanadas / Viña cangrejos, el profesor que hace vino de oro.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_reportajes-de-seleccion-s00e06-futaleufu_l_l.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211140000 +0000" stop="20201211143000 +0000" channel="13C">
+    <title lang="es">Lina Meruane</title>
+    <title lang="en">Off the record</title>
+    <sub-title lang="es">Off the Record</sub-title>
+    <desc lang="es">Segmento en el que se realizan entrevistas en profundidad a los principales exponentes de la actividad artística y cultural del país, así como a un selecto grupo de creadores y artistas de Iberoamérica.</desc>
+    <credits>
+      <director>Rodrigo Goncalves</director>
+      <actor>Fernando Villagrán</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_off-the-record-s00e09-tata-barahona-y-carlos-leiva_l_l.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211143000 +0000" stop="20201211153000 +0000" channel="13C">
+    <title lang="es">Quesos la rinconada</title>
+    <title lang="en">Carlo cocina</title>
+    <sub-title lang="es">Carlo cocina</sub-title>
+    <desc lang="es">Las mejores recetas de la mano del cocinero Carlo Von Muhlenbrock.</desc>
+    <credits>
+      <actor>Carlo Von Muhlenbrock</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carlo-cocina-s00e08-arquitectura-cecilia-kramer-recetas-con-uva-pastilla_l_l.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211153000 +0000" stop="20201211160000 +0000" channel="13C">
+    <title lang="es">La quinoa</title>
+    <title lang="en">El ingrediente</title>
+    <sub-title lang="es">El ingrediente</sub-title>
+    <desc lang="es">El chef Matías Arteaga ha recorrido ha recorrido todo Chile en búsqueda de las mejores técnicas e ingredientes. Por esta razón llega para traspasar toda esa experiencia y ocuparla en un recetario de comida casera elemental.</desc>
+    <credits>
+      <actor>Matías Arteaga</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-ingrediente-s00e10-la-quinoa_l_l.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211163000 +0000" channel="13C">
+    <title lang="es">Komal Dadlani</title>
+    <title lang="en">Café social</title>
+    <sub-title lang="es">Café social</sub-title>
+    <desc lang="es">Sergio Lagos conversará con personas a cargo de pymes, para poder conocer parte de su historia y la manera en que aportan al país.</desc>
+    <credits>
+      <actor>Sergio Lagos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cafe-social-s00e05-komal-dadlani_l_l.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211163000 +0000" stop="20201211173000 +0000" channel="13C">
+    <title lang="es">Jordi Castell</title>
+    <title lang="en">Descubre Chile by Land Rover</title>
+    <sub-title lang="es">Descubre Chile by Land Rover</sub-title>
+    <desc lang="es">Angélica Castro, junto a interesantes invitados, nos mostrará increíble destinos de nuestro país que no son precisamente los más turísticos, pero que cuentan con una belleza y majestuosidad que nos sorprenderán.</desc>
+    <credits>
+      <actor>Angélica Castro</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_descubre-chile-by-land-rover-s00e03-rodolfo-guzman_l_l.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211173000 +0000" stop="20201211183000 +0000" channel="13C">
+    <title lang="es">Artritis reumatoide</title>
+    <title lang="en">Cómo me sano</title>
+    <sub-title lang="es">Cómo me sano</sub-title>
+    <desc lang="es">Conoce junto a Connie Achurra distintas historias de intolerancias y problemáticas alimentarias, buscando recetas fáciles y prácticas para mejorar tu alimentación y la de tu familia.</desc>
+    <credits>
+      <actor>Connie Achurra</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_como-me-sano-s00e18-alejandra-jaquecas-y-migranas_l_l.jpg" />
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211193000 +0000" channel="13C">
+    <title lang="es">Antártida, continente sin fronteras</title>
+    <title lang="en">Al sur del mundo</title>
+    <sub-title lang="es">Al sur del mundo</sub-title>
+    <desc lang="es">Recorre los paisajes más recónditos de Chile y Latinoamérica a través de reportajes que te ofrecen una mirada distinta del pasado y presente de nuestra tierra, mostrándote los lugares más exóticos del continente.</desc>
+    <credits>
+      <director>Ricardo Carrasco</director>
+      <actor>Francisco Gedda</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_al-sur-del-mundo-s00e01-la-tirana-dolor-y-esperanza_l_l.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211193000 +0000" stop="20201211203000 +0000" channel="13C">
+    <title lang="es">Chiloe</title>
+    <title lang="en">Tierra adentro</title>
+    <sub-title lang="es">Tierra adentro</sub-title>
+    <desc lang="es">Acompáñanos a un recorrido especial a través del Chile rural, visitando sus zonas campesinas donde pescadores, labradores y artesanos, entre muchas otras personas, realizan sus actividades diarias llenos de felicidad.</desc>
+    <credits>
+      <actor>Paul Landon</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tierra-adentro-s00e04-agricultura-organica_l_l.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211203000 +0000" stop="20201211213000 +0000" channel="13C">
+    <title lang="es">Pía Bersezio, Seremi de la Araucanía / Iván Castro, Cazador de eclipses / Juan Carlos...</title>
+    <title lang="en">Chilenautas</title>
+    <sub-title lang="es">Chilenautas</sub-title>
+    <desc lang="es">Pía Bersezio, seremi de la araucanía / Iván Castro, cazador de eclipses / Juan Carlos Beamin, astrónomo u. Autónoma.</desc>
+    <credits>
+      <director>Cristián Campos Melo</director>
+      <actor>Andrea Obaid</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chilenautas-s00e02-pia-bersezio-seremi-de-la-araucania-ivan-castro-cazador-de-eclipses-juan-carlos_l_l.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211213000 +0000" stop="20201211223000 +0000" channel="13C">
+    <title lang="es">Ruta Chiloe Pacífico</title>
+    <title lang="en">Descubre Chile by Land Rover</title>
+    <sub-title lang="es">Descubre Chile by Land Rover</sub-title>
+    <desc lang="es">Angélica Castro, junto a interesantes invitados, nos mostrará increíble destinos de nuestro país que no son precisamente los más turísticos, pero que cuentan con una belleza y majestuosidad que nos sorprenderán.</desc>
+    <credits>
+      <actor>Angélica Castro</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_descubre-chile-by-land-rover-s00e04-amaya-forsch_l_l.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211223000 +0000" stop="20201211233000 +0000" channel="13C">
+    <title lang="es">Recorridos por pueblos del Altiplano, iglesias de Isluga y pueblo de Colchane</title>
+    <title lang="en">Ruta 5</title>
+    <sub-title lang="es">Ruta 5</sub-title>
+    <desc lang="es">Claudio Iturra realiza la mejor guía rutera y turística del mejor destino del mundo, Chile.</desc>
+    <credits>
+      <actor>Claudio Iturra</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ruta-5-s00e05-lo-mejor-del-altiplano_l_l.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211233000 +0000" stop="20201212003000 +0000" channel="13C">
+    <title lang="es">Los caldillos</title>
+    <title lang="en">Plato único</title>
+    <sub-title lang="es">Plato único</sub-title>
+    <desc lang="es">Este programa busca recorrer la geografía gastronómica nacional a través de sus platos más emblemáticos.</desc>
+    <credits>
+      <actor>Marcelo Cicali</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_plato-unico-s00e05-los-caldillos_l_l.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211060000 +0000" stop="20201211063000 +0000" channel="Rec TV">
+    <title lang="es">44B - Luis Jara</title>
+    <title lang="en">Conciertos Rec</title>
+    <sub-title lang="es">Conciertos REC</sub-title>
+    <desc lang="es">Disfruta de los mejores recitales de los setenta, ochenta y noventa, con artistas nacionales y extranjeros que se han consagrado en suelo chileno.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conciertos-rec-44b-luis-jara_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211063000 +0000" stop="20201211080000 +0000" channel="Rec TV">
+    <title lang="es">El tiempo es oro</title>
+    <title lang="en">El tiempo es oro</title>
+    <desc lang="es">Formato de concurso en que tres parejas intentan contestar la mayor cantidad de preguntas de forma correcta en un determinado tiempo, con el objetivo de alcanzar un premio millonario.</desc>
+    <credits>
+      <actor>Savka Pollak</actor>
+      <actor>Roberto Poblete</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo-es-oro-s00e06_l_l.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211080000 +0000" stop="20201211090000 +0000" channel="Rec TV">
+    <title lang="es">De cara al país</title>
+    <title lang="en">De cara al país</title>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211090000 +0000" stop="20201211100000 +0000" channel="Rec TV">
+    <title lang="es">Medio mundo</title>
+    <title lang="en">Medio Mundo</title>
+    <desc lang="es">Un programa humorístico de sketches.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_medio-mundo-s00e08_l_l.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211110000 +0000" channel="Rec TV">
+    <title lang="es">Primera dama</title>
+    <title lang="en">Primera dama</title>
+    <desc lang="es">Leonardo Santander es un político con aspiraciones presidenciales que, a pesar de estar casado con Bruna San Juan, se enamora de Sabina, una joven y ambiciosa mujer que hará todo por llegar al poder.</desc>
+    <credits>
+      <director>Herbal Abreu</director>
+      <actor>Catalina Guerra</actor>
+      <actor>Carolina Arregui</actor>
+      <actor>Lorena Bosch</actor>
+      <actor>Julio Milostich</actor>
+      <actor>Lucy Cominetti</actor>
+      <actor>Celine Reymond</actor>
+      <actor>Mario Horton</actor>
+      <actor>Natalie Dujovne</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_primera-dama-s00e14_l_l.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211110000 +0000" stop="20201211113000 +0000" channel="Rec TV">
+    <title lang="es">43B - Eduardo Gatti</title>
+    <title lang="en">Conciertos Rec</title>
+    <sub-title lang="es">Conciertos REC</sub-title>
+    <desc lang="es">Disfruta de los mejores recitales de los setenta, ochenta y noventa, con artistas nacionales y extranjeros que se han consagrado en suelo chileno.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conciertos-rec-43b-eduardo-gatti_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211113000 +0000" stop="20201211120000 +0000" channel="Rec TV">
+    <title lang="es">44B - Luis Jara</title>
+    <title lang="en">Conciertos Rec</title>
+    <sub-title lang="es">Conciertos REC</sub-title>
+    <desc lang="es">Disfruta de los mejores recitales de los setenta, ochenta y noventa, con artistas nacionales y extranjeros que se han consagrado en suelo chileno.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conciertos-rec-44b-luis-jara_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211120000 +0000" stop="20201211130000 +0000" channel="Rec TV">
+    <title lang="es">Cachureos</title>
+    <title lang="en">Cachureos</title>
+    <desc lang="es">Marcelo, con sus canciones y personajes en un clásico infantil, deleitará a los más pequeños de la casa en un sinfín de aventuras, donde la creatividad e imaginación estarán a la orden del día.</desc>
+    <credits>
+      <actor>Marcelo Hernández</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cachureos-s00e34_l_l.jpg" />
+    <episode-num system="onscreen">E34</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211130000 +0000" stop="20201211140000 +0000" channel="Rec TV">
+    <title lang="es">El mundo del profesor Rossa</title>
+    <title lang="en">El mundo del profesor Rossa</title>
+    <desc lang="es">Profesor Rosa busca enseñar a los televidentes rasgos interesantes del mundo animal.</desc>
+    <credits>
+      <director>Renato Rojas</director>
+      <actor>Valentín Trujillo</actor>
+      <actor>Iván Arenas</actor>
+      <actor>Claudio Moreno</actor>
+      <actor>Juan Alcayaga</actor>
+      <actor>Francisco Ossa</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-mundo-del-profesor-rossa-s00e08_l_l.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211140000 +0000" stop="20201211150000 +0000" channel="Rec TV">
+    <title lang="es">Sábados gigantes</title>
+    <title lang="en">Sábados gigantes</title>
+    <desc lang="es">Show de variedades, concursos, entrevistas y humor que se emite desde 1962.</desc>
+    <credits>
+      <actor>Don Francisco</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sabados-gigantes-s00e49_l_l.jpg" />
+    <episode-num system="onscreen">E49</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211150000 +0000" stop="20201211160000 +0000" channel="Rec TV">
+    <title lang="es">Medio mundo</title>
+    <title lang="en">Medio Mundo</title>
+    <desc lang="es">Un programa humorístico de sketches.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_medio-mundo-s00e08_l_l.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211170000 +0000" channel="Rec TV">
+    <title lang="es">Primera dama</title>
+    <title lang="en">Primera dama</title>
+    <desc lang="es">Leonardo Santander es un político con aspiraciones presidenciales que, a pesar de estar casado con Bruna San Juan, se enamora de Sabina, una joven y ambiciosa mujer que hará todo por llegar al poder.</desc>
+    <credits>
+      <director>Herbal Abreu</director>
+      <actor>Catalina Guerra</actor>
+      <actor>Carolina Arregui</actor>
+      <actor>Lorena Bosch</actor>
+      <actor>Julio Milostich</actor>
+      <actor>Lucy Cominetti</actor>
+      <actor>Celine Reymond</actor>
+      <actor>Mario Horton</actor>
+      <actor>Natalie Dujovne</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_primera-dama-s00e14_l_l.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211170000 +0000" stop="20201211183000 +0000" channel="Rec TV">
+    <title lang="es">Mundo 86</title>
+    <title lang="en">Mundo 86</title>
+    <desc lang="es">La serie Mundo exponía de manera simple y completa los avances de la época, entregando conocimientos a un púbico atento a los adelantos que traía consigo la década de los 80.</desc>
+    <credits>
+      <actor>Hernán Olguín</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211200000 +0000" channel="Rec TV">
+    <title lang="es">El tiempo es oro</title>
+    <title lang="en">El tiempo es oro</title>
+    <desc lang="es">Formato de concurso en que tres parejas intentan contestar la mayor cantidad de preguntas de forma correcta en un determinado tiempo, con el objetivo de alcanzar un premio millonario.</desc>
+    <credits>
+      <actor>Savka Pollak</actor>
+      <actor>Roberto Poblete</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo-es-oro-s00e06_l_l.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211200000 +0000" stop="20201211210000 +0000" channel="Rec TV">
+    <title lang="es">Sábados gigantes</title>
+    <title lang="en">Sábados gigantes</title>
+    <desc lang="es">Show de variedades, concursos, entrevistas y humor que se emite desde 1962.</desc>
+    <credits>
+      <actor>Don Francisco</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sabados-gigantes-s00e49_l_l.jpg" />
+    <episode-num system="onscreen">E49</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211210000 +0000" stop="20201211220000 +0000" channel="Rec TV">
+    <title lang="es">Medio mundo</title>
+    <title lang="en">Medio Mundo</title>
+    <desc lang="es">Un programa humorístico de sketches.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_medio-mundo-s00e08_l_l.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211220000 +0000" stop="20201211230000 +0000" channel="Rec TV">
+    <title lang="es">Primera dama</title>
+    <title lang="en">Primera dama</title>
+    <desc lang="es">Leonardo Santander es un político con aspiraciones presidenciales que, a pesar de estar casado con Bruna San Juan, se enamora de Sabina, una joven y ambiciosa mujer que hará todo por llegar al poder.</desc>
+    <credits>
+      <director>Herbal Abreu</director>
+      <actor>Catalina Guerra</actor>
+      <actor>Carolina Arregui</actor>
+      <actor>Lorena Bosch</actor>
+      <actor>Julio Milostich</actor>
+      <actor>Lucy Cominetti</actor>
+      <actor>Celine Reymond</actor>
+      <actor>Mario Horton</actor>
+      <actor>Natalie Dujovne</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_primera-dama-s00e15_l_l.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211230000 +0000" stop="20201212003000 +0000" channel="Rec TV">
+    <title lang="es">Teatro en el 13</title>
+    <title lang="en">Teatro en el 13</title>
+    <desc lang="es">Disfruta de las más espectaculares obras de teatro, con los actores y actrices más reconocidos y profesionales de Chile, en este espacio que da cabida al mundo de las tablas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teatro-en-el-13-s00e25_l_l.jpg" />
+    <episode-num system="onscreen">E25</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211030000 +0000" stop="20201211100000 +0000" channel="Camara de Diputados">
+    <title lang="es">Cierre</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cierre_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211120000 +0000" channel="Camara de Diputados">
+    <title lang="es">CNTV infantil</title>
+    <desc lang="es">Videos educativos, infantiles y culturales para todo público, disponibles para ver online y descargar. Material educativo gratuito y de libre uso escolar.</desc>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cntv-infantil_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211120000 +0000" stop="20201211133000 +0000" channel="Camara de Diputados">
+    <title lang="es">Orquesta binacional de tango</title>
+    <title lang="en">Semanas musicales de Frutillar</title>
+    <sub-title lang="es">Semanas musicales de Frutillar</sub-title>
+    <desc lang="es">Acompáñenos a disfrutar de La Orquesta Sinfónica Nacional Juvenil de Chile en esta edición especial que ofrece las mejores presentaciones de talentos nacionales y locales de la región.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_semanas-musicales-de-frutillar-orquesta-binacional-de-tango_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211133000 +0000" stop="20201211140000 +0000" channel="Camara de Diputados">
+    <title lang="es">Diputados Alejandra Sepúlveda y Andrés Celis</title>
+    <title lang="en">Puntos de vista</title>
+    <sub-title lang="es">Puntos de vista</sub-title>
+    <desc lang="es">Segmento en el cual el periodista Guillermo Navarro conversa sobre actualidad y política, con diferentes parlamentarios chilenos, quienes exponen su opinión y apreciaciones sobre los acontecimientos tanto nacionales como internacionales.</desc>
+    <credits>
+      <actor>Guillermo Navarro</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_puntos-de-vista-diputados-alejandra-sepulveda-y-andres-celis_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211140000 +0000" stop="20201211154000 +0000" channel="Camara de Diputados">
+    <title lang="es">Emisión del día 30/11/20</title>
+    <title lang="en">Comisión de medio ambiente</title>
+    <sub-title lang="es">Comisión de medio ambiente</sub-title>
+    <desc lang="es">La Comisión de Medio Ambiente realiza una reunión para evaluar las necesidades y los avances en esta materia, con la firme intención de impulsar las gestiones que ayuden a resolver el problema del entorno.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-medio-ambiente-emision-del-dia-30-11-20_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211154000 +0000" stop="20201211160000 +0000" channel="Camara de Diputados">
+    <title lang="es">Diputado Issa Kort</title>
+    <title lang="en">Conectados On-Line</title>
+    <sub-title lang="es">Conectados On-Line</sub-title>
+    <desc lang="es">Conozca las impresiones de sus diputadas y diputados.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conectados-on-line-diputado-issa-kort_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211191000 +0000" channel="Camara de Diputados">
+    <title lang="es">Emisión del día 30/11/20</title>
+    <title lang="en">Comisión de trabajo</title>
+    <sub-title lang="es">Comisión de trabajo</sub-title>
+    <desc lang="es">Presentamos una serie de sesiones de debate auspiciadas por las comisiones de trabajo del parlamento chileno, en las cuales se argumenta en base a la situación laboral que atraviesa el país actualmente.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-trabajo-emision-del-dia-30-11-20_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211191000 +0000" stop="20201211193000 +0000" channel="Camara de Diputados">
+    <title lang="es">Diputado Leonardo Soto</title>
+    <title lang="en">La cámara en la radio</title>
+    <sub-title lang="es">La cámara en la radio</sub-title>
+    <credits>
+      <actor>Gabriela Nuñez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-camara-en-la-radio-diputado-leonardo-soto_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211193000 +0000" stop="20201211200000 +0000" channel="Camara de Diputados">
+    <title lang="es">Fernando Monckeberg</title>
+    <title lang="en">Mentes brillantes</title>
+    <sub-title lang="es">Mentes brillantes</sub-title>
+    <desc lang="es">Serie documental, de carácter humano-histórico científico, que nos cuenta de manera entretenida la historia de la ciencia chilena de los últimos 50 años, a través de sus protagonistas principales: los Premios Nacionales de Ciencias.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mentes-brillantes-fernando-monckeberg_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211200000 +0000" stop="20201211223000 +0000" channel="Camara de Diputados">
+    <title lang="es">Emisión del día 01/12/20</title>
+    <title lang="en">Comisión de constitución</title>
+    <sub-title lang="es">Comisión de constitución</sub-title>
+    <desc lang="es">Edición institucional que presenta la discusión particular del proyecto constitucional que involucra a parlamentarios, alcaldes, concejales y ciudadanos con la finalidad de establecer estrategias de desarrollo para la nación.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-constitucion-emision-del-dia-01-12-20_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211223000 +0000" stop="20201211230000 +0000" channel="Camara de Diputados">
+    <title lang="es">Ferrocarriles del carbón</title>
+    <title lang="en">Ferrocarriles del carbón</title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ferrocarriles-del-carbon-s00e02-1_l_l.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20201211230000 +0000" stop="20201211231500 +0000" channel="Camara de Diputados">
+    <title lang="es">Resumen informativo en lengua de señas</title>
+    <desc lang="es">Se presentan las informaciones más recientes referidas a los principales ámbitos de la sociedad, realizando un recorrido por aquellos hechos que mayor impacto han generado. Todo articulado en el lenguaje universal de señas.</desc>
+    <credits>
+      <actor>Víctor Castillo</actor>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_resumen-informativo-en-lengua-de-senas_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20201211231500 +0000" stop="20201211233000 +0000" channel="Camara de Diputados">
+    <title lang="es">Diputado Juan Santana</title>
+    <title lang="en">Conectados On-Line</title>
+    <sub-title lang="es">Conectados On-Line</sub-title>
+    <desc lang="es">Conozca las impresiones de sus diputadas y diputados.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conectados-on-line-diputado-juan-santana_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20201211233000 +0000" stop="20201212000000 +0000" channel="Camara de Diputados">
+    <title lang="es">Diputados Alejandra Sepúlveda y Andrés Celis</title>
+    <title lang="en">Puntos de vista</title>
+    <sub-title lang="es">Puntos de vista</sub-title>
+    <desc lang="es">Segmento en el cual el periodista Guillermo Navarro conversa sobre actualidad y política, con diferentes parlamentarios chilenos, quienes exponen su opinión y apreciaciones sobre los acontecimientos tanto nacionales como internacionales.</desc>
+    <credits>
+      <actor>Guillermo Navarro</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_puntos-de-vista-diputados-alejandra-sepulveda-y-andres-celis_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20201211004500 -0300" stop="20201211013000 -0300" channel="TV Chile">
+    <title lang="es">El Regreso</title>
+  </programme>
+  <programme start="20201211013000 -0300" stop="20201211023000 -0300" channel="TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20201211023000 -0300" stop="20201211030000 -0300" channel="TV Chile">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+  <programme start="20201211030000 -0300" stop="20201211040000 -0300" channel="TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201211040000 -0300" stop="20201211050000 -0300" channel="TV Chile">
+    <title lang="es">Sin parche</title>
+  </programme>
+  <programme start="20201211050000 -0300" stop="20201211060000 -0300" channel="TV Chile">
+    <title lang="es">El Regreso</title>
+  </programme>
+  <programme start="20201211060000 -0300" stop="20201211070000 -0300" channel="TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20201211070000 -0300" stop="20201211083000 -0300" channel="TV Chile">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20201211083000 -0300" stop="20201211130000 -0300" channel="TV Chile">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20201211130000 -0300" stop="20201211153000 -0300" channel="TV Chile">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201211153000 -0300" stop="20201211163000 -0300" channel="TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20201211163000 -0300" stop="20201211170000 -0300" channel="TV Chile">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201211170000 -0300" stop="20201211173000 -0300" channel="TV Chile">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201211173000 -0300" stop="20201211190000 -0300" channel="TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201211190000 -0300" stop="20201211194000 -0300" channel="TV Chile">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20201211194000 -0300" stop="20201211200000 -0300" channel="TV Chile">
+    <title lang="es">La Chúcara</title>
+  </programme>
+  <programme start="20201211200000 -0300" stop="20201211204500 -0300" channel="TV Chile">
+    <title lang="es">El Regreso</title>
+  </programme>
+  <programme start="20201211204500 -0300" stop="20201211224000 -0300" channel="TV Chile">
+    <title lang="es">24 Horas Central</title>
+  </programme>
+  <programme start="20201211224000 -0300" stop="20201211235000 -0300" channel="TV Chile">
+    <title lang="es">Retro</title>
+  </programme>
+  <programme start="20201211235000 -0300" stop="20201212013000 -0300" channel="TV Chile">
+    <title lang="es">La Chúcara</title>
   </programme>
 </tv>
